@@ -2,14 +2,75 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1545726185487">
+        <mark key="'" line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/config/index.js" timestamp="1545726275732">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="13" />
+        <mark key="^" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1545725761433">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/config/apiUrl" timestamp="1545725848030">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" timestamp="1545725843972">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
+      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
+      <jump line="4" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/config/apiUrl" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" />
+      <jump line="26" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" />
+      <jump line="131" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" />
+      <jump line="112" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" />
+      <jump line="23" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxBSemdouivleeahFw+</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxBSemdouivleeahFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxBSemdouivleeahFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxBSemdouivleeahFw+</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
