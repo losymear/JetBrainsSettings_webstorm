@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/api/transaction.js" timestamp="1545731983414" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/qumianshi/interviewer/VerifyList.vue" timestamp="1545741754071">
         <mark key="[" line="165" column="54" />
         <mark key="]" line="165" column="54" />
@@ -66,7 +65,6 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/modules/user.js" timestamp="1545735224682" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/components/Sidebar/index.vue" timestamp="1545734678169">
         <mark key="[" line="23" column="19" />
       </file>
@@ -130,9 +128,9 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1545737911050">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1546393964180">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="8" column="49" />
+        <mark key="[" line="3" column="69" />
         <mark key="]" line="8" column="68" />
         <mark key="^" line="8" column="68" />
         <mark key="." line="8" column="68" />
