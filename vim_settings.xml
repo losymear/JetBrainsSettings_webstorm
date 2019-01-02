@@ -48,7 +48,7 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/mock/login.js" timestamp="1545739824091">
         <mark key="[" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1545737143676">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1546417436790">
         <mark key="]" line="49" column="14" />
         <mark key="^" line="49" column="14" />
         <mark key="." line="49" column="14" />
@@ -59,6 +59,7 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/components/AppMain.vue" timestamp="1546417717270" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/components/Sidebar/index.vue" timestamp="1545734678169">
         <mark key="[" line="23" column="19" />
       </file>
@@ -97,7 +98,8 @@
         <mark key="^" line="72" column="59" />
         <mark key="." line="72" column="59" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" timestamp="1545725843972">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/build/utils.js" timestamp="1546417540373" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" timestamp="1546417139232">
         <mark key="'" line="112" column="0" />
         <mark key="[" line="8" column="33" />
         <mark key="]" line="21" column="14" />
@@ -125,12 +127,12 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1546394980200">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="69" />
-        <mark key="]" line="8" column="68" />
-        <mark key="^" line="8" column="68" />
-        <mark key="." line="8" column="68" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1546418040854">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="54" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/views/layout/components/AppMain.vue" timestamp="1545732292219">
         <mark key="[" line="16" column="6" />
@@ -140,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
       <jump line="4" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/config/apiUrl" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" />
@@ -155,10 +156,13 @@
       <jump line="108" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/README.zh-CN.md" />
       <jump line="293" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" />
       <jump line="47" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" />
+      <jump line="11" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
+      <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'ye' + 's' === 'yes'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBb5qGG5p6257O75YiX5paH56ugXShodHRwczovL2p1ZWppbi5pbS9wb3N0LzU5MDk3Y2Q3YTIyYjlkMDA2NWZiNjFkMikK</text>
       </register>
       <register name="-" type="4">
         <text>'ye' + 's' === 'yes'</text>
@@ -170,28 +174,28 @@
         <text encoding="base64">ICAgICAgICAgIDxpbWcgOnNyYz0idmVyaWZ5LmlkQ2FyZEJhY2tVcmwiIHdpZHRoPSIzMCUiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">LSBb5qGG5p6257O75YiX5paH56ugXShodHRwczovL2p1ZWppbi5pbS9wb3N0LzU5MDk3Y2Q3YTIyYjlkMDA2NWZiNjFkMikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGVsLWZvcm0taXRlbSBsYWJlbD0i6Lqr5Lu96K+B54Wn54mHIj4K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgPGVsLWZvcm0taXRlbSBsYWJlbD0i6Lqr5Lu96K+B54Wn54mHIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5yb2xlcy5pbmNsdWRlcygnYWRtaW4nKSkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50Um9sZSA9ICdlZGl0b3JEYXNoYm9hcmQnCg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5yb2xlcy5pbmNsdWRlcygnYWRtaW4nKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50Um9sZSA9ICdlZGl0b3JEYXNoYm9hcmQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
