@@ -126,12 +126,12 @@
         <mark key="." line="72" column="59" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/build/utils.js" timestamp="1546417540373" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" timestamp="1546429662633">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" timestamp="1546431677687">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="14" column="64" />
-        <mark key="]" line="14" column="62" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="21" />
         <mark key="^" line="14" column="62" />
-        <mark key="." line="14" column="62" />
+        <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/App.vue" timestamp="1545740085704">
         <mark key="[" line="0" column="0" />
@@ -152,11 +152,11 @@
         <mark key="." line="8" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/qiniu.js" timestamp="1546421040357" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/onlineTest.env.js" timestamp="1546429000365">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="33" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/onlineTest.env.js" timestamp="1546431692171">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="24" />
         <mark key="^" line="3" column="33" />
-        <mark key="." line="3" column="33" />
+        <mark key="." line="3" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1546425537726">
         <mark key="'" line="70" column="0" />
@@ -172,11 +172,11 @@
         <mark key="^" line="29" column="32" />
         <mark key="." line="29" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1546429730343">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1546431681733">
         <mark key="'" line="11" column="6" />
-        <mark key="[" line="32" column="46" />
-        <mark key="]" line="33" column="101" />
-        <mark key="." line="33" column="101" />
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="60" />
+        <mark key="." line="30" column="60" />
         <mark key="^" line="33" column="101" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/views/layout/components/AppMain.vue" timestamp="1545732292219">
