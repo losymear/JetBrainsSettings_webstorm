@@ -95,6 +95,7 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/article.js" timestamp="1546421065677" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/config/apiUrl" timestamp="1545725848030">
         <mark key="'" line="5" column="2" />
         <mark key="[" line="4" column="8" />
@@ -132,6 +133,7 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/qiniu.js" timestamp="1546421040357" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1545735847518">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="19" column="20" />
@@ -139,12 +141,13 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1546420076906">
-        <mark key="'" line="21" column="31" />
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="20" column="11" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/remoteSearch.js" timestamp="1546421045028" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1546421202691">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/views/layout/components/AppMain.vue" timestamp="1545732292219">
         <mark key="[" line="16" column="6" />
@@ -172,6 +175,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
       <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
       <jump line="21" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
+      <jump line="18" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
