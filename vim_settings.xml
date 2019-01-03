@@ -62,17 +62,17 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/App.vue" timestamp="1545740085704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyList.vue" timestamp="1546508222691">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="89" column="17" />
-        <mark key="." line="89" column="17" />
-        <mark key="^" line="89" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyList.vue" timestamp="1546511393378">
+        <mark key="[" line="92" column="30" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/modules/permission.js" timestamp="1546395329689">
-        <mark key="[" line="59" column="68" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="8" column="10" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/modules/permission.js" timestamp="1546511453115">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1546425537726">
         <mark key="'" line="70" column="0" />
@@ -223,7 +223,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3cpCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgc2xvdC1zY29wZT0ic2NvcGUiPgogICAgICAgICAgPGVsLWJ1dHRvbiB0eXBlPSJ0ZXh0IiBzaXplPSJzbWFsbCIgQGNsaWNrPSJ2ZXJpZnkoc2NvcGUucm93KSI+5p+l55yL6K+m5oOFPC9lbC1idXR0b24+CiAgICAgICAgPC90ZW1wbGF0ZT4K</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -232,7 +232,7 @@
         <text>mock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhc2hib2FyZDogJ+S7quihqOebmCcsCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgc2xvdC1zY29wZT0ic2NvcGUiPgogICAgICAgICAgPGVsLWJ1dHRvbiB0eXBlPSJ0ZXh0IiBzaXplPSJzbWFsbCIgQGNsaWNrPSJ2ZXJpZnkoc2NvcGUucm93KSI+5p+l55yL6K+m5oOFPC9lbC1idXR0b24+CiAgICAgICAgPC90ZW1wbGF0ZT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3cpCg==</text>
