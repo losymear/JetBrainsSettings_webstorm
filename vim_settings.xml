@@ -3,19 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/login.js" timestamp="1546433206460">
-        <mark key="'" line="10" column="3" />
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/login.js" timestamp="1546500627220">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="33" column="9" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/main.js" timestamp="1546435090352">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="50" column="6" />
-        <mark key="." line="50" column="6" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/main.js" timestamp="1546501438747">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="44" column="6" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/TODO.md" timestamp="1546427960288">
-        <mark key="[" line="0" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/qumianshi/interviewer/VerifyList.vue" timestamp="1546500946618">
+        <mark key="[" line="140" column="35" />
+        <mark key="]" line="140" column="34" />
+        <mark key="^" line="140" column="34" />
+        <mark key="." line="140" column="34" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/.eslintrc.js" timestamp="1545737469454">
         <mark key="[" line="52" column="19" />
@@ -28,11 +34,6 @@
         <mark key="]" line="8" column="13" />
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/getters.js" timestamp="1545739332045">
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="41" />
-        <mark key="." line="15" column="41" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/permission.js" timestamp="1546420213417">
         <mark key="[" line="20" column="39" />
@@ -52,19 +53,19 @@
         <mark key="^" line="319" column="8" />
         <mark key="." line="319" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerVerify.js" timestamp="1546433261822">
-        <mark key="'" line="11" column="6" />
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="23" column="8" />
-        <mark key="^" line="23" column="8" />
-        <mark key="." line="23" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerVerify.js" timestamp="1546501054261">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1546434849042">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1546501139629">
         <mark key="'" line="47" column="21" />
-        <mark key="[" line="302" column="30" />
-        <mark key="]" line="302" column="27" />
-        <mark key="^" line="302" column="27" />
-        <mark key="." line="302" column="27" />
+        <mark key="[" line="293" column="41" />
+        <mark key="]" line="293" column="41" />
+        <mark key="^" line="299" column="27" />
+        <mark key="." line="293" column="41" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/mock/login.js" timestamp="1545739824091">
         <mark key="[" line="24" column="14" />
@@ -80,6 +81,12 @@
         <mark key="]" line="3" column="36" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/login/index.vue" timestamp="1546500890714">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="125" column="63" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/config/index.js" timestamp="1545726275732">
         <mark key="[" line="18" column="14" />
@@ -103,11 +110,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/qumianshi/interviewer/VerifyInfo.vue" timestamp="1546434220805">
-        <mark key="[" line="60" column="45" />
-        <mark key="]" line="64" column="6" />
-        <mark key="^" line="64" column="6" />
-        <mark key="." line="64" column="6" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/qumianshi/interviewer/VerifyInfo.vue" timestamp="1546501104872">
+        <mark key="[" line="291" column="20" />
+        <mark key="]" line="317" column="40" />
+        <mark key="^" line="317" column="40" />
+        <mark key="." line="317" column="40" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/dev.env.js" timestamp="1545732114843">
         <mark key="[" line="5" column="0" />
@@ -116,8 +123,8 @@
         <mark key="." line="4" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/article.js" timestamp="1546421065677" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/config/apiUrl" timestamp="1546433790966">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/config/apiUrl" timestamp="1546500377195">
+        <mark key="[" line="5" column="12" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -139,9 +146,8 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/App.vue" timestamp="1545740085704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyList.vue" timestamp="1546433043486">
-        <mark key="'" line="142" column="43" />
-        <mark key="[" line="139" column="11" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyList.vue" timestamp="1546501132020">
+        <mark key="[" line="140" column="35" />
         <mark key="]" line="139" column="11" />
         <mark key="." line="139" column="11" />
         <mark key="^" line="139" column="11" />
@@ -217,13 +223,16 @@
       <jump line="11" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerVerify.js" />
       <jump line="67" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/request.js" />
       <jump line="82" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/request.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/login.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/main.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcihWdWUuJHJvdXRlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
@@ -232,31 +241,34 @@
         <text encoding="base64">aW1wb3J0IHJvdXRlciBmcm9tICcuL3JvdXRlcicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcihWdWUuJHJvdXRlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
+        <text encoding="base64">d2luZG93LnVzZXJJZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IucmVzcG9uc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">VnVlLnByb3RvdHlwZS5BUEkgPSBhcGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaW50ZXJWaWV3ZXJWZXJpZnlIYW5kbGU6ICcvYXBpL2ludGVydmlld2VyL3ZlcmlmeS9oYW5kbGUvcmVzdWx0Jwo=</text>
+        <text encoding="base64">aW1wb3J0IGFwaSBmcm9tICcuL2NvbmZpZy9hcGlVcmwnCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGludGVydmlldzogewo=</text>
+      <register name="7" type="4">
+        <text>, {
+              'id': self.$cookies.get('token').split('-')[0],
+              'token': self.$cookies.get('token').split('-')[1],
+            }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW50ZXJWaWV3ZXJWZXJpZnlIYW5kbGU6ICcvaW50ZXJ2aWV3ZXIvdmVyaWZ5L2hhbmRsZS9yZXN1bGt0Jwo=</text>
+        <text encoding="base64">cmVxdWVzdC5qc+iDveWQpue7n+S4gOWkhOeQhuivt+axgueahHRva2VuPyDkvJjlhYjnuqfkvY4K</text>
       </register>
     </registers>
     <search>
