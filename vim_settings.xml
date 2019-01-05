@@ -33,6 +33,13 @@
         <mark key="." line="38" column="65" />
         <mark key="^" line="38" column="65" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" timestamp="1546668922782">
+        <mark key="'" line="11" column="26" />
+        <mark key="[" line="209" column="18" />
+        <mark key="]" line="209" column="17" />
+        <mark key="." line="209" column="17" />
+        <mark key="^" line="209" column="17" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/mock/login.js" timestamp="1545739824091">
         <mark key="[" line="24" column="14" />
       </file>
@@ -97,12 +104,12 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1546587038908">
-        <mark key="'" line="29" column="3" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="19" />
-        <mark key="." line="37" column="19" />
-        <mark key="^" line="37" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1546667785118">
+        <mark key="'" line="10" column="30" />
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="41" column="53" />
+        <mark key="." line="41" column="53" />
+        <mark key="^" line="41" column="53" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/views/layout/components/AppMain.vue" timestamp="1545732292219">
         <mark key="[" line="16" column="6" />
@@ -310,20 +317,24 @@
       <jump line="12" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="157" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
       <jump line="16" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
-      <jump line="11" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="17" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/banner.js" />
       <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/banner.js" />
       <jump line="19" column="73" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="25" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="87" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
       <jump line="32" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/banner.js" />
+      <jump line="10" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
+      <jump line="122" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
+      <jump line="119" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
+      <jump line="142" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
+      <jump line="11" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIOaBouWkjeS/ruaUueeKtuaAgQogICAgICAgICAgc2VsZi5iYW5uZXJHcm91cERhdGEuc3BsaWNlKGluZGV4LCAxLCBzZWxmLiRsb2Rhc2guY2xvbmVEZWVwKHNlbGYuY3VycmVudEVkaXRlZEdyb3VwKSkK</text>
+      <register name="&quot;" type="4">
+        <text>src</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>fix</text>
@@ -332,31 +343,31 @@
         <text encoding="base64">ICAgICAgICAgIC8vIOaBouWkjeS/ruaUueeKtuaAgQogICAgICAgICAgc2VsZi5iYW5uZXJHcm91cERhdGEuc3BsaWNlKGluZGV4LCAxLCBzZWxmLiRsb2Rhc2guY2xvbmVEZWVwKHNlbGYuY3VycmVudEVkaXRlZEdyb3VwKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj57e319PC9zcGFuPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOm1heGxlbmd0aD0iNDAiCg==</text>
+        <text encoding="base64">ICAgICAgdmlld2VyLnNob3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOm1heGxlbmd0aD0iNDAiCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgdmlld2VyID0gdGhpcy4kZWwucXVlcnlTZWxlY3RvcignLmltYWdlcycpLiR2aWV3ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IoZSkK</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">VnVlLnVzZShWdWVyLCB7IG5hbWU6ICd2dWVyJyB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZXIgZnJvbSAndi12aWV3ZXInCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZUVkaXRDYW5jZWwoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZUVkaXQoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5tZXNzYWdlLnNwbGl0KCcnKS5yZXZlcnNlKCkuam9pbignJykK</text>
       </register>
     </registers>
     <search>
