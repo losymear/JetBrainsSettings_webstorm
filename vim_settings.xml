@@ -48,12 +48,12 @@
         <mark key="^" line="125" column="63" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" timestamp="1546605478514">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" timestamp="1546654832407">
         <mark key="'" line="162" column="22" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="70" />
-        <mark key="." line="165" column="64" />
-        <mark key="^" line="165" column="64" />
+        <mark key="[" line="165" column="58" />
+        <mark key="]" line="165" column="59" />
+        <mark key="." line="165" column="59" />
+        <mark key="^" line="165" column="59" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/adminTemplateRouter.js" timestamp="1546506481756">
         <mark key="[" line="13" column="4" />
@@ -314,11 +314,11 @@
       <jump line="162" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>groupId</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>groupId</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
