@@ -80,12 +80,12 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/mock/article.js" timestamp="1546670899534" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/nested/menu1/index.vue" timestamp="1546419595746" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/qiniu.js" timestamp="1546421040357" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1546829690953">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1546862835404">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="7" />
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="34" />
         <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
+        <mark key="." line="14" column="34" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1546673081382">
         <mark key="'" line="15" column="0" />
@@ -188,13 +188,20 @@
         <mark key="]" line="14" column="69" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/article.js" timestamp="1546421065677" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" timestamp="1546862892319">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="14" column="62" />
+        <mark key="." line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/remoteSearch.js" timestamp="1546421045028" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/request.js" timestamp="1546859484660">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/request.js" timestamp="1546862393020">
         <mark key="'" line="82" column="4" />
         <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="15" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/dashboard/editor/index.vue" timestamp="1546672487561">
         <mark key="[" line="36" column="0" />
@@ -305,11 +312,11 @@
       <jump line="15" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>8080</text>
       </register>
       <register name="-" type="4">
-        <text>uniqueId</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>fix</text>
