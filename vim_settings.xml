@@ -87,7 +87,7 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1546675632015">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1546829690953">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="7" />
@@ -388,6 +388,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
