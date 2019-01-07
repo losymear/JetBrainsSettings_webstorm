@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1546833264154">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="26" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1546841824400">
+        <mark key="'" line="15" column="21" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="16" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/qumianshi/interviewer/VerifyList.vue" timestamp="1546500946618">
         <mark key="[" line="140" column="35" />
@@ -34,7 +34,7 @@
         <mark key="." line="38" column="65" />
         <mark key="^" line="38" column="65" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" timestamp="1546833205189">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" timestamp="1546841813585">
         <mark key="'" line="32" column="35" />
         <mark key="[" line="165" column="55" />
         <mark key="]" line="165" column="55" />
@@ -300,46 +300,49 @@
       <jump line="108" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
       <jump line="32" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
+      <jump line="12" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
+      <jump line="15" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>描述</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>描述</text>
+        <text>uniqueId</text>
       </register>
       <register name="/" type="4">
         <text>fix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGVsLWZvcm0taXRlbSBsYWJlbD0i5o+P6L+wIiBwcm9wPSJkZXNjIj4KICAgICAgICA8ZWwtaW5wdXQgdi1tb2RlbD0icnVsZUZvcm0uZGVzY3JpcHRpb24iIHR5cGU9InRleHRhcmVhIi8+CiAgICAgIDwvZWwtZm9ybS1pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgPGVsLWZvcm0taXRlbSBsYWJlbD0i5Zu+54mH6Lez6L2s5Zyw5Z2AIiBwcm9wPSJoNVVybCI+CiAgICAgICAgPGVsLWlucHV0IHYtbW9kZWw9InJ1bGVGb3JtLmg1VXJsIi8+CiAgICAgIDwvZWwtZm9ybS1pdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGVsLWZvcm0taXRlbSA6bWF4bGVuZ3RoPSI0MCIgbGFiZWw9ImJhbm5lcue7hCIgcHJvcD0iZ3JvdXBJZCI+CiAgICAgICAgPGVsLWlucHV0IHYtbW9kZWw9InJ1bGVGb3JtLmRlc2NyaXB0aW9uIiBzdHlsZT0id2lkdGg6IDEwMHB4Ii8+CiAgICAgIDwvZWwtZm9ybS1pdGVtID4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogQHd5IOWinuWKoOWbvueJhwo=</text>
+        <text encoding="base64">ICAgIHt7IGdyb3VwSWQgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ0bXAiLz4K</text>
+        <text encoding="base64">ICAgICAgPC9lbC1mb3JtLWl0ZW0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZWwtaW5wdXQgdi1tb2RlbD0icnVsZUZvcm0uaDVVcmwiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZSB9IGZyb20gJ2VsZW1lbnQtdWknCg==</text>
+        <text encoding="base64">ICAgICAgPGVsLWZvcm0taXRlbSBsYWJlbD0i5Zu+54mH6Lez6L2s5Zyw5Z2AIiBwcm9wPSJoNVVybCI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZSB9IGZyb20gJ2VsZW1lbnQtdWknCg==</text>
+        <text encoding="base64">ICAgICAgPGVsLWZvcm0taXRlbSA6bWF4bGVuZ3RoPSI0MCIgbGFiZWw9ImJhbm5lcue7hCIgcHJvcD0iZ3JvdXBJZCI+CiAgICAgICAgPGVsLWlucHV0IHYtbW9kZWw9InJ1bGVGb3JtLmRlc2NyaXB0aW9uIiBzdHlsZT0id2lkdGg6IDEwMHB4Ii8+CiAgICAgIDwvZWwtZm9ybS1pdGVtID4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogQHd5IOWinuWKoOWbvueJhwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ0bXAiLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogQHd5IOWIoOmZpOWSjOS/ruaUue+8jOWIoOmZpOWQjuWIt+aWsO+8jOmcgOimgeS4gOS4quaYvuekuueql+WPo+i/mOaYr+ebtOaOpeWwhuWbvueJh+aUvuWcqHRhYmxl5Lit54K55Ye75pS+5aSn77yfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
