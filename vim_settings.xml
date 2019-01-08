@@ -120,6 +120,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/onlinetest.env.js" timestamp="1546919576114">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/main.js" timestamp="1546676754811">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="19" column="0" />
@@ -333,10 +339,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>mrboxfood</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>mrboxfood</text>
       </register>
       <register name="/" type="4">
         <text>fix</text>
