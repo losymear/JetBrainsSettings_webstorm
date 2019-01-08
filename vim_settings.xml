@@ -98,10 +98,6 @@
         <mark key="." line="72" column="59" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/build/utils.js" timestamp="1546417540373" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/modules/components.js" timestamp="1546603174476">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="24" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyList.vue" timestamp="1546605471529">
         <mark key="'" line="146" column="59" />
         <mark key="[" line="144" column="0" />
@@ -158,10 +154,6 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/modules/table.js" timestamp="1546418883469">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="4" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/onlinetest.env.js" timestamp="1546919576114">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="35" />
@@ -207,12 +199,12 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1546605518561">
-        <mark key="'" line="222" column="24" />
-        <mark key="[" line="154" column="35" />
-        <mark key="]" line="236" column="22" />
-        <mark key="^" line="120" column="45" />
-        <mark key="." line="120" column="45" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1546941223446">
+        <mark key="'" line="225" column="24" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="51" column="23" />
+        <mark key="^" line="123" column="45" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1546939047429">
         <mark key="'" line="127" column="0" />
@@ -257,10 +249,6 @@
         <mark key="]" line="317" column="40" />
         <mark key="^" line="317" column="40" />
         <mark key="." line="317" column="40" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/permission/page.vue" timestamp="1546832912311">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="69" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/article.js" timestamp="1546421065677" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" timestamp="1546862892319">
@@ -400,8 +388,8 @@
       <jump line="126" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lodash</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPGVsLWZvcm0taXRlbSBsYWJlbD0i5Z+f5ZCN6YKu566xIiBzdHlsZT0id2lkdGg6NDUlIj4KICAgICAgICA8ZWwtaW5wdXQgdi1tb2RlbD0idmVyaWZ5LmNvcnBNYWlsIiA6ZGlzYWJsZWQ9ImlucHV0RGlzcGxheSIgc3R5bGU9IndpZHRoOiAzMDBweCIvPgogICAgICA8L2VsLWZvcm0taXRlbT4K</text>
       </register>
       <register name="-" type="4">
         <text>lodash</text>
@@ -410,7 +398,7 @@
         <text>fix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">T2JqZWN0LmRlZmluZVByb3BlcnR5KFZ1ZS5wcm90b3R5cGUsICckbG9kYXNoJywgeyB2YWx1ZTogbG9kYXNoIH0pCg==</text>
+        <text encoding="base64">ICAgICAgPGVsLWZvcm0taXRlbSBsYWJlbD0i5Z+f5ZCN6YKu566xIiBzdHlsZT0id2lkdGg6NDUlIj4KICAgICAgICA8ZWwtaW5wdXQgdi1tb2RlbD0idmVyaWZ5LmNvcnBNYWlsIiA6ZGlzYWJsZWQ9ImlucHV0RGlzcGxheSIgc3R5bGU9IndpZHRoOiAzMDBweCIvPgogICAgICA8L2VsLWZvcm0taXRlbT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHsgcGF0aDogJyonLCByZWRpcmVjdDogJy80MDQnLCBoaWRkZW46IHRydWUgfQo=</text>
