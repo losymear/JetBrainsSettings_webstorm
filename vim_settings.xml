@@ -222,12 +222,12 @@
         <mark key="^" line="14" column="62" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/request.js" timestamp="1547103664215">
-        <mark key="'" line="82" column="4" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="26" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/request.js" timestamp="1547108469487">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="79" column="16" />
+        <mark key="]" line="79" column="35" />
+        <mark key="." line="79" column="35" />
+        <mark key="^" line="79" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/dashboard/editor/index.vue" timestamp="1546672487561">
         <mark key="[" line="36" column="0" />
@@ -351,16 +351,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>banner</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>banner</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>fix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi4kcm91dGVyLnB1c2goeyBwYXRoOiAnL2Jhbm5lci9uZXdCYW5uZXIvJyArIHNlbGYuZ3JvdXBJZCB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yLnJlc3BvbnNlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKQo=</text>
