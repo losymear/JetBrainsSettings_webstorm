@@ -3,13 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1547091452956">
-        <mark key="'" line="88" column="20" />
-        <mark key="[" line="98" column="23" />
-        <mark key="k" line="57" column="10" />
-        <mark key="]" line="99" column="25" />
-        <mark key="^" line="99" column="25" />
-        <mark key="." line="99" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1547100670942">
+        <mark key="]" line="101" column="16" />
+        <mark key="^" line="101" column="16" />
+        <mark key="." line="101" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/qumianshi/interviewer/VerifyList.vue" timestamp="1546500946618">
         <mark key="[" line="140" column="35" />
@@ -181,12 +178,12 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/main.js" timestamp="1547089975666">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="22" column="27" />
-        <mark key="." line="22" column="27" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/main.js" timestamp="1547099686839">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="42" column="39" />
+        <mark key="]" line="42" column="62" />
+        <mark key="^" line="42" column="62" />
+        <mark key="." line="42" column="62" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/config/dev.env.js" timestamp="1545732109250">
         <mark key="[" line="5" column="0" />
@@ -206,12 +203,12 @@
         <mark key="^" line="319" column="8" />
         <mark key="." line="319" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/banner.js" timestamp="1546675770950">
-        <mark key="'" line="35" column="17" />
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="52" column="52" />
-        <mark key="^" line="52" column="52" />
-        <mark key="." line="52" column="52" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/banner.js" timestamp="1547100610720">
+        <mark key="'" line="3" column="13" />
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="50" column="23" />
+        <mark key="^" line="50" column="23" />
+        <mark key="." line="50" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerVerify.js" timestamp="1546581672689">
         <mark key="'" line="10" column="6" />
@@ -420,46 +417,47 @@
       <jump line="16" column="49" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
       <jump line="17" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
       <jump line="88" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
+      <jump line="3" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/banner.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogQHd56ZyA6KaB5LiA5Liq5LiK5Lyg5o6l5Y+jCg==</text>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text>groupId</text>
       </register>
       <register name="/" type="4">
         <text>fix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGVsLWZvcm0taXRlbT4KICAgICAgICA8ZWwtYnV0dG9uIHR5cGU9InByaW1hcnkiIEBjbGljaz0iY3JlYXRlTmV3YmFubmVyR3JvdXAiPuWIm+W7ujwvZWwtYnV0dG9uPgogICAgICA8L2VsLWZvcm0taXRlbT4K</text>
+        <text encoding="base64">T2JqZWN0LmRlZmluZVByb3BlcnR5KFZ1ZS5wcm90b3R5cGUsICckbG9kYXNoJywgeyB2YWx1ZTogbG9kYXNoIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogQHd56ZyA6KaB5LiA5Liq5LiK5Lyg5o6l5Y+jCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogQHd5IOiuv+mXruWQjuWPsOacjeWKoeWZqAo=</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZU5ld2Jhbm5lckdyb3VwKCkgewo=</text>
+        <text encoding="base64">ICAgIC8vIOijgeWJquebm+S4lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMuZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZpZWxkOiAnICsgZmllbGQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW46ICcnCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvbkRhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zaG93ID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tIHVwbG9hZCBzdWNjZXNzIC0tLS0tLS0tJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXBsb2FkZWRVcmw6ICcnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zOnsKICAgICAgICAKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHBhbi10aHVtYiA6aW1hZ2U9ImltYWdlIi8+Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
     </registers>
     <search>
