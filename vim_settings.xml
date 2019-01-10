@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1547103743181">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1547106955815">
+        <mark key="'" line="100" column="5" />
         <mark key="[" line="132" column="58" />
         <mark key="]" line="132" column="57" />
         <mark key="." line="132" column="57" />
@@ -346,6 +347,7 @@
       <jump line="17" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
       <jump line="88" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
       <jump line="3" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/banner.js" />
+      <jump line="100" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
