@@ -53,12 +53,12 @@
         <mark key="." line="11" column="85" />
         <mark key="^" line="11" column="85" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" timestamp="1547209628404">
-        <mark key="'" line="184" column="15" />
-        <mark key="[" line="229" column="10" />
-        <mark key="]" line="195" column="14" />
-        <mark key="." line="195" column="19" />
-        <mark key="^" line="31" column="33" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" timestamp="1547210561310">
+        <mark key="'" line="176" column="15" />
+        <mark key="[" line="98" column="61" />
+        <mark key="]" line="16" column="52" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="16" column="52" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/mock/login.js" timestamp="1545739824091">
         <mark key="[" line="24" column="14" />
@@ -449,7 +449,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mZXRjaENvbmZpZ0xpc3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>此操作将会删除banner，是否继续？</text>
@@ -461,31 +461,31 @@
         <text encoding="base64">ICAgICAgICAgIGR1cmF0aW9uOiAxMDAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mZXRjaENvbmZpZ0xpc3QoKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzog5Yi35paw6aG16Z2iCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgaWYgKHNlbGYuZWRpdExvY2spIHsKICAgICAgICBzZWxmLiRtZXNzYWdlKHsKICAgICAgICAgIG1lc3NhZ2U6ICfor7fnrYnkuIrkuIDmrKHnvJbovpHlrozmiJAnLAogICAgICAgICAgdHlwZTogJ3dhcm4nLAogICAgICAgICAgZHVyYXRpb246IDEuNSAqIDEwMDAKICAgICAgICB9KQogICAgICAgIHJldHVybgogICAgICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy8gaWYgKHNlbGYuZWRpdExvY2spIHsKICAgICAgLy8gICBzZWxmLiRtZXNzYWdlKHsKICAgICAgLy8gICAgIG1lc3NhZ2U6ICfor7fnrYnkuIrkuIDmrKHnvJbovpHlrozmiJAnLAogICAgICAvLyAgICAgdHlwZTogJ3dhcm4nLAogICAgICAvLyAgICAgZHVyYXRpb246IDEuNSAqIDEwMDAKICAgICAgLy8gICB9KQogICAgICAvLyAgIHJldHVybgogICAgICAvLyB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mZXRjaENvbmZpZ0xpc3QoKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzog5a6M5oiQ5o+Q56S6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzog5Yi35paw6aG16Z2iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+54K55Ye7IuaPkOS6pCLmjInpkq7miY3og73kv67mlLnlkI7lj7DphY3nva48L2xpPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNlbGYuZWRpdExvY2spIHsKICAgICAgICBzZWxmLiRtZXNzYWdlKHsKICAgICAgICAgIG1lc3NhZ2U6ICfor7fnrYnkuIrkuIDmrKHnvJbovpHlrozmiJAnLAogICAgICAgICAgdHlwZTogJ3dhcm4nLAogICAgICAgICAgZHVyYXRpb246IDEuNSAqIDEwMDAKICAgICAgICB9KQogICAgICAgIHJldHVybgogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzog5a6M5oiQ5o+Q56S6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNlbGYuZWRpdExvY2spIHsKICAgICAgICBzZWxmLiRtZXNzYWdlKHsKICAgICAgICAgIG1lc3NhZ2U6ICfor7fnrYnkuIrkuIDmrKHnvJbovpHlrozmiJAnLAogICAgICAgICAgdHlwZTogJ3dhcm4nLAogICAgICAgICAgZHVyYXRpb246IDEuNSAqIDEwMDAKICAgICAgICB9KQogICAgICAgIHJldHVybgogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
     </registers>
     <search>
