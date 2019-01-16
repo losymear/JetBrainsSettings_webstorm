@@ -5,4 +5,11 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
+  <action id="PX2REMWithFileID">
+    <keyboard-shortcut first-keystroke="ctrl meta alt d" />
+  </action>
+  <action id="WebStormPX2REMToolsID">
+    <keyboard-shortcut first-keystroke="shift d" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
+  </action>
 </keymap>
