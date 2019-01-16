@@ -10,11 +10,11 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/index.html" timestamp="1547608630009">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="104" column="8" />
-        <mark key="^" line="104" column="8" />
-        <mark key="." line="104" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/index.html" timestamp="1547609540240">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+        <mark key="^" line="22" column="9" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/qumianshi/interviewer/VerifyList.vue" timestamp="1546500946618">
         <mark key="[" line="140" column="35" />
@@ -461,7 +461,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi5zdGF0aWNmaWxlLm9yZy9qcXVlcnkvMS4xMS4xL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>此操作将会删除banner，是否继续？</text>
@@ -473,31 +473,31 @@
         <text encoding="base64">ICA8ZGl2IHN0eWxlPSJtYXJnaW46IDIwcHggNTBweCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi5zdGF0aWNmaWxlLm9yZy9qcXVlcnkvMS4xMS4xL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGhkcmF3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHdpdGhkcmF3Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgaWYgKHNlbGYuZWRpdExvY2spIHsKICAgICAgICBzZWxmLiRtZXNzYWdlKHsKICAgICAgICAgIG1lc3NhZ2U6ICfor7fnrYnkuIrkuIDmrKHnvJbovpHlrozmiJAnLAogICAgICAgICAgdHlwZTogJ3dhcm4nLAogICAgICAgICAgZHVyYXRpb246IDEuNSAqIDEwMDAKICAgICAgICB9KQogICAgICAgIHJldHVybgogICAgICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLy8gaWYgKHNlbGYuZWRpdExvY2spIHsKICAgICAgLy8gICBzZWxmLiRtZXNzYWdlKHsKICAgICAgLy8gICAgIG1lc3NhZ2U6ICfor7fnrYnkuIrkuIDmrKHnvJbovpHlrozmiJAnLAogICAgICAvLyAgICAgdHlwZTogJ3dhcm4nLAogICAgICAvLyAgICAgZHVyYXRpb246IDEuNSAqIDEwMDAKICAgICAgLy8gICB9KQogICAgICAvLyAgIHJldHVybgogICAgICAvLyB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mZXRjaENvbmZpZ0xpc3QoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzog5Yi35paw6aG16Z2iCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzog5Yi35paw6aG16Z2iCg==</text>
       </register>
     </registers>
     <search>
