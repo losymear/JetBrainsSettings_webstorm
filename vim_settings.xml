@@ -10,6 +10,12 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/index.html" timestamp="1547608630009">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="104" column="8" />
+        <mark key="^" line="104" column="8" />
+        <mark key="." line="104" column="8" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/qumianshi/interviewer/VerifyList.vue" timestamp="1546500946618">
         <mark key="[" line="140" column="35" />
         <mark key="]" line="140" column="34" />
