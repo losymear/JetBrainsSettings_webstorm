@@ -6,4 +6,5 @@
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
   <action id="PX2REMWithFileID" />
+  <action id="WebStormPX2REMToolsID" />
 </keymap>
