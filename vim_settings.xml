@@ -10,11 +10,10 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/index.html" timestamp="1547610426546">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/index.html" timestamp="1547618891580">
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/qumianshi/interviewer/VerifyList.vue" timestamp="1546500946618">
         <mark key="[" line="140" column="35" />
@@ -305,6 +304,11 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/article.js" timestamp="1547198545735">
         <mark key="[" line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/config/apiUrl" timestamp="1546500377195">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" timestamp="1547211557714">
         <mark key="'" line="112" column="0" />
         <mark key="[" line="10" column="14" />
@@ -461,43 +465,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi5zdGF0aWNmaWxlLm9yZy9qcXVlcnkvMS4xMS4xL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIC5tYWluewogICAgICAgIHdpZHRoOiAxMHB4Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>此操作将会删除banner，是否继续？</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>configList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8ZGl2IHN0eWxlPSJtYXJnaW46IDIwcHggNTBweCI+Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iY3NzL3N0eWxlLmNzcyIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi5zdGF0aWNmaWxlLm9yZy9qcXVlcnkvMS4xMS4xL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIC5tYWluewogICAgICAgIHdpZHRoOiAxMHB4Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpdGhkcmF3Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgaWYgKHNlbGYuZWRpdExvY2spIHsKICAgICAgICBzZWxmLiRtZXNzYWdlKHsKICAgICAgICAgIG1lc3NhZ2U6ICfor7fnrYnkuIrkuIDmrKHnvJbovpHlrozmiJAnLAogICAgICAgICAgdHlwZTogJ3dhcm4nLAogICAgICAgICAgZHVyYXRpb246IDEuNSAqIDEwMDAKICAgICAgICB9KQogICAgICAgIHJldHVybgogICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxtZXRhIGNvbnRlbnQ9InRlbGVwaG9uZT1ubyxlbWFpbD1ubyIgbmFtZT0iZm9ybWF0LWRldGVjdGlvbiI+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InJlbmRlcmVyIiBjb250ZW50PSJ3ZWJraXQiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgKHNlbGYuZWRpdExvY2spIHsKICAgICAgLy8gICBzZWxmLiRtZXNzYWdlKHsKICAgICAgLy8gICAgIG1lc3NhZ2U6ICfor7fnrYnkuIrkuIDmrKHnvJbovpHlrozmiJAnLAogICAgICAvLyAgICAgdHlwZTogJ3dhcm4nLAogICAgICAvLyAgICAgZHVyYXRpb246IDEuNSAqIDEwMDAKICAgICAgLy8gICB9KQogICAgICAvLyAgIHJldHVybgogICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9InV0Zi04Ii8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mZXRjaENvbmZpZ0xpc3QoKQo=</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IgogICAgICAgICAgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEsIG1heGltdW0tc2NhbGU9MSwgbWluaW11bS1zY2FsZT0xLCB1c2VyLXNjYWxhYmxlPW5vIi8+CiAgICA8bWV0YSBuYW1lPSJmb3JtYXQtZGV0ZWN0aW9uIiBjb250ZW50PSJ0ZWxlcGhvbmU9bm8iLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
+        <text encoding="base64">ICAgIDxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iSUU9ZWRnZSwgY2hyb21lPTEiLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzog5Yi35paw6aG16Z2iCg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iSUU9ZWRnZSwgY2hyb21lPTEiLz4K</text>
       </register>
     </registers>
     <search>
