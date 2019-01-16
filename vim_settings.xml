@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/package.json" timestamp="1547639084550">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/package.json" timestamp="1547660668211">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="82" />
+        <mark key="." line="7" column="82" />
+        <mark key="^" line="7" column="82" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1547643259243">
         <mark key="'" line="154" column="0" />
@@ -115,12 +116,12 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/App.vue" timestamp="1545740085704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1547658662527">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1547660354525">
         <mark key="'" line="20" column="16" />
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="36" column="30" />
-        <mark key="." line="36" column="30" />
-        <mark key="^" line="36" column="30" />
+        <mark key="[" line="152" column="44" />
+        <mark key="]" line="152" column="44" />
+        <mark key="." line="152" column="44" />
+        <mark key="^" line="152" column="44" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyList.vue" timestamp="1546605471529">
         <mark key="'" line="146" column="59" />
@@ -312,6 +313,13 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/static/css/reset.css" timestamp="1547660972445">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="55" column="10" />
+        <mark key="]" line="55" column="5" />
+        <mark key="^" line="55" column="5" />
+        <mark key="." line="55" column="5" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/Layout.vue" timestamp="1546434638825">
         <mark key="[" line="13" column="40" />
       </file>
@@ -412,7 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
       <jump line="131" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
       <jump line="59" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
       <jump line="58" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
@@ -512,6 +519,7 @@
       <jump line="183" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" />
       <jump line="136" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" />
       <jump line="20" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" />
+      <jump line="18" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/static/css/reset.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -521,7 +529,7 @@
         <text>response</text>
       </register>
       <register name="/" type="4">
-        <text>configList</text>
+        <text>button</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZXNEYXRhW2BpZENhcmRVcmwke2l9YF0gPSBudWxsOwo=</text>
@@ -555,9 +563,9 @@
       </register>
     </registers>
     <search>
-      <last-search>configList</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern>configList</last-pattern>
+      <last-pattern>button</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -568,6 +576,7 @@
         <entry>fix</entry>
         <entry>seen</entry>
         <entry>configList</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd />
       <history-expr />
