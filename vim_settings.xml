@@ -16,6 +16,13 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/activity/CumulativeReward.vue" timestamp="1547731886434">
+        <mark key="'" line="3" column="5" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/index.html" timestamp="1547655703240">
         <mark key="'" line="24" column="18" />
         <mark key="[" line="47" column="44" />
@@ -282,12 +289,12 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/home/Index.vue" timestamp="1546506863547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1547122219449">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="111" column="1" />
-        <mark key="]" line="109" column="26" />
-        <mark key="." line="109" column="26" />
-        <mark key="^" line="109" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1547731822867">
+        <mark key="'" line="154" column="0" />
+        <mark key="[" line="138" column="17" />
+        <mark key="]" line="139" column="18" />
+        <mark key="^" line="139" column="18" />
+        <mark key="." line="139" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/prod.env.js" timestamp="1546428882004">
         <mark key="[" line="3" column="15" />
@@ -338,9 +345,9 @@
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/Withdraw.vue" timestamp="1547727527812">
         <mark key="[" line="13" column="48" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-        <mark key="^" line="16" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1547644016234">
         <mark key="[" line="0" column="0" />
@@ -398,9 +405,9 @@
         <mark key="^" line="181" column="22" />
         <mark key="." line="181" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/dashboard/editor/index.vue" timestamp="1547120061863">
-        <mark key="[" line="36" column="6" />
-        <mark key="]" line="19" column="33" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/dashboard/editor/index.vue" timestamp="1547731880549">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="48" />
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
       </file>
@@ -420,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
       <jump line="59" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
       <jump line="58" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
       <jump line="100" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
@@ -520,10 +526,11 @@
       <jump line="136" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" />
       <jump line="20" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" />
       <jump line="18" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/static/css/reset.css" />
+      <jump line="3" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/activity/CumulativeReward.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IOaBouWkjQo=</text>
+        <text encoding="base64">PHN0eWxlIHJlbD0ic3R5bGVzaGVldC9zY3NzIiBsYW5nPSJzY3NzIiBzY29wZWQ+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>response</text>
@@ -532,7 +539,7 @@
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZXNEYXRhW2BpZENhcmRVcmwke2l9YF0gPSBudWxsOwo=</text>
+        <text encoding="base64">PHN0eWxlIHJlbD0ic3R5bGVzaGVldC9zY3NzIiBsYW5nPSJzY3NzIiBzY29wZWQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IOaBouWkjQo=</text>
