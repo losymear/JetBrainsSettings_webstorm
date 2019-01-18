@@ -23,12 +23,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/index.html" timestamp="1547655703240">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/index.html" timestamp="1547784264105">
         <mark key="'" line="24" column="18" />
-        <mark key="[" line="47" column="44" />
-        <mark key="]" line="46" column="44" />
-        <mark key="." line="46" column="44" />
-        <mark key="^" line="46" column="44" />
+        <mark key="[" line="85" column="57" />
+        <mark key="]" line="85" column="55" />
+        <mark key="." line="85" column="55" />
+        <mark key="^" line="85" column="55" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/qumianshi/interviewer/VerifyList.vue" timestamp="1546500946618">
         <mark key="[" line="140" column="35" />
@@ -123,12 +123,12 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/App.vue" timestamp="1545740085704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1547660354525">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1547784275935">
         <mark key="'" line="20" column="16" />
-        <mark key="[" line="152" column="44" />
-        <mark key="]" line="152" column="44" />
-        <mark key="." line="152" column="44" />
-        <mark key="^" line="152" column="44" />
+        <mark key="[" line="193" column="76" />
+        <mark key="]" line="193" column="78" />
+        <mark key="." line="193" column="78" />
+        <mark key="^" line="193" column="78" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyList.vue" timestamp="1546605471529">
         <mark key="'" line="146" column="59" />
