@@ -279,22 +279,22 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1547211783966">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1547779402219">
         <mark key="'" line="226" column="24" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="52" column="97" />
-        <mark key="^" line="52" column="97" />
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="25" column="55" />
+        <mark key="." line="25" column="55" />
+        <mark key="^" line="10" column="71" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/home/Index.vue" timestamp="1546506863547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1547731822867">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="138" column="17" />
-        <mark key="]" line="139" column="18" />
-        <mark key="^" line="139" column="18" />
-        <mark key="." line="139" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1547779067494">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="101" column="24" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/prod.env.js" timestamp="1546428882004">
         <mark key="[" line="3" column="15" />
@@ -529,11 +529,11 @@
       <jump line="3" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/activity/CumulativeReward.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHN0eWxlIHJlbD0ic3R5bGVzaGVldC9zY3NzIiBsYW5nPSJzY3NzIiBzY29wZWQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>inputDisplay</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>inputDisplay</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
