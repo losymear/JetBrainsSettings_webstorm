@@ -41,7 +41,7 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/mock/login.js" timestamp="1545739824091">
         <mark key="[" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" timestamp="1547877332898">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" timestamp="1547880067428">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="68" />
       </file>
@@ -127,11 +127,11 @@
         <mark key="^" line="42" column="62" />
         <mark key="." line="42" column="62" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1547877077713">
-        <mark key="[" line="35" column="22" />
-        <mark key="]" line="35" column="17" />
-        <mark key="^" line="35" column="17" />
-        <mark key="." line="35" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1547880984149">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="36" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/index.js" timestamp="1547785633213">
         <mark key="'" line="15" column="0" />
@@ -369,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fetchConfigList</text>
+        <text>bannerGroupData</text>
       </register>
       <register name="-" type="4">
-        <text>fetchConfigList</text>
+        <text>bannerGroupData</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -381,31 +381,31 @@
         <text encoding="base64">ICAgICAgbWV0YTogeyB0aXRsZTogJ+iupOivgeivpuaDhScsIGljb246ICd0YWJsZScsIG5vQ2FjaGU6IHRydWUgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplOjIwCg==</text>
+        <text encoding="base64">Ly8gVE9ETzogcGFnZWFibGXnu4Tku7Yg6KeBc3JjL3ZpZXdzL2Jhbm5lci9JbmRleC52dWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZWwtZm9ybS1pdGVtIGxhYmVsPSJiYW5uZXLnu4QiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjb250ZW50ID0gcmVzLmRhdGEuY29udGVudAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZWwtaW5wdXQgdi1tb2RlbD0iZmV0Y2hQYXJhbS5zdGF0dXMiIDptYXhsZW5ndGg9IjQwIiBwbGFjZWhvbGRlcj0i6aaW6aG1YmFubmVyIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9KQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIHYtc2hvdz0iaXNEZXYiIHR5cGU9InByaW1hcnkiIEBjbGljaz0iYWRkTmV3QmFubmVyR3JvdXAiPuWIm+W7uuaWsGJhbm5lcue7hDwvZWwtYnV0dG9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIGl0ZW0uc2VlbiA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIOaPkOeOsOWIl+ihqAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb250ZW50LmZvckVhY2goaXRlbSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaXplOjIwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFnZTogMCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
