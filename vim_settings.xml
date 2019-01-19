@@ -127,11 +127,11 @@
         <mark key="^" line="42" column="62" />
         <mark key="." line="42" column="62" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1547880984149">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="36" />
-        <mark key="^" line="23" column="36" />
-        <mark key="." line="23" column="36" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1547883015564">
+        <mark key="[" line="48" column="46" />
+        <mark key="]" line="48" column="58" />
+        <mark key="^" line="48" column="58" />
+        <mark key="." line="48" column="58" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/index.js" timestamp="1547785633213">
         <mark key="'" line="15" column="0" />
@@ -369,43 +369,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bannerGroupData</text>
+        <text>fixed</text>
       </register>
       <register name="-" type="4">
-        <text>bannerGroupData</text>
+        <text>fixed</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbWV0YTogeyB0aXRsZTogJ+iupOivgeivpuaDhScsIGljb246ICd0YWJsZScsIG5vQ2FjaGU6IHRydWUgfQo=</text>
+        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9IueKtuaAgSIgd2lkdGg9IjgwIj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVE9ETzogcGFnZWFibGXnu4Tku7Yg6KeBc3JjL3ZpZXdzL2Jhbm5lci9JbmRleC52dWUK</text>
+        <text encoding="base64">ICAgIDwvZWwtdGFibGU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZWwtZm9ybS1pdGVtIGxhYmVsPSJiYW5uZXLnu4QiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9ImJhbm5lcue7hCIgd2lkdGg9IjI4MCI+LS0+CiAgICAgICAgPCEtLTx0ZW1wbGF0ZSBzY29wZT0ic2NvcGUiPi0tPgogICAgICAgIDwhLS08ZWwtaW5wdXQtLT4KICAgICAgICA8IS0tdi1pZj0ic2NvcGUucm93LnNlZW4iLS0+CiAgICAgICAgPCEtLXYtbW9kZWw9InNjb3BlLnJvdy5ncm91cElkIi0tPgogICAgICAgIDwhLS06bWF4bGVuZ3RoPSI0MCItLT4KICAgICAgICA8IS0tc2l6ZT0ic21hbGwiLz4tLT4KICAgICAgICA8IS0tPHNwYW4gdi1lbHNlPiB7eyBzY29wZS5yb3cuZ3JvdXBJZCB9fSA8L3NwYW4+LS0+CiAgICAgICAgPCEtLTwvdGVtcGxhdGU+LS0+CgogICAgICAgIDwhLS08L2VsLXRhYmxlLWNvbHVtbj4tLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZWwtaW5wdXQgdi1tb2RlbD0iZmV0Y2hQYXJhbS5zdGF0dXMiIDptYXhsZW5ndGg9IjQwIiBwbGFjZWhvbGRlcj0i6aaW6aG1YmFubmVyIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS1zaXplPSJzbWFsbCIvPi0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIHYtc2hvdz0iaXNEZXYiIHR5cGU9InByaW1hcnkiIEBjbGljaz0iYWRkTmV3QmFubmVyR3JvdXAiPuWIm+W7uuaWsGJhbm5lcue7hDwvZWwtYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS06bWF4bGVuZ3RoPSI0MCItLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIOaPkOeOsOWIl+ihqAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS12LW1vZGVsPSJzY29wZS5yb3cuZ3JvdXBJZCItLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS08ZWwtaW5wdXQtLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplOjIwCg==</text>
+        <text encoding="base64">ICAgICAgc2VsZi4kbG9kYXNoLmZpbmQoc2VsZi5zdGF0dXNPcHRpb25zLCBvcHRpb24gPT4gb3B0aW9uLnN0YXR1cyA9PT0gc3RhdHVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIHYtZWxzZT4ge3sgc2NvcGUucm93Lmdyb3VwSWQgfX0gPC9zcGFuPgo=</text>
       </register>
     </registers>
     <search>
