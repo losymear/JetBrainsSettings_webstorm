@@ -24,12 +24,12 @@
         <mark key="^" line="101" column="20" />
         <mark key="." line="101" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" timestamp="1547870235260">
-        <mark key="'" line="1" column="5" />
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" timestamp="1547887427699">
+        <mark key="'" line="1" column="13" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" timestamp="1547210561310">
         <mark key="'" line="176" column="15" />
@@ -41,7 +41,7 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/mock/login.js" timestamp="1545739824091">
         <mark key="[" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" timestamp="1547880067428">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" timestamp="1547887573237">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="68" />
       </file>
@@ -127,11 +127,12 @@
         <mark key="^" line="42" column="62" />
         <mark key="." line="42" column="62" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1547883015564">
-        <mark key="[" line="48" column="46" />
-        <mark key="]" line="48" column="58" />
-        <mark key="^" line="48" column="58" />
-        <mark key="." line="48" column="58" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1547888287680">
+        <mark key="'" line="93" column="32" />
+        <mark key="[" line="65" column="115" />
+        <mark key="]" line="65" column="90" />
+        <mark key="^" line="65" column="90" />
+        <mark key="." line="65" column="90" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/index.js" timestamp="1547785633213">
         <mark key="'" line="15" column="0" />
@@ -266,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
-      <jump line="119" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="142" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="11" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
@@ -363,49 +362,51 @@
       <jump line="7" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/Withdraw.vue" />
       <jump line="2" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/banner.js" />
       <jump line="11" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
       <jump line="40" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/Withdraw.vue" />
       <jump line="9" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
+      <jump line="53" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" />
+      <jump line="1" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
+      <jump line="93" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fixed</text>
+        <text>row</text>
       </register>
       <register name="-" type="4">
-        <text>fixed</text>
+        <text>row</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9IueKtuaAgSIgd2lkdGg9IjgwIj4K</text>
+        <text encoding="base64">ICAgICAgc2VsZi53aXRoZHJhd0xpc3REYXRhLnNwbGljZShpbmRleCwgMSwgc2VsZi4kbG9kYXNoLmNsb25lRGVlcChzZWxmLmN1cnJlbnRFZGl0Um93KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOWIt+aWsAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvZWwtdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOWIt+aWsO+8jOS9huaYr+WmguaenOWksei0pe+8nwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9ImJhbm5lcue7hCIgd2lkdGg9IjI4MCI+LS0+CiAgICAgICAgPCEtLTx0ZW1wbGF0ZSBzY29wZT0ic2NvcGUiPi0tPgogICAgICAgIDwhLS08ZWwtaW5wdXQtLT4KICAgICAgICA8IS0tdi1pZj0ic2NvcGUucm93LnNlZW4iLS0+CiAgICAgICAgPCEtLXYtbW9kZWw9InNjb3BlLnJvdy5ncm91cElkIi0tPgogICAgICAgIDwhLS06bWF4bGVuZ3RoPSI0MCItLT4KICAgICAgICA8IS0tc2l6ZT0ic21hbGwiLz4tLT4KICAgICAgICA8IS0tPHNwYW4gdi1lbHNlPiB7eyBzY29wZS5yb3cuZ3JvdXBJZCB9fSA8L3NwYW4+LS0+CiAgICAgICAgPCEtLTwvdGVtcGxhdGU+LS0+CgogICAgICAgIDwhLS08L2VsLXRhYmxlLWNvbHVtbj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS1zaXplPSJzbWFsbCIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS06bWF4bGVuZ3RoPSI0MCItLT4K</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYuYmFubmVyR3JvdXBEYXRhLnNwbGljZShpbmRleCwgMSwgc2VsZi4kbG9kYXNoLmNsb25lRGVlcChzZWxmLmN1cnJlbnRFZGl0ZWRHcm91cCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS12LW1vZGVsPSJzY29wZS5yb3cuZ3JvdXBJZCItLT4K</text>
+        <text encoding="base64">ICAgICAgbWFya0FzRmluaXNoKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08ZWwtaW5wdXQtLT4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi4kbG9kYXNoLmZpbmQoc2VsZi5zdGF0dXNPcHRpb25zLCBvcHRpb24gPT4gb3B0aW9uLnN0YXR1cyA9PT0gc3RhdHVzKQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHFzLnN0cmluZ2lmeShwYXJhbXMsIHsgYXJyYXlGb3JtYXQ6ICdyZXBlYXQnIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIHYtZWxzZT4ge3sgc2NvcGUucm93Lmdyb3VwSWQgfX0gPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICdwYXJhbXNTZXJpYWxpemVyJzogZnVuY3Rpb24ocGFyYW1zKSB7Cg==</text>
       </register>
     </registers>
     <search>
