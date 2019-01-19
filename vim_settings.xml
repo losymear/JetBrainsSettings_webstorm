@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1547894208073">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1547894278385">
         <mark key="'" line="154" column="0" />
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="65" />
@@ -24,7 +24,7 @@
         <mark key="^" line="101" column="20" />
         <mark key="." line="101" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" timestamp="1547890564416">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" timestamp="1547895005846">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="27" column="13" />
         <mark key="]" line="27" column="14" />
@@ -71,6 +71,11 @@
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/table/complexTable.vue" timestamp="1547103641029">
         <mark key="[" line="234" column="13" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/qiniu.js" timestamp="1547895225001">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1546933777428">
         <mark key="'" line="70" column="0" />
