@@ -304,12 +304,12 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1548043383573">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1548051575295">
         <mark key="'" line="103" column="46" />
-        <mark key="[" line="25" column="72" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="42" />
-        <mark key="^" line="25" column="42" />
+        <mark key="[" line="132" column="58" />
+        <mark key="]" line="132" column="57" />
+        <mark key="." line="132" column="57" />
+        <mark key="^" line="132" column="57" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/home/Index.vue" timestamp="1546506863547">
         <mark key="[" line="0" column="0" />
@@ -564,44 +564,44 @@
       <jump line="103" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIEBjbGljaz0idmVyaWZ5UmVqZWN0Ij7orqTor4Hmi5Lnu508L2VsLWJ1dHRvbj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>priceId</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi53aXRoZHJhd0xpc3REYXRhLnNwbGljZShpbmRleCwgMSwgc2VsZi4kbG9kYXNoLmNsb25lRGVlcChzZWxmLmN1cnJlbnRFZGl0Um93KSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bGVzLnByaWNlSWRbMF0ucmVxdWlyZWQgPSBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIEBjbGljaz0idmVyaWZ5UmVqZWN0Ij7orqTor4Hmi5Lnu508L2VsLWJ1dHRvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIOWIt+aWsAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIOWIt+aWsO+8jOS9huaYr+WmguaenOWksei0pe+8nwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOWIt+aWsAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOWIt+aWsO+8jOS9huaYr+WmguaenOWksei0pe+8nwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYuYmFubmVyR3JvdXBEYXRhLnNwbGljZShpbmRleCwgMSwgc2VsZi4kbG9kYXNoLmNsb25lRGVlcChzZWxmLmN1cnJlbnRFZGl0ZWRHcm91cCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWFya0FzRmluaXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYuYmFubmVyR3JvdXBEYXRhLnNwbGljZShpbmRleCwgMSwgc2VsZi4kbG9kYXNoLmNsb25lRGVlcChzZWxmLmN1cnJlbnRFZGl0ZWRHcm91cCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgbWFya0FzRmluaXNoKCkK</text>
       </register>
     </registers>
     <search>
