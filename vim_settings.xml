@@ -119,11 +119,11 @@
         <mark key="^" line="170" column="25" />
         <mark key="." line="170" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/dev.env.js" timestamp="1546932661598">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="34" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/dev.env.js" timestamp="1548061758419">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/noviceCoupon.js" timestamp="1547208020674">
         <mark key="[" line="14" column="4" />
@@ -541,7 +541,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAnZGV2ZWxvcG1lbnQnKSB7Cg==</text>
+        <text encoding="base64">ICBCQVNFX0FQSTogJyJodHRwOi8vbG9jYWxob3N0OjgwODEiJwo=</text>
       </register>
       <register name="-" type="4">
         <text>corpAnonymous</text>
@@ -550,7 +550,7 @@
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAnZGV2ZWxvcG1lbnQnKSB7Cg==</text>
+        <text encoding="base64">ICBCQVNFX0FQSTogJyJodHRwOi8vbG9jYWxob3N0OjgwODEiJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNob3dQcmljZUxpc3QgPSBmYWxzZQo=</text>
