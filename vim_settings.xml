@@ -297,19 +297,19 @@
         <mark key="." line="52" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package-lock.json" timestamp="1548043037986" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerVerify.js" timestamp="1546581672689">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerVerify.js" timestamp="1548057483340">
         <mark key="'" line="10" column="6" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="21" column="7" />
-        <mark key="^" line="21" column="7" />
-        <mark key="." line="21" column="7" />
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1548054737209">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1548057496731">
         <mark key="'" line="103" column="46" />
-        <mark key="[" line="267" column="8" />
-        <mark key="]" line="270" column="7" />
-        <mark key="." line="270" column="7" />
-        <mark key="^" line="270" column="7" />
+        <mark key="[" line="285" column="12" />
+        <mark key="]" line="285" column="21" />
+        <mark key="." line="285" column="21" />
+        <mark key="^" line="285" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/home/Index.vue" timestamp="1546506863547">
         <mark key="[" line="0" column="0" />
@@ -565,43 +565,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>verifyPass</text>
+        <text>verifyInterviewer</text>
       </register>
       <register name="-" type="4">
-        <text>verifyPass</text>
+        <text>verifyInterviewer</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bGVzLnByaWNlSWRbMF0ucmVxdWlyZWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjb3BpZWRWZXJpZnlPYmogPSBzZWxmLiRsb2Rhc2guY2xvbmVEZWVwKHNlbGYudmVyaWZ5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIEBjbGljaz0idmVyaWZ5UmVqZWN0Ij7orqTor4Hmi5Lnu508L2VsLWJ1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXN1bHQuc3RhdHVzID0gMwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYucnVsZXMuZGVueVJlYXNvblswXS5yZXF1aXJlZCA9IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYucnVsZXMudmVyaWZ5VHlwZVswXS5yZXF1aXJlZCA9IGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIOWIt+aWsAo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIOWIt+aWsO+8jOS9huaYr+WmguaenOWksei0pe+8nwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihzZWxmLnJlc3VsdC4pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgPCEtLeeUqOS6jiLlt7LorqTor4Ei6aG16Z2i55qE5YWD57SgLS0+CiAgICAgIDxlbC1mb3JtLWl0ZW0gdi1zaG93PSJ2ZXJpZnkuc3RhdHVzPT09MiIgbGFiZWw9IuS7t+agvCIgcHJvcD0icHJpY2VJZCI+CiAgICAgICAgPGVsLXNlbGVjdCB2LW1vZGVsPSJ2ZXJpZnkucHJpY2VJZCIgcGxhY2Vob2xkZXI9Iuivt+mAieaLqeS7t+agvCI+CiAgICAgICAgICA8ZWwtb3B0aW9uIHYtZm9yPSIocHJpY2UsaW5kZXgpIGluIHZlcmlmeS5wcmljZUxpc3QiIDprZXk9ImluZGV4IiA6bGFiZWw9InByaWNlLnByaWNlIiA6dmFsdWU9InByaWNlLmlkIi8+CiAgICAgICAgPC9lbC1zZWxlY3Q+CiAgICAgIDwvZWwtZm9ybS1pdGVtPgogICAgICA8ZWwtZm9ybS1pdGVtIHYtc2hvdz0idmVyaWZ5LnN0YXR1cz09PTIiIGxhYmVsPSLmnIDpq5jku7fmoLwiIHByb3A9Im1heFByaWNlIj4KICAgICAgICA8ZWwtaW5wdXQgdi1tb2RlbD0idmVyaWZ5Lm1heFByaWNlIiB0eXBlPSJudW1iZXIiLz4KICAgICAgPC9lbC1mb3JtLWl0ZW0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgPCEtLeeUqOS6jiLorqTor4HkuK0i6aG16Z2i55qE5YWD57SgLS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYuYmFubmVyR3JvdXBEYXRhLnNwbGljZShpbmRleCwgMSwgc2VsZi4kbG9kYXNoLmNsb25lRGVlcChzZWxmLmN1cnJlbnRFZGl0ZWRHcm91cCkpCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIEBjbGljaz0idmVyaWZ5UmVqZWN0Ij7orqTor4Hmi5Lnu508L2VsLWJ1dHRvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWFya0FzRmluaXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
