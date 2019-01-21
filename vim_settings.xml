@@ -304,12 +304,12 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1548051575295">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1548054737209">
         <mark key="'" line="103" column="46" />
-        <mark key="[" line="132" column="58" />
-        <mark key="]" line="132" column="57" />
-        <mark key="." line="132" column="57" />
-        <mark key="^" line="132" column="57" />
+        <mark key="[" line="267" column="8" />
+        <mark key="]" line="270" column="7" />
+        <mark key="." line="270" column="7" />
+        <mark key="^" line="270" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/home/Index.vue" timestamp="1546506863547">
         <mark key="[" line="0" column="0" />
@@ -564,11 +564,11 @@
       <jump line="103" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIEBjbGljaz0idmVyaWZ5UmVqZWN0Ij7orqTor4Hmi5Lnu508L2VsLWJ1dHRvbj4K</text>
+      <register name="&quot;" type="4">
+        <text>verifyPass</text>
       </register>
       <register name="-" type="4">
-        <text>priceId</text>
+        <text>verifyPass</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
