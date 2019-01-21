@@ -91,9 +91,6 @@
         <mark key="^" line="16" column="52" />
         <mark key="." line="16" column="52" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/mock/login.js" timestamp="1545739824091">
-        <mark key="[" line="24" column="14" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/login/index.vue" timestamp="1546937600403">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -116,9 +113,6 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/components/Sidebar/index.vue" timestamp="1545734678169">
-        <mark key="[" line="23" column="19" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/build/webpack.prod.conf.js" timestamp="1548041715349">
         <mark key="[" line="170" column="27" />
         <mark key="]" line="170" column="25" />
@@ -137,9 +131,6 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/src/App.vue" timestamp="1545740085704">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1547795533735">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
@@ -152,9 +143,6 @@
         <mark key="]" line="144" column="85" />
         <mark key="." line="25" column="5" />
         <mark key="^" line="25" column="5" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/table/complexTable.vue" timestamp="1547103641029">
-        <mark key="[" line="234" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/components-demo/avatarUpload.vue" timestamp="1546951194018">
         <mark key="[" line="3" column="0" />
@@ -244,10 +232,10 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/main.js" timestamp="1547640113830">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/main.js" timestamp="1548060417659">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="42" column="62" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="45" />
         <mark key="^" line="42" column="62" />
         <mark key="." line="42" column="62" />
       </file>
@@ -304,15 +292,12 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1548058890643">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1548060481032">
         <mark key="'" line="103" column="46" />
-        <mark key="[" line="277" column="19" />
-        <mark key="]" line="277" column="32" />
-        <mark key="^" line="277" column="32" />
-        <mark key="." line="277" column="32" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/home/Index.vue" timestamp="1546506863547">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="293" column="41" />
+        <mark key="]" line="293" column="41" />
+        <mark key="^" line="293" column="41" />
+        <mark key="." line="293" column="41" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1547890745916">
         <mark key="'" line="108" column="0" />
@@ -359,9 +344,6 @@
         <mark key="^" line="55" column="5" />
         <mark key="." line="55" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/Layout.vue" timestamp="1546434638825">
-        <mark key="[" line="13" column="40" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/functions.scss" timestamp="1547627864904">
         <mark key="'" line="2" column="45" />
         <mark key="[" line="34" column="15" />
@@ -388,9 +370,6 @@
         <mark key="." line="47" column="19" />
         <mark key="^" line="47" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547801983900">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/mock/index.js" timestamp="1546939913841">
         <mark key="[" line="30" column="64" />
         <mark key="]" line="31" column="64" />
@@ -402,9 +381,6 @@
         <mark key="]" line="317" column="40" />
         <mark key="^" line="317" column="40" />
         <mark key="." line="317" column="40" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/article.js" timestamp="1547198545735">
-        <mark key="[" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" timestamp="1547803490618">
         <mark key="'" line="112" column="0" />
@@ -564,8 +540,8 @@
       <jump line="103" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>corpAnonymous</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAnZGV2ZWxvcG1lbnQnKSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>corpAnonymous</text>
@@ -574,7 +550,7 @@
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjb3BpZWRWZXJpZnlPYmogPSBzZWxmLiRsb2Rhc2guY2xvbmVEZWVwKHNlbGYudmVyaWZ5KQo=</text>
+        <text encoding="base64">aWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAnZGV2ZWxvcG1lbnQnKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNob3dQcmljZUxpc3QgPSBmYWxzZQo=</text>
