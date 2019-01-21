@@ -304,12 +304,12 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1548057496731">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1548058890643">
         <mark key="'" line="103" column="46" />
-        <mark key="[" line="285" column="12" />
-        <mark key="]" line="285" column="21" />
-        <mark key="." line="285" column="21" />
-        <mark key="^" line="285" column="21" />
+        <mark key="[" line="277" column="19" />
+        <mark key="]" line="277" column="32" />
+        <mark key="^" line="277" column="32" />
+        <mark key="." line="277" column="32" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/home/Index.vue" timestamp="1546506863547">
         <mark key="[" line="0" column="0" />
@@ -565,10 +565,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>verifyInterviewer</text>
+        <text>corpAnonymous</text>
       </register>
       <register name="-" type="4">
-        <text>verifyInterviewer</text>
+        <text>corpAnonymous</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -577,31 +577,31 @@
         <text encoding="base64">ICAgICAgICBjb25zdCBjb3BpZWRWZXJpZnlPYmogPSBzZWxmLiRsb2Rhc2guY2xvbmVEZWVwKHNlbGYudmVyaWZ5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXN1bHQuc3RhdHVzID0gMwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3dQcmljZUxpc3QgPSBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYucnVsZXMuZGVueVJlYXNvblswXS5yZXF1aXJlZCA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3dSZWplY3QgPSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYucnVsZXMudmVyaWZ5VHlwZVswXS5yZXF1aXJlZCA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogQHd5IOaWsOaOpeWPowo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29waWVkVmVyaWZ5T2JqID0gc2VsZi4kbG9kYXNoLmNsb25lRGVlcChzZWxmLnZlcmlmeSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzZWxmLnJlc3VsdC4pCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bGVzLm1heFByaWNlWzBdLnJlcXVpcmVkID0gZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPCEtLeeUqOS6jiLlt7LorqTor4Ei6aG16Z2i55qE5YWD57SgLS0+CiAgICAgIDxlbC1mb3JtLWl0ZW0gdi1zaG93PSJ2ZXJpZnkuc3RhdHVzPT09MiIgbGFiZWw9IuS7t+agvCIgcHJvcD0icHJpY2VJZCI+CiAgICAgICAgPGVsLXNlbGVjdCB2LW1vZGVsPSJ2ZXJpZnkucHJpY2VJZCIgcGxhY2Vob2xkZXI9Iuivt+mAieaLqeS7t+agvCI+CiAgICAgICAgICA8ZWwtb3B0aW9uIHYtZm9yPSIocHJpY2UsaW5kZXgpIGluIHZlcmlmeS5wcmljZUxpc3QiIDprZXk9ImluZGV4IiA6bGFiZWw9InByaWNlLnByaWNlIiA6dmFsdWU9InByaWNlLmlkIi8+CiAgICAgICAgPC9lbC1zZWxlY3Q+CiAgICAgIDwvZWwtZm9ybS1pdGVtPgogICAgICA8ZWwtZm9ybS1pdGVtIHYtc2hvdz0idmVyaWZ5LnN0YXR1cz09PTIiIGxhYmVsPSLmnIDpq5jku7fmoLwiIHByb3A9Im1heFByaWNlIj4KICAgICAgICA8ZWwtaW5wdXQgdi1tb2RlbD0idmVyaWZ5Lm1heFByaWNlIiB0eXBlPSJudW1iZXIiLz4KICAgICAgPC9lbC1mb3JtLWl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bGVzLnByaWNlSWRbMF0ucmVxdWlyZWQgPSBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPCEtLeeUqOS6jiLorqTor4HkuK0i6aG16Z2i55qE5YWD57SgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXN1bHQuc3RhdHVzID0gMwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIEBjbGljaz0idmVyaWZ5UmVqZWN0Ij7orqTor4Hmi5Lnu508L2VsLWJ1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYucnVsZXMuZGVueVJlYXNvblswXS5yZXF1aXJlZCA9IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYucnVsZXMudmVyaWZ5VHlwZVswXS5yZXF1aXJlZCA9IGZhbHNlCg==</text>
       </register>
     </registers>
     <search>
