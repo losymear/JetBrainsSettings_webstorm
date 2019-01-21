@@ -131,11 +131,11 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1547795533735">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="74" column="11" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548071449645">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="16" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyList.vue" timestamp="1546605471529">
         <mark key="'" line="146" column="59" />
@@ -541,7 +541,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBCQVNFX0FQSTogJyJodHRwOi8vbG9jYWxob3N0OjgwODEiJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJy9hcGknCg==</text>
       </register>
       <register name="-" type="4">
         <text>corpAnonymous</text>
@@ -553,31 +553,31 @@
         <text encoding="base64">ICBCQVNFX0FQSTogJyJodHRwOi8vbG9jYWxob3N0OjgwODEiJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNob3dQcmljZUxpc3QgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJy9hcGknCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNob3dSZWplY3QgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3dQcmljZUxpc3QgPSBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogQHd5IOaWsOaOpeWPowo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3dSZWplY3QgPSB0cnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29waWVkVmVyaWZ5T2JqID0gc2VsZi4kbG9kYXNoLmNsb25lRGVlcChzZWxmLnZlcmlmeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogQHd5IOaWsOaOpeWPowo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bGVzLm1heFByaWNlWzBdLnJlcXVpcmVkID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29waWVkVmVyaWZ5T2JqID0gc2VsZi4kbG9kYXNoLmNsb25lRGVlcChzZWxmLnZlcmlmeSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bGVzLnByaWNlSWRbMF0ucmVxdWlyZWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bGVzLm1heFByaWNlWzBdLnJlcXVpcmVkID0gZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXN1bHQuc3RhdHVzID0gMwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bGVzLnByaWNlSWRbMF0ucmVxdWlyZWQgPSBmYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYucnVsZXMuZGVueVJlYXNvblswXS5yZXF1aXJlZCA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXN1bHQuc3RhdHVzID0gMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYucnVsZXMudmVyaWZ5VHlwZVswXS5yZXF1aXJlZCA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYucnVsZXMuZGVueVJlYXNvblswXS5yZXF1aXJlZCA9IHRydWUK</text>
       </register>
     </registers>
     <search>
