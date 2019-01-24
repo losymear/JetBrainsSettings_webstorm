@@ -137,11 +137,11 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548301793169">
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="42" column="8" />
-        <mark key="^" line="42" column="8" />
-        <mark key="." line="42" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548302447445">
+        <mark key="[" line="39" column="7" />
+        <mark key="]" line="39" column="6" />
+        <mark key="^" line="39" column="6" />
+        <mark key="." line="39" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548071449645">
         <mark key="[" line="47" column="0" />
@@ -557,11 +557,11 @@
       <jump line="103" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAi5o+Q546w54q25oCB77yMMOWuoeaguOS4re+8jDHliLDluJAsIDLmj5DnjrDlpLHotKUsIDPmj5DnjrDlpLHotKXkvZnpop3ov5Tov5giCg==</text>
+      <register name="&quot;" type="4">
+        <text>已拒绝</text>
       </register>
       <register name="-" type="4">
-        <text>jobList</text>
+        <text>已拒绝</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
