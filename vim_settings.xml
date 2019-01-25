@@ -15,12 +15,12 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1547895452083">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1548406053946">
         <mark key="'" line="154" column="0" />
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="65" />
-        <mark key="^" line="4" column="65" />
-        <mark key="." line="4" column="65" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="38" />
+        <mark key="^" line="56" column="11" />
+        <mark key="." line="56" column="11" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/activity/CumulativeReward.vue" timestamp="1547731886434">
         <mark key="'" line="3" column="5" />
@@ -47,6 +47,13 @@
         <mark key="]" line="52" column="18" />
         <mark key="^" line="52" column="18" />
         <mark key="." line="52" column="18" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548406629642">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="91" column="23" />
+        <mark key="]" line="91" column="33" />
+        <mark key="." line="91" column="33" />
+        <mark key="^" line="91" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/App.vue" timestamp="1546673032170">
         <mark key="[" line="10" column="11" />
@@ -103,10 +110,12 @@
         <mark key="." line="142" column="0" />
         <mark key="^" line="139" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" timestamp="1548396273240">
-        <mark key="]" line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="20" column="20" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" timestamp="1548404703190">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="97" column="52" />
+        <mark key="^" line="97" column="52" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/cumulativeRewardClient.js" timestamp="1547801790857">
         <mark key="[" line="4" column="37" />
@@ -138,11 +147,11 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548386414467">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548403744002">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548071449645">
         <mark key="[" line="47" column="0" />
@@ -162,11 +171,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/qiniu.js" timestamp="1547895225001">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/onlineTest.env.js" timestamp="1546431692171">
         <mark key="[" line="3" column="23" />
@@ -252,12 +256,12 @@
         <mark key="^" line="42" column="62" />
         <mark key="." line="42" column="62" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1548308767889">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1548403538337">
         <mark key="'" line="92" column="32" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="15" />
-        <mark key="^" line="79" column="9" />
-        <mark key="." line="79" column="9" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="99" />
+        <mark key="^" line="24" column="98" />
+        <mark key="." line="24" column="98" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/index.js" timestamp="1547785633213">
         <mark key="'" line="15" column="0" />
@@ -271,6 +275,12 @@
         <mark key="]" line="55" column="12" />
         <mark key="." line="55" column="12" />
         <mark key="^" line="55" column="12" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/activityRouterConfig.js" timestamp="1548405174556">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="20" />
+        <mark key="." line="21" column="80" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/vue-element-admin/config/dev.env.js" timestamp="1545732109250">
         <mark key="[" line="5" column="0" />
@@ -311,12 +321,12 @@
         <mark key="^" line="293" column="41" />
         <mark key="." line="293" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1548386526711">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="87" column="21" />
-        <mark key="]" line="87" column="21" />
-        <mark key="." line="87" column="21" />
-        <mark key="^" line="87" column="21" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1548404353023">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="92" column="24" />
+        <mark key="]" line="92" column="23" />
+        <mark key="^" line="92" column="23" />
+        <mark key="." line="92" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/prod.env.js" timestamp="1546428882004">
         <mark key="[" line="3" column="15" />
@@ -356,12 +366,12 @@
         <mark key="^" line="55" column="5" />
         <mark key="." line="55" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548396419841">
-        <mark key="'" line="49" column="1" />
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548400311910">
+        <mark key="'" line="50" column="1" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/functions.scss" timestamp="1547627864904">
         <mark key="'" line="2" column="45" />
@@ -463,9 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" />
       <jump line="106" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" />
       <jump line="108" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
@@ -563,46 +570,49 @@
       <jump line="21" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
       <jump line="103" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" />
       <jump line="42" column="1" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" />
+      <jump line="20" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" />
+      <jump line="0" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" />
+      <jump line="18" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/operator/withdraw</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8ZGl2IHN0eWxlPSJtYXJnaW46IDIwcHggNTBweCI+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4gfSBmcm9tICdAL2FwaS9xaW5pdScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHFzLnN0cmluZ2lmeShwYXJhbXMsIHsgYXJyYXlGb3JtYXQ6ICdyZXBlYXQnIH0pCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jb21wYW55TG9nbyA9ICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdwYXJhbXNTZXJpYWxpemVyJzogZnVuY3Rpb24ocGFyYW1zKSB7Cg==</text>
+        <text encoding="base64">ICAgIG9uUmVtb3ZlX2NvbXBhbnlMb2dvKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcywK</text>
+        <text encoding="base64">ICAgICAgICAgIEByZW1vdmU9Im9uUmVtb3ZlX2NvbXBhbnlMb2dvIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29tcGFueUxvZ28iPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPCEtLS8vIFRPRE86QHd5IOaOp+WItuaYvumakCAtLT4K</text>
+        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIHR5cGU9InByaW1hcnkiIEBjbGljaz0idXBsb2FkX2NvbXBhbnlMb2dvIj7kuIrkvKDlm77niYfliLDkuIPniZvkupE8L2VsLWJ1dHRvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIOiupOivgeWIl+ihqAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIHR5cGU9InByaW1hcnkiIEBjbGljaz0idXBsb2FkX2NvbXBhbnlMb2dvIj7kuIrkvKDlm77niYfliLDkuIPniZvkupE8L2VsLWJ1dHRvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAzMgo=</text>
+        <text encoding="base64">ICAgICAgPC9lbC1mb3JtLWl0ZW0+Cg==</text>
       </register>
     </registers>
     <search>
