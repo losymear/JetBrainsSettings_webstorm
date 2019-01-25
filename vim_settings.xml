@@ -48,12 +48,12 @@
         <mark key="^" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548408730864">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548410406426">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="165" column="6" />
-        <mark key="]" line="165" column="19" />
-        <mark key="." line="165" column="19" />
-        <mark key="^" line="165" column="19" />
+        <mark key="[" line="173" column="28" />
+        <mark key="]" line="174" column="27" />
+        <mark key="." line="174" column="27" />
+        <mark key="^" line="174" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/App.vue" timestamp="1546673032170">
         <mark key="[" line="10" column="11" />
@@ -110,10 +110,10 @@
         <mark key="." line="142" column="0" />
         <mark key="^" line="139" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" timestamp="1548408047181">
-        <mark key="'" line="20" column="19" />
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="36" column="72" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" timestamp="1548410344244">
+        <mark key="'" line="67" column="15" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="60" />
         <mark key="." line="36" column="72" />
         <mark key="^" line="36" column="72" />
       </file>
@@ -366,12 +366,12 @@
         <mark key="^" line="55" column="5" />
         <mark key="." line="55" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548400311910">
-        <mark key="'" line="50" column="1" />
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-        <mark key="." line="7" column="9" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548410285419">
+        <mark key="'" line="60" column="1" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/functions.scss" timestamp="1547627864904">
         <mark key="'" line="2" column="45" />
@@ -473,7 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" />
       <jump line="108" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
@@ -573,19 +572,20 @@
       <jump line="20" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" />
       <jump line="0" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" />
       <jump line="18" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" />
+      <jump line="67" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>createButtonLock||!uploadedUrl</text>
+        <text>getSimulateJobList</text>
       </register>
       <register name="-" type="4">
-        <text>createButtonLock||!uploadedUrl</text>
+        <text>getSimulateJobList</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxlbC1idXR0b24gOmRpc2FibGVkPSJjcmVhdGVCdXR0b25Mb2NrfHwhdXBsb2FkZWRVcmwiIHR5cGU9InByaW1hcnkiIEBjbGljaz0iY3JlYXRlTmV3QmFubmVyIj7liJvlu7piYW5uZXIK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2ltdWxhdGVKb2JMaXN0IH0gZnJvbSAnQC9hcGkvc2ltdWxhdGVKb2JDbGllbnQnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxlbC1idXR0b24gOmRpc2FibGVkPSJjcmVhdGVCdXR0b25Mb2NrfHwhdXBsb2FkZWRVcmwiIHR5cGU9InByaW1hcnkiIEBjbGljaz0iY3JlYXRlTmV3QmFubmVyIj7liJvlu7piYW5uZXI8Cg==</text>
@@ -616,9 +616,9 @@
       </register>
     </registers>
     <search>
-      <last-search>button</last-search>
+      <last-search>then</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>then</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -630,6 +630,7 @@
         <entry>seen</entry>
         <entry>configList</entry>
         <entry>button</entry>
+        <entry>then</entry>
       </history-search>
       <history-cmd />
       <history-expr />
