@@ -103,11 +103,10 @@
         <mark key="." line="142" column="0" />
         <mark key="^" line="139" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" timestamp="1548386419357">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-        <mark key="^" line="3" column="5" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" timestamp="1548396273240">
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/cumulativeRewardClient.js" timestamp="1547801790857">
         <mark key="[" line="4" column="37" />
@@ -357,8 +356,12 @@
         <mark key="^" line="55" column="5" />
         <mark key="." line="55" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548386585795">
-        <mark key="'" line="53" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548396419841">
+        <mark key="'" line="49" column="1" />
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/functions.scss" timestamp="1547627864904">
         <mark key="'" line="2" column="45" />
@@ -563,10 +566,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8ZGl2IHN0eWxlPSJtYXJnaW46IDIwcHggNTBweCI+Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>认证记录</text>
+        <text>/operator/withdraw</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -575,31 +578,31 @@
         <text encoding="base64">ICA8ZGl2IHN0eWxlPSJtYXJnaW46IDIwcHggNTBweCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHFzLnN0cmluZ2lmeShwYXJhbXMsIHsgYXJyYXlGb3JtYXQ6ICdyZXBlYXQnIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPCEtLS8vIFRPRE86QHd5IOaOp+WItuaYvumakCAtLT4K</text>
+        <text encoding="base64">ICAgICdwYXJhbXNTZXJpYWxpemVyJzogZnVuY3Rpb24ocGFyYW1zKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIOiupOivgeWIl+ihqAo=</text>
+        <text encoding="base64">ICAgIHBhcmFtcywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAzMgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8L2Rpdj4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAi5o+Q546w54q25oCB77yMMOWuoeaguOS4re+8jDHliLDluJAsIDLmj5DnjrDlpLHotKUsIDPmj5DnjrDlpLHotKXkvZnpop3ov5Tov5giCg==</text>
+        <text encoding="base64">ICAgICAgPCEtLS8vIFRPRE86QHd5IOaOp+WItuaYvumakCAtLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAi5o+Q546w54q25oCB77yMMOWuoeaguOS4re+8jDHliLDluJAsIDLmj5DnjrDlpLHotKUsIDPmj5DnjrDlpLHotKXkvZnpop3ov5Tov5giCg==</text>
+        <text encoding="base64">ICAgIOiupOivgeWIl+ihqAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lOiAnU2ltdWxhdGVKb2InLAo=</text>
+        <text encoding="base64">ICAgICAgICAzMgo=</text>
       </register>
     </registers>
     <search>
