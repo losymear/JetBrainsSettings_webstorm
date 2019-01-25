@@ -15,12 +15,12 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1548406053946">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1548408519866">
         <mark key="'" line="154" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="38" />
-        <mark key="^" line="56" column="11" />
-        <mark key="." line="56" column="11" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="112" />
+        <mark key="^" line="43" column="32" />
+        <mark key="." line="43" column="32" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/activity/CumulativeReward.vue" timestamp="1547731886434">
         <mark key="'" line="3" column="5" />
@@ -48,12 +48,12 @@
         <mark key="^" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548406629642">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548408730864">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="91" column="23" />
-        <mark key="]" line="91" column="33" />
-        <mark key="." line="91" column="33" />
-        <mark key="^" line="91" column="33" />
+        <mark key="[" line="165" column="6" />
+        <mark key="]" line="165" column="19" />
+        <mark key="." line="165" column="19" />
+        <mark key="^" line="165" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/App.vue" timestamp="1546673032170">
         <mark key="[" line="10" column="11" />
@@ -110,12 +110,12 @@
         <mark key="." line="142" column="0" />
         <mark key="^" line="139" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" timestamp="1548404703190">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" timestamp="1548408047181">
         <mark key="'" line="20" column="19" />
         <mark key="[" line="38" column="38" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="97" column="52" />
-        <mark key="^" line="97" column="52" />
+        <mark key="]" line="36" column="72" />
+        <mark key="." line="36" column="72" />
+        <mark key="^" line="36" column="72" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/cumulativeRewardClient.js" timestamp="1547801790857">
         <mark key="[" line="4" column="37" />
@@ -575,44 +575,44 @@
       <jump line="18" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>createButtonLock||!uploadedUrl</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>createButtonLock||!uploadedUrl</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4gfSBmcm9tICdAL2FwaS9xaW5pdScK</text>
+        <text encoding="base64">ICAgICAgICAgIDxlbC1idXR0b24gOmRpc2FibGVkPSJjcmVhdGVCdXR0b25Mb2NrfHwhdXBsb2FkZWRVcmwiIHR5cGU9InByaW1hcnkiIEBjbGljaz0iY3JlYXRlTmV3QmFubmVyIj7liJvlu7piYW5uZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIDxlbC1idXR0b24gOmRpc2FibGVkPSJjcmVhdGVCdXR0b25Mb2NrfHwhdXBsb2FkZWRVcmwiIHR5cGU9InByaW1hcnkiIEBjbGljaz0iY3JlYXRlTmV3QmFubmVyIj7liJvlu7piYW5uZXI8Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb21wYW55TG9nbyA9ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW55TG9nb19pbWc6ICcnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9uUmVtb3ZlX2NvbXBhbnlMb2dvKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBkZXBhcnRtZW50TG9nb19pbWc6ICcnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEByZW1vdmU9Im9uUmVtb3ZlX2NvbXBhbnlMb2dvIgo=</text>
+        <text encoding="base64">ICAgICAgICBkZXBhcnRtZW50TG9nb19pbWc6ICcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29tcGFueUxvZ28iPgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIHR5cGU9InByaW1hcnkiIEBjbGljaz0idXBsb2FkX2NvbXBhbnlMb2dvIj7kuIrkvKDlm77niYfliLDkuIPniZvkupE8L2VsLWJ1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jb21wYW55TG9nbyA9ICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIHR5cGU9InByaW1hcnkiIEBjbGljaz0idXBsb2FkX2NvbXBhbnlMb2dvIj7kuIrkvKDlm77niYfliLDkuIPniZvkupE8L2VsLWJ1dHRvbj4K</text>
+        <text encoding="base64">ICAgIG9uUmVtb3ZlX2NvbXBhbnlMb2dvKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9lbC1mb3JtLWl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEByZW1vdmU9Im9uUmVtb3ZlX2NvbXBhbnlMb2dvIgo=</text>
       </register>
     </registers>
     <search>
