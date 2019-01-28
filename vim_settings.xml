@@ -48,7 +48,7 @@
         <mark key="^" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548412408979">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548668847906">
         <mark key="'" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/App.vue" timestamp="1546673032170">
@@ -148,12 +148,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548667061392">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548669817677">
         <mark key="'" line="18" column="20" />
-        <mark key="[" line="233" column="1" />
-        <mark key="]" line="233" column="3" />
-        <mark key="." line="233" column="3" />
-        <mark key="^" line="233" column="3" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="200" column="22" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548071449645">
         <mark key="[" line="47" column="0" />
@@ -368,11 +368,11 @@
         <mark key="^" line="55" column="5" />
         <mark key="." line="55" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548667443317">
-        <mark key="[" line="36" column="7" />
-        <mark key="]" line="36" column="18" />
-        <mark key="^" line="36" column="18" />
-        <mark key="." line="36" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548669544744">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="27" />
+        <mark key="^" line="35" column="26" />
+        <mark key="." line="35" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/functions.scss" timestamp="1547627864904">
         <mark key="'" line="2" column="45" />
@@ -431,12 +431,12 @@
         <mark key="^" line="90" column="18" />
         <mark key="." line="90" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/request.js" timestamp="1548667617110">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/request.js" timestamp="1548669486463">
         <mark key="'" line="97" column="4" />
-        <mark key="[" line="27" column="57" />
-        <mark key="]" line="27" column="43" />
-        <mark key="^" line="27" column="43" />
-        <mark key="." line="27" column="43" />
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="55" />
+        <mark key="^" line="27" column="55" />
+        <mark key="." line="27" column="55" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" timestamp="1547804588629">
         <mark key="'" line="123" column="0" />
@@ -576,44 +576,44 @@
       <jump line="18" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>applyId</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlnLmhlYWRlcnNbJ0NvbnRlbnQtVHlwZSddID0gJ2FwcGxpY2F0aW9uL2pzb24nCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5lZGl0TG9jayA9IGZhbHNlCiAgICAgIHJvdy5lZGl0ZWQgPSBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5oZWFkZXJzWydDb250ZW50LVR5cGUnXSA9ICdhcHBsaWNhdGlvbi9qc29uJwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXMKICAgICAgY29uc3QgcmVxdWVzdFN1Y2Nlc3MgPSBmYWxzZQogICAgICBjb25zdCBib2R5Rm9ybURhdGEgPSBuZXcgRm9ybURhdGEoKQogICAgICBib2R5Rm9ybURhdGEuYXBwZW5kKCdhcHBseUlkJywgcm93LmFwcGx5SWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uZmlnLmhlYWRlcnNbJ1gtVG9rZW4nXSA9IGdldFRva2VuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdtdWx0aXBhcnQvZm9ybS1kYXRhJyB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzpAd3kg5ouS57ud5o6l5Y+jCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuaGVhZGVyc1snQ29udGVudC1UeXBlJ10gPSB1bmRlZmluZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlYWRlcnM6IHsKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi94bWwnCiAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFnZS1zaXplPSIxMCIK</text>
+        <text encoding="base64">ICAgIGhlYWRlcnM6IHsKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi94bWwnCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlnLmhlYWRlcnNbJ2EnXSA9ICdiJwo=</text>
+        <text encoding="base64">ICAgIC8vICAgY29uZmlnLmhlYWRlcnNbJ0NvbnRlbnQtVHlwZSddID0gJ2FwcGxpY2F0aW9uL3htbCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKGNvbmZpZy5oZWFkZXJzWydDb250ZW50LVR5cGUnXSkK</text>
+        <text encoding="base64">ICAgICAgY29uZmlnLmhlYWRlcnNbJ2FiYyddID0gJ2RlZicK</text>
       </register>
     </registers>
     <search>
