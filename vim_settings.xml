@@ -75,6 +75,12 @@
         <mark key="]" line="27" column="14" />
         <mark key="." line="27" column="14" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/components/Navbar.vue" timestamp="1548644689851">
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="36" column="23" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/components/Breadcrumb/index.vue" timestamp="1546506776154">
         <mark key="[" line="38" column="62" />
         <mark key="]" line="38" column="65" />
@@ -107,11 +113,7 @@
         <mark key="^" line="139" column="41" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" timestamp="1548422586602">
-        <mark key="'" line="67" column="15" />
         <mark key="[" line="31" column="0" />
-        <mark key="]" line="34" column="117" />
-        <mark key="." line="34" column="68" />
-        <mark key="^" line="34" column="68" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/cumulativeRewardClient.js" timestamp="1547801790857">
         <mark key="[" line="4" column="37" />
@@ -362,7 +364,7 @@
         <mark key="." line="55" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548421257816">
-        <mark key="'" line="50" column="1" />
+        <mark key="'" line="70" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/functions.scss" timestamp="1547627864904">
         <mark key="'" line="2" column="45" />
