@@ -145,10 +145,11 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548423909360">
-        <mark key="]" line="1" column="45" />
-        <mark key="." line="1" column="45" />
-        <mark key="^" line="1" column="45" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548648816292">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="141" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548071449645">
         <mark key="[" line="47" column="0" />
@@ -253,10 +254,10 @@
         <mark key="^" line="42" column="62" />
         <mark key="." line="42" column="62" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1548421911929">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1548648681638">
         <mark key="'" line="92" column="32" />
-        <mark key="[" line="63" column="36" />
-        <mark key="]" line="59" column="3" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="71" />
         <mark key="^" line="59" column="3" />
         <mark key="." line="59" column="3" />
       </file>
@@ -363,8 +364,11 @@
         <mark key="^" line="55" column="5" />
         <mark key="." line="55" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548421257816">
-        <mark key="'" line="70" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548648950173">
+        <mark key="'" line="83" column="1" />
+        <mark key="]" line="38" column="6" />
+        <mark key="^" line="38" column="6" />
+        <mark key="." line="38" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/functions.scss" timestamp="1547627864904">
         <mark key="'" line="2" column="45" />
@@ -569,43 +573,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>editLock</text>
+        <text>POST</text>
       </register>
       <register name="-" type="4">
-        <text>editLock</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9IuW3peS9nCIgd2lkdGg9IjE4MCIgcHJvcD0iam9iIiBzaG93LW92ZXJmbG93LXRvb2x0aXAvPgo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5lZGl0TG9jayA9IGZhbHNlCiAgICAgIHJvdy5lZGl0ZWQgPSBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lZGl0TG9jayA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzpAd3kg6K6k6K+B6YCa6L+HCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcm93LmVkaXRlZCA9IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbmNlbFJlamVjdChyb3csIGluZGV4KSB7CiAgICAvLyB9LAogICAgLy8gZmluaXNoUmVqZWN0KHJvdywgaW5kZXgpIHsKICAgIC8vICAgLy8gVE9ETzpAd3kg5ouS57udCiAgICAvLwogICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08L2VsLWJ1dHRvbj4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLeWujOaIkC0tPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08ZWwtYnV0dG9uIHYtc2hvdz0ic2NvcGUucm93LmVkaXRlZCIgdHlwZT0idGV4dCIgc2l6ZT0ic21hbGwiIEBjbGljaz0iZmluaXNoUmVqZWN0KHNjb3BlLnJvdyxzY29wZS4kaW5kZXgpIj4tLT4K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHFzLnN0cmluZ2lmeShwYXJhbXMsIHsgYXJyYXlGb3JtYXQ6ICdyZXBlYXQnIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08L2VsLWJ1dHRvbj4tLT4K</text>
+        <text encoding="base64">ICAgICdwYXJhbXNTZXJpYWxpemVyJzogZnVuY3Rpb24ocGFyYW1zKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLeWPlua2iC0tPgo=</text>
+        <text encoding="base64">ICAgIHBhcmFtcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08ZWwtYnV0dG9uIHYtc2hvdz0ic2NvcGUucm93LmVkaXRlZCIgdHlwZT0idGV4dCIgc2l6ZT0ic21hbGwiIEBjbGljaz0iY2FuY2VsUmVqZWN0KHNjb3BlLnJvdyxzY29wZS4kaW5kZXgpIj4tLT4K</text>
+        <text encoding="base64">ICAgICAgcm93LmVkaXRlZCA9IHRydWUK</text>
       </register>
     </registers>
     <search>
