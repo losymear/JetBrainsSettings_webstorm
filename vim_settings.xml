@@ -152,11 +152,11 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1548760599674">
-        <mark key="[" line="63" column="19" />
-        <mark key="]" line="63" column="28" />
-        <mark key="^" line="63" column="28" />
-        <mark key="." line="63" column="28" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1548765890693">
+        <mark key="[" line="67" column="29" />
+        <mark key="]" line="67" column="14" />
+        <mark key="." line="67" column="14" />
+        <mark key="^" line="67" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548752974610">
         <mark key="[" line="37" column="0" />
@@ -278,11 +278,6 @@
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548759267518">
-        <mark key="]" line="76" column="2" />
-        <mark key="^" line="76" column="2" />
-        <mark key="." line="76" column="2" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/request.js" timestamp="1548748378778">
         <mark key="'" line="10" column="22" />
@@ -452,8 +447,8 @@
       <jump line="70" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fetch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>fetch</text>
@@ -462,34 +457,34 @@
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQGZldGNoPSJmZXRjaFBlbmRpbmdMaXN0Igo=</text>
+        <text encoding="base64">ICAgICAgICA8ZWwtZm9ybS1pdGVtIGxhYmVsPSLmjInkvIHkuJrlkI3mkJzntKLogYzkvY0iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8L2VsLWZvcm0taXRlbT4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm9keUZvcm1EYXRhLmFwcGVuZCgnbGV2ZWwnLCBzZWxmLm5ld0pvYkxldmVsKQo=</text>
+        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm9keUZvcm1EYXRhLmFwcGVuZCgnbGV2ZWwnLCByb3cubGV2ZWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWRkTmV3QWJpbGl0eSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgPGJyLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxlbC1mb3JtIGNsYXNzPSJkZW1vLWZvcm0taW5saW5lIj4K</text>
+        <text encoding="base64">ICAgICAgICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZWwtZm9ybT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
