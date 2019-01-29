@@ -148,12 +148,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548733589819">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548735145218">
         <mark key="'" line="18" column="20" />
-        <mark key="[" line="252" column="5" />
-        <mark key="]" line="255" column="0" />
-        <mark key="^" line="255" column="0" />
-        <mark key="." line="255" column="0" />
+        <mark key="[" line="207" column="20" />
+        <mark key="]" line="207" column="27" />
+        <mark key="." line="207" column="27" />
+        <mark key="^" line="207" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548071449645">
         <mark key="[" line="47" column="0" />
@@ -577,43 +577,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;(scope</text>
+        <text>rejectReason</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;(scope</text>
+        <text>rejectReason</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lZGl0TG9jayA9IHRydWUKICAgICAgcm93LmVkaXRlZCA9IHRydWUKICAgICAgcm93LmVkaXRlZFR5cGUgPSAyCg==</text>
+        <text encoding="base64">ICAgICAgYm9keUZvcm1EYXRhLmFwcGVuZCgnYXBwbHlJZCcsIHJvdy5hcHBseUlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YWJsZURhdGFbaW5kZXhdLnJlamVjdFJlYXNvbiA9ICcnCiAgICAgIHRoaXMuZWRpdExvY2sgPSBmYWxzZQogICAgICByb3cuZWRpdGVkID0gZmFsc2UKICAgICAgcm93LmVkaXRlZFR5cGUgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzog5o6l5Y+XbGV2ZWwgaW5057G75Z6LCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YWJsZURhdGFbaW5kZXhdLmxldmVsID0gdW5kZWZpbmVkCiAgICAgIHRoaXMuZWRpdExvY2sgPSBmYWxzZQogICAgICByb3cuZWRpdGVkID0gZmFsc2UKICAgICAgcm93LmVkaXRlZFR5cGUgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgLy8gYXBwbHlQYXNzKGJvZHlGb3JtRGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXMKICAgICAgY29uc3QgcmVxdWVzdFN1Y2Nlc3MgPSBmYWxzZQogICAgICBjb25zdCBib2R5Rm9ybURhdGEgPSBuZXcgRm9ybURhdGEoKQogICAgICBib2R5Rm9ybURhdGEuYXBwZW5kKCdhcHBseUlkJywgcm93LmFwcGx5SWQpCg==</text>
+        <text encoding="base64">ICAgICAgaWYoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlnLmhlYWRlcnNbJ1gtVG9rZW4nXSA9IGdldFRva2VuKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdtdWx0aXBhcnQvZm9ybS1kYXRhJyB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuaGVhZGVyc1snQ29udGVudC1UeXBlJ10gPSB1bmRlZmluZWQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnM6IHsKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi94bWwnCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy50YWJsZURhdGFbaW5kZXhdLnJlamVjdFJlYXNvbiA9ICcnCiAgICAgIHRoaXMuZWRpdExvY2sgPSBmYWxzZQogICAgICByb3cuZWRpdGVkID0gZmFsc2UKICAgICAgcm93LmVkaXRlZFR5cGUgPSAwCg==</text>
       </register>
     </registers>
     <search>
