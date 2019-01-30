@@ -16,12 +16,12 @@
         <mark key="." line="40" column="101" />
         <mark key="^" line="40" column="101" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/EditJob.vue" timestamp="1548829034636">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/EditJob.vue" timestamp="1548832454794">
         <mark key="'" line="19" column="66" />
-        <mark key="[" line="177" column="25" />
-        <mark key="]" line="177" column="25" />
-        <mark key="." line="177" column="25" />
-        <mark key="^" line="177" column="25" />
+        <mark key="[" line="220" column="14" />
+        <mark key="]" line="220" column="13" />
+        <mark key="." line="220" column="13" />
+        <mark key="^" line="220" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548828870321">
         <mark key="'" line="18" column="0" />
@@ -251,43 +251,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>createNewJob</text>
+        <text>between</text>
       </register>
       <register name="-" type="4">
-        <text>createNewJob</text>
+        <text>between</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi4kcm91dGVyLnB1c2goeyBwYXRoOiBgL2Jhbm5lci9iYW5uZXJMaXN0LyR7cm93LmlkfWAgfSkK</text>
+        <text encoding="base64">ICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZXh0YXJlYXsKICAgIG1pbi1oZWlnaHQ6IDsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYTogMywK</text>
+        <text encoding="base64">ICAgICAgZmxleDogMSAwIGF1dG87Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiAK</text>
+        <text encoding="base64">ICAgICAgd2lkb3dzOiAxMDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbWcgOnNyYz0ic2NvcGUucm93LmNvbXBhbnlMb2dvIiB3aWR0aD0iMTAwcHgiIG1heC1oZWlnaHQ9IjE0MHB4Ij4K</text>
+        <text encoding="base64">ICB0ZXh0YXJlYXsKICAgIG1pbi1oZWlnaHQ6IDsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbgo=</text>
+        <text encoding="base64">ICAgICAgYTogMywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOmRpc2FibGVkPSJlZGl0TG9jayIK</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgOnNyYz0ic2NvcGUucm93LmNvbXBhbnlMb2dvIiB3aWR0aD0iMTAwcHgiIG1heC1oZWlnaHQ9IjE0MHB4Ij4K</text>
       </register>
     </registers>
     <search>
