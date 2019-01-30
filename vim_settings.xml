@@ -33,8 +33,12 @@
         <mark key="^" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548668847906">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548824040856">
         <mark key="'" line="18" column="0" />
+        <mark key="[" line="71" column="21" />
+        <mark key="]" line="71" column="40" />
+        <mark key="^" line="71" column="40" />
+        <mark key="." line="71" column="40" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/App.vue" timestamp="1546673032170">
         <mark key="[" line="10" column="11" />
@@ -346,7 +350,7 @@
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1548817340705">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1548823577949">
         <mark key="[" line="48" column="72" />
         <mark key="]" line="48" column="81" />
         <mark key="^" line="48" column="81" />
@@ -457,10 +461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>interivewerId</text>
+        <text>companyLogo_img</text>
       </register>
       <register name="-" type="4">
-        <text>interivewerId</text>
+        <text>companyLogo_img</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
