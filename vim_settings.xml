@@ -158,9 +158,11 @@
         <mark key="." line="67" column="14" />
         <mark key="^" line="67" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548752974610">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="35" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548816682216">
+        <mark key="[" line="97" column="42" />
+        <mark key="]" line="97" column="37" />
+        <mark key="^" line="97" column="37" />
+        <mark key="." line="97" column="37" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/css/reset.css" timestamp="1547621436060">
         <mark key="[" line="0" column="0" />
@@ -240,6 +242,13 @@
         <mark key="]" line="319" column="8" />
         <mark key="^" line="319" column="8" />
         <mark key="." line="319" column="8" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerVerify.js" timestamp="1548815988644">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="45" column="7" />
+        <mark key="^" line="45" column="7" />
+        <mark key="." line="45" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1548742536173">
         <mark key="'" line="143" column="0" />
@@ -337,7 +346,7 @@
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1548760376182">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1548816020803">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="34" />
         <mark key="^" line="182" column="31" />
@@ -447,11 +456,11 @@
       <jump line="70" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>interivewerId</text>
       </register>
       <register name="-" type="4">
-        <text>fetch</text>
+        <text>interivewerId</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
@@ -460,28 +469,28 @@
         <text encoding="base64">ICAgICAgICA8ZWwtZm9ybS1pdGVtIGxhYmVsPSLmjInkvIHkuJrlkI3mkJzntKLogYzkvY0iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2VsLWZvcm0taXRlbT4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOmRpc2FibGVkPSJlZGl0TG9jayIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdi1zaG93PSJzY29wZS5yb3cudmVyaWZ5U3RhdHVzPT09J+W3sueUs+ivtycmJiFzY29wZS5yb3cuZWRpdGVkIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8L2VsLWZvcm0taXRlbT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGJyLz4K</text>
+        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICoK</text>
+        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
