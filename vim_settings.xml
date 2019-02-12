@@ -89,11 +89,12 @@
         <mark key="^" line="45" column="7" />
         <mark key="." line="45" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" timestamp="1549968564927">
-        <mark key="[" line="274" column="26" />
-        <mark key="]" line="274" column="24" />
-        <mark key="^" line="274" column="24" />
-        <mark key="." line="274" column="24" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" timestamp="1549971383580">
+        <mark key="'" line="343" column="16" />
+        <mark key="[" line="202" column="13" />
+        <mark key="]" line="202" column="31" />
+        <mark key="^" line="202" column="31" />
+        <mark key="." line="202" column="31" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1548827731183">
         <mark key="'" line="149" column="0" />
@@ -159,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" />
       <jump line="11" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/modules/banner.js" />
       <jump line="179" column="48" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" />
       <jump line="8" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" />
@@ -259,6 +259,7 @@
       <jump line="70" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" />
       <jump line="19" column="66" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/EditJob.vue" />
       <jump line="238" column="41" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" />
+      <jump line="334" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
