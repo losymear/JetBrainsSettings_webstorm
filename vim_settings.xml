@@ -10,17 +10,18 @@
         <mark key="." line="45" column="12" />
         <mark key="^" line="45" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/.babelrc" timestamp="1548748060560">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1548828045816">
         <mark key="'" line="154" column="0" />
         <mark key="[" line="67" column="42" />
         <mark key="]" line="43" column="112" />
         <mark key="^" line="43" column="32" />
         <mark key="." line="43" column="32" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/onlinetest.env.js" timestamp="1550113247325">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1548827530348">
         <mark key="'" line="92" column="32" />
@@ -42,12 +43,6 @@
         <mark key="." line="220" column="13" />
         <mark key="^" line="220" column="13" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548753217809">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="30" column="10" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548828870321">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="19" column="51" />
@@ -55,32 +50,11 @@
         <mark key="^" line="19" column="60" />
         <mark key="." line="19" column="60" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548750094803">
-        <mark key="'" line="36" column="16" />
-        <mark key="[" line="78" column="28" />
-        <mark key="]" line="79" column="37" />
-        <mark key="." line="79" column="37" />
-        <mark key="^" line="79" column="37" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyList.vue" timestamp="1548846188796">
-        <mark key="'" line="146" column="59" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="25" column="5" />
-        <mark key="^" line="25" column="5" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/components/Navbar.vue" timestamp="1548644689851">
         <mark key="[" line="35" column="24" />
         <mark key="]" line="36" column="23" />
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/request.js" timestamp="1548669486463">
-        <mark key="'" line="97" column="4" />
-        <mark key="[" line="27" column="48" />
-        <mark key="]" line="27" column="55" />
-        <mark key="^" line="27" column="55" />
-        <mark key="." line="27" column="55" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerVerify.js" timestamp="1548815988644">
         <mark key="'" line="10" column="6" />
@@ -88,13 +62,6 @@
         <mark key="]" line="45" column="7" />
         <mark key="^" line="45" column="7" />
         <mark key="." line="45" column="7" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" timestamp="1549971383580">
-        <mark key="'" line="343" column="16" />
-        <mark key="[" line="202" column="13" />
-        <mark key="]" line="202" column="31" />
-        <mark key="^" line="202" column="31" />
-        <mark key="." line="202" column="31" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1548827731183">
         <mark key="'" line="149" column="0" />
@@ -110,13 +77,6 @@
         <mark key="^" line="77" column="49" />
         <mark key="." line="77" column="49" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/main.scss" timestamp="1548753620048">
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="88" column="22" />
-        <mark key="]" line="88" column="23" />
-        <mark key="." line="88" column="23" />
-        <mark key="^" line="88" column="23" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1548846263655">
         <mark key="[" line="101" column="19" />
         <mark key="]" line="102" column="7" />
@@ -129,12 +89,6 @@
         <mark key="^" line="126" column="9" />
         <mark key="." line="126" column="9" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1548846831586">
-        <mark key="[" line="106" column="49" />
-        <mark key="]" line="55" column="65" />
-        <mark key="^" line="55" column="65" />
-        <mark key="." line="55" column="65" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/Index.vue" timestamp="1548827615841">
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="65" />
@@ -145,6 +99,53 @@
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1548753217809">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="30" column="10" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548750094803">
+        <mark key="'" line="36" column="16" />
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="79" column="37" />
+        <mark key="." line="79" column="37" />
+        <mark key="^" line="79" column="37" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyList.vue" timestamp="1548846188796">
+        <mark key="'" line="146" column="59" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/request.js" timestamp="1548669486463">
+        <mark key="'" line="97" column="4" />
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="55" />
+        <mark key="^" line="27" column="55" />
+        <mark key="." line="27" column="55" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" timestamp="1549971383580">
+        <mark key="'" line="343" column="16" />
+        <mark key="[" line="202" column="13" />
+        <mark key="]" line="202" column="31" />
+        <mark key="^" line="202" column="31" />
+        <mark key="." line="202" column="31" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/main.scss" timestamp="1548753620048">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="88" column="22" />
+        <mark key="]" line="88" column="23" />
+        <mark key="." line="88" column="23" />
+        <mark key="^" line="88" column="23" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1548846831586">
+        <mark key="[" line="106" column="49" />
+        <mark key="]" line="55" column="65" />
+        <mark key="^" line="55" column="65" />
+        <mark key="." line="55" column="65" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548816682216">
         <mark key="[" line="97" column="42" />
