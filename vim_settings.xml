@@ -63,12 +63,19 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerVerify.js" timestamp="1548815988644">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerClient.js" timestamp="1551790223582">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerVerify.js" timestamp="1551790184610">
         <mark key="'" line="10" column="6" />
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="7" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="45" column="7" />
+        <mark key="[" line="39" column="1" />
+        <mark key="]" line="36" column="17" />
+        <mark key="^" line="36" column="17" />
+        <mark key="." line="36" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1551786940009">
         <mark key="[" line="131" column="18" />
@@ -95,8 +102,8 @@
         <mark key="^" line="137" column="38" />
         <mark key="." line="137" column="38" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1551788596968">
-        <mark key="[" line="68" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1551790202374">
+        <mark key="[" line="75" column="0" />
         <mark key="]" line="102" column="7" />
         <mark key="." line="102" column="7" />
         <mark key="^" line="102" column="7" />
@@ -185,12 +192,12 @@
         <mark key="." line="88" column="23" />
         <mark key="^" line="88" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" timestamp="1551788732776">
-        <mark key="'" line="46" column="25" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="33" column="10" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" timestamp="1551790464307">
+        <mark key="'" line="47" column="25" />
+        <mark key="[" line="26" column="90" />
+        <mark key="]" line="26" column="96" />
+        <mark key="." line="26" column="96" />
+        <mark key="^" line="26" column="96" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/ApplyList.vue" timestamp="1551785909482">
         <mark key="[" line="5" column="8" />
@@ -215,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="31" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="41" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="51" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
@@ -315,19 +321,20 @@
       <jump line="22" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/freelyChatTopic.js" />
       <jump line="12" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/FreelyChatApply.vue" />
       <jump line="43" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGFyc2VUaW1lIH0gZnJvbSAnQC91dGlscycK</text>
+        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9IuaYteensCIgd2lkdGg9IjIwMCIgcHJvcD0iaW50ZXJ2aWV3ZXJJbmZvLnRpdGxlIi8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>已申请</text>
+        <text>nickName</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGFyc2VUaW1lIH0gZnJvbSAnQC91dGlscycK</text>
+        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9IuaYteensCIgd2lkdGg9IjIwMCIgcHJvcD0iaW50ZXJ2aWV3ZXJJbmZvLnRpdGxlIi8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVkaXRMb2NrOiBmYWxzZSwK</text>
