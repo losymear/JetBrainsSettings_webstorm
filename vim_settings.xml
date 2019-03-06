@@ -23,11 +23,11 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/freelyChatTopic.js" timestamp="1551856778228">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="7" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="18" column="7" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/freelyChatTopic.js" timestamp="1551865511092">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" timestamp="1548827530348">
         <mark key="'" line="92" column="32" />
@@ -83,11 +83,14 @@
         <mark key="^" line="36" column="17" />
         <mark key="." line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1551786940009">
-        <mark key="[" line="131" column="18" />
-        <mark key="]" line="131" column="17" />
-        <mark key="^" line="131" column="17" />
-        <mark key="." line="131" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1551866073358">
+        <mark key="[" line="292" column="18" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1551860704407">
+        <mark key="[" line="143" column="24" />
+        <mark key="]" line="143" column="23" />
+        <mark key="^" line="143" column="23" />
+        <mark key="." line="143" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/eventForWorkCard.js" timestamp="1548750149038">
         <mark key="'" line="64" column="62" />
@@ -102,8 +105,8 @@
         <mark key="^" line="42" column="27" />
         <mark key="." line="42" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/login/index.vue" timestamp="1551786469267">
-        <mark key="[" line="137" column="39" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/login/index.vue" timestamp="1551861457989">
+        <mark key="[" line="9" column="28" />
         <mark key="]" line="137" column="38" />
         <mark key="^" line="137" column="38" />
         <mark key="." line="137" column="38" />
@@ -159,12 +162,12 @@
         <mark key="^" line="40" column="16" />
         <mark key="." line="40" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/components/ApplyHandle.vue" timestamp="1551858136294">
-        <mark key="'" line="239" column="22" />
-        <mark key="[" line="247" column="29" />
-        <mark key="]" line="247" column="28" />
-        <mark key="^" line="247" column="28" />
-        <mark key="." line="247" column="28" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/components/ApplyHandle.vue" timestamp="1551866603960">
+        <mark key="'" line="261" column="30" />
+        <mark key="[" line="41" column="67" />
+        <mark key="]" line="41" column="68" />
+        <mark key="." line="41" column="68" />
+        <mark key="^" line="41" column="68" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/decoration.js" timestamp="1551788391221">
         <mark key="[" line="11" column="1" />
@@ -185,12 +188,12 @@
         <mark key="^" line="29" column="21" />
         <mark key="." line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" timestamp="1549971383580">
-        <mark key="'" line="343" column="16" />
-        <mark key="[" line="202" column="13" />
-        <mark key="]" line="202" column="31" />
-        <mark key="^" line="202" column="31" />
-        <mark key="." line="202" column="31" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" timestamp="1551866100377">
+        <mark key="'" line="148" column="14" />
+        <mark key="[" line="346" column="12" />
+        <mark key="]" line="148" column="14" />
+        <mark key="^" line="148" column="14" />
+        <mark key="." line="148" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/main.scss" timestamp="1548753620048">
         <mark key="'" line="251" column="0" />
@@ -199,21 +202,27 @@
         <mark key="." line="88" column="23" />
         <mark key="^" line="88" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" timestamp="1551854906192">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="76" column="15" />
-        <mark key="]" line="76" column="14" />
-        <mark key="." line="76" column="14" />
-        <mark key="^" line="76" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" timestamp="1551866802133">
+        <mark key="'" line="224" column="8" />
+        <mark key="[" line="120" column="87" />
+        <mark key="]" line="120" column="68" />
+        <mark key="." line="120" column="68" />
+        <mark key="^" line="120" column="68" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/ApplyList.vue" timestamp="1551785909482">
         <mark key="[" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1551851874567">
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="253" column="3" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBannerGroup.vue" timestamp="1551861892524">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1551865692011">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="31" />
+        <mark key="^" line="124" column="5" />
+        <mark key="." line="124" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548816682216">
         <mark key="[" line="97" column="42" />
@@ -221,24 +230,14 @@
         <mark key="^" line="97" column="37" />
         <mark key="." line="97" column="37" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1551857225614">
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="106" column="64" />
-        <mark key="^" line="106" column="17" />
-        <mark key="." line="106" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1551860554689">
+        <mark key="[" line="207" column="2" />
+        <mark key="]" line="97" column="30" />
+        <mark key="^" line="97" column="30" />
+        <mark key="." line="97" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
-      <jump line="102" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
-      <jump line="158" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
-      <jump line="180" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
-      <jump line="184" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
-      <jump line="80" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" />
-      <jump line="3" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" />
-      <jump line="138" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" />
-      <jump line="150" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" />
-      <jump line="23" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/index.html" />
       <jump line="53" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/.gitignore" />
       <jump line="6" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/.gitignore" />
       <jump line="2" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/index.js" />
@@ -329,46 +328,56 @@
       <jump line="152" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
       <jump line="46" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
       <jump line="231" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/components/ApplyHandle.vue" />
+      <jump line="261" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/components/ApplyHandle.vue" />
+      <jump line="148" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" />
+      <jump line="25" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="55" column="1" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="57" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="17" column="49" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="128" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="113" column="47" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="158" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="224" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRhbG9nSWQ6IFsKICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7fpgInmi6nkuLvpopjnsbvlnosnLCB0cmlnZ2VyOiAnY2hhbmdlJyB9CiAgICAgICAgXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>applyPass</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbgo=</text>
+        <text encoding="base64">ICAgICAgICBjYXRhbG9nSWQ6IFsKICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7fpgInmi6nkuLvpopjnsbvlnosnLCB0cmlnZ2VyOiAnY2hhbmdlJyB9CiAgICAgICAgXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC90ZW1wbGF0ZT48L2VsLXRhYmxlLWNvbHVtbj4K</text>
+        <text encoding="base64">ICAgIGFzeW5jIGdldENhdGFsb2dMaXN0KCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZWwtdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coc2VsZi5ydWxlRm9ybS5kZXNjcmlwdGlvbikKICAgICAgICAgICAgLy8gY3JlYXRlQmFubmVyR3JvdXAoc2VsZi5ydWxlRm9ybS5ncm91cElkLCBzZWxmLnJ1bGVGb3JtLmRlc2NyaXB0aW9uKQogICAgICAgICAgICAvLyAgIC50aGVuKHJlcyA9PiB7CiAgICAgICAgICAgIC8vICAgICAvLyBUT0RPOiBAd3kg5Yib5bu65oiQ5Yqf55qE5pON5L2cCiAgICAgICAgICAgIC8vICAgICB0aGlzLiRyb3V0ZXIucHVzaCh7IHBhdGg6IGAvYmFubmVyL2Jhbm5lckxpc3QvJHtyZXMuZGF0YX1gIH0pCiAgICAgICAgICAgIC8vICAgfSkuY2F0Y2goKCkgPT4gewogICAgICAgICAgICAvLyB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuZWRpdExvY2sgPSB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgc2xvdC1zY29wZT0ic2NvcGUiPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbj4K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHFzLnN0cmluZ2lmeShwYXJhbXMsIHsgYXJyYXlGb3JtYXQ6ICdyZXBlYXQnIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZWwtdGFibGUtY29sdW1uPgo=</text>
+        <text encoding="base64">ICAgICdwYXJhbXNTZXJpYWxpemVyJzogZnVuY3Rpb24ocGFyYW1zKSB7Cg==</text>
       </register>
     </registers>
     <search>
