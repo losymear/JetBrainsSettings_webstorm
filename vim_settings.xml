@@ -159,11 +159,11 @@
         <mark key="^" line="40" column="16" />
         <mark key="." line="40" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/components/ApplyHandle.vue" timestamp="1551841483206">
-        <mark key="[" line="37" column="2" />
-        <mark key="]" line="37" column="1" />
-        <mark key="^" line="37" column="1" />
-        <mark key="." line="37" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/components/ApplyHandle.vue" timestamp="1551853666482">
+        <mark key="[" line="136" column="13" />
+        <mark key="]" line="146" column="13" />
+        <mark key="^" line="146" column="13" />
+        <mark key="." line="146" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/decoration.js" timestamp="1551788391221">
         <mark key="[" line="11" column="1" />
@@ -198,21 +198,21 @@
         <mark key="." line="88" column="23" />
         <mark key="^" line="88" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" timestamp="1551842374339">
-        <mark key="'" line="70" column="14" />
-        <mark key="[" line="107" column="7" />
-        <mark key="]" line="106" column="60" />
-        <mark key="^" line="106" column="60" />
-        <mark key="." line="106" column="60" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" timestamp="1551853751176">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="114" column="64" />
+        <mark key="]" line="114" column="44" />
+        <mark key="." line="114" column="44" />
+        <mark key="^" line="114" column="44" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/ApplyList.vue" timestamp="1551785909482">
         <mark key="[" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1551841939906">
-        <mark key="[" line="150" column="19" />
-        <mark key="]" line="150" column="18" />
-        <mark key="^" line="150" column="18" />
-        <mark key="." line="150" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1551851874567">
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="253" column="3" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="20" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548816682216">
         <mark key="[" line="97" column="42" />
@@ -220,17 +220,14 @@
         <mark key="^" line="97" column="37" />
         <mark key="." line="97" column="37" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1551841466705">
-        <mark key="[" line="96" column="22" />
-        <mark key="]" line="248" column="22" />
-        <mark key="^" line="248" column="22" />
-        <mark key="." line="248" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1551852588172">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
-      <jump line="66" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
-      <jump line="80" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="98" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="99" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
       <jump line="102" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" />
@@ -328,46 +325,49 @@
       <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerClient.js" />
       <jump line="27" column="105" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
       <jump line="69" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="97" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="152" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
+      <jump line="46" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2VsZi5nZXRBcHBsaWVkKDApCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZldGNoUGFyYW1zLmludGVydmlld2VySWQgPSBpbnRlcml2ZXdlckluZm8uZGF0YS5pZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>描述</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0SW50ZXJ2aWV3ZXJJbmZvIH0gZnJvbSAnQC9hcGkvaW50ZXJ2aWV3ZXJDbGllbnQnCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZldGNoUGFyYW1zLmludGVydmlld2VySWQgPSBpbnRlcml2ZXdlckluZm8uZGF0YS5pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2VsZi5nZXRBcHBsaWVkKDApCg==</text>
+        <text encoding="base64">ICAgIC8vIEBKc29uUHJvcGVydHkoIjAiKQogICAgLy8gICDlrqHmoLjkuK0sCiAgICAvLyAgICAgQEpzb25Qcm9wZXJ0eSgiMSIpCiAgICAvLyAgIOWuoeaguOmAmui/hywKICAgIC8vICAgICBASnNvblByb3BlcnR5KCIyIikKICAgIC8vICAg5a6h5qC46KKr5ouS57udLAogICAgLy8gICAgIEBKc29uUHJvcGVydHkoIjMiKQogICAgLy8gICDkuIvmnrYsCiAgICAvLyAgICAgQEpzb25Qcm9wZXJ0eSgiNCIpCiAgICAvLyAgIOWIoOmZpDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gMOacquiuvue9ruiupOivgeS/oeaBr++8mzHlrqHmoLjkuK3vvJsy6aqM6K+B6YCa6L+H77ybM+mqjOivgeWksei0pe+8jOWvueW6lHZlcmlmeV9yZWNvcmTooajnmoRzdGF0dXPlrZfmrrUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXMK</text>
+        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9IuiKnem6u+iupOivgSIgd2lkdGg9IjI4MCI+CiAgICAgICAgPHRlbXBsYXRlIHNsb3Qtc2NvcGU9InNjb3BlIj4KICAgICAgICAgIDxzcGFuPnt7IHRyYW5zVmVyaWZ5U3RhdHVzKHNjb3BlLnJvdy5pbnRlcnZpZXdlckluZm8udmVyaWZ5U3RhdHVzKSB9fTwvc3Bhbj4KICAgICAgICA8L3RlbXBsYXRlPgogICAgICA8L2VsLXRhYmxlLWNvbHVtbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXMK</text>
+        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9IuiupOivgeeKtuaAgSIgd2lkdGg9IjI4MCIgcHJvcD0iaW50ZXJ2aWV3ZXJJbmZvLnZlcmlmeVN0YXR1cyIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgIGhlYWRlci1hbGlnbj0iY2VudGVyIgogICAgICAgIGFsaWduPSJjZW50ZXIiCiAgICAgICAgbGFiZWw9IuiupOivgeeKtuaAgSIKICAgICAgICB3aWR0aD0iMTgwIgogICAgICAgIHByb3A9InZlcmlmeVN0YXR1cyIKICAgICAgICBzaG93LW92ZXJmbG93LXRvb2x0aXAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLy8gc2VsZi5nZXRBcHBsaWVkKDApCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZldGNoUGVuZGluZ0xpc3QocGFnZSkgewo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lOiAnQXBwbHlIYW5kbGUnLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXMK</text>
       </register>
     </registers>
     <search>
