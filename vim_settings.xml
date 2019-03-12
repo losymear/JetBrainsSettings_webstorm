@@ -10,6 +10,13 @@
         <mark key="." line="45" column="12" />
         <mark key="^" line="45" column="12" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/picupload/index.vue" timestamp="1552400220095">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1551443743374">
         <mark key="'" line="154" column="0" />
         <mark key="[" line="125" column="25" />
@@ -56,12 +63,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1548828870321">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="60" />
-        <mark key="^" line="19" column="60" />
-        <mark key="." line="19" column="60" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1552399982473">
+        <mark key="'" line="102" column="27" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="77" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/components/Navbar.vue" timestamp="1548644689851">
         <mark key="[" line="35" column="24" />
@@ -86,11 +93,11 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1551866073358">
         <mark key="[" line="292" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1551860704407">
-        <mark key="[" line="143" column="24" />
-        <mark key="]" line="143" column="23" />
-        <mark key="^" line="143" column="23" />
-        <mark key="." line="143" column="23" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1552399576813">
+        <mark key="[" line="117" column="17" />
+        <mark key="]" line="126" column="25" />
+        <mark key="." line="126" column="25" />
+        <mark key="^" line="126" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/eventForWorkCard.js" timestamp="1548750149038">
         <mark key="'" line="64" column="62" />
@@ -136,11 +143,11 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/dev.env.js" timestamp="1551782584517">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="3" column="45" />
-        <mark key="^" line="3" column="45" />
-        <mark key="." line="3" column="45" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/dev.env.js" timestamp="1552399069825">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548750094803">
         <mark key="'" line="36" column="16" />
@@ -240,8 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/scss/functions.scss" />
-      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" />
       <jump line="5" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" />
       <jump line="9" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" />
       <jump line="13" column="64" filename="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" />
@@ -340,46 +345,48 @@
       <jump line="402" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
       <jump line="295" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/InterviewerApply.vue" />
       <jump line="35" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/components/ApplyHandle.vue" />
+      <jump line="102" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" />
+      <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/picupload/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://localhost:9527/#/freelyChat/interviewerApply-state=3</text>
+        <text>.[]</text>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:9527/#/freelyChat/interviewerApply-state=3</text>
+        <text>.[]</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjYWxsYmFjayhuZXcgRXJyb3IoJ+ivt+Whq+WGmeS7t+agvCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZWxmLnJ1bGVGb3JtW3R5cGVdID0gYGh0dHA6Ly91cGxvYWQuMTdxbXMuY29tLyR7cmVzLmRhdGEua2V5fWAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdHlwZSA9ICdwaWNCZWQnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgc2VsZi51cGxvYWRCdXR0b25Mb2NrID0gdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDvvIjor63pn7PpgJror53jgIHop4bpopHpgJror53jgIHomZrmi5/lj7fnoIHmi6jlj7fvvIkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGxvYWRCdXR0b25Mb2NrID0gZmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZWxmLnJ1bGVGb3JtW3R5cGVdID0gYGh0dHA6Ly91cGxvYWQuMTdxbXMuY29tLyR7cmVzLmRhdGEua2V5fWAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxlbC1mb3JtLWl0ZW0gbGFiZWw9IuacjeWKoeexu+WeiyIgcHJvcD0ic2VydmljZUZhc2hpb24iPgogICAgICAgICAgICA8ZWwtaW5wdXQKICAgICAgICAgICAgICB2LW1vZGVsPSJuZXdUb3BpYy5zZXJ2aWNlRmFzaGlvbiIKICAgICAgICAgICAgICBzdHlsZT0id2lkdGg6MTIwcHg7bWFyZ2luOiA1cHggMCA1cHggMDsiLz4KICAgICAgICAgIDwvZWwtZm9ybS1pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBUT0RPOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS1UT0RPOiDnroDljobjgIHkuLvpopjnsbvlnostLT4K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9lbC10YWJsZS1jb2x1bW4+Cg==</text>
+        <text encoding="base64">ICBtZXRob2RzOnsKICAgIGNvbnNvbGUubG9nKCdOZXcgcGljdHVyZSBsb2FkZWQnKQogIGlmICh0aGlzLiRyZWZzLmNvbXBhbnlMb2dvSW5wdXQuZmlsZSkgewogIHRoaXMuY29tcGFueUxvZ29faW1nID0gdGhpcy4kcmVmcy5jb21wYW55TG9nb0lucHV0LmZpbGUKICB0aGlzLnVwbG9hZCgnY29tcGFueUxvZ28nKQp9IGVsc2UgewogIGNvbnNvbGUubG9nKCdPbGQgYnJvd3Nlci4gTm8gc3VwcG9ydCBmb3IgRmlsZXJlYWRlciBBUEknKQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBuYW1lOiAnUGljVXBsb2FkZXJJZHgnLAogIGNvbXBvbmVudHM6IHsgUGljdHVyZUlucHV0IH0sCiAgbWV0aG9kczp7CiAgICBjb25zb2xlLmxvZygnTmV3IHBpY3R1cmUgbG9hZGVkJykKICBpZiAodGhpcy4kcmVmcy5jb21wYW55TG9nb0lucHV0LmZpbGUpIHsKICB0aGlzLmNvbXBhbnlMb2dvX2ltZyA9IHRoaXMuJHJlZnMuY29tcGFueUxvZ29JbnB1dC5maWxlCiAgdGhpcy51cGxvYWQoJ2NvbXBhbnlMb2dvJykKfSBlbHNlIHsKICBjb25zb2xlLmxvZygnT2xkIGJyb3dzZXIuIE5vIHN1cHBvcnQgZm9yIEZpbGVyZWFkZXIgQVBJJykKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGU+ICA8L3RlbXBsYXRlPgo=</text>
+        <text encoding="base64">ICAgIGFiCg==</text>
       </register>
     </registers>
     <search>
