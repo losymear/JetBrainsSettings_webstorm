@@ -10,12 +10,12 @@
         <mark key="." line="45" column="12" />
         <mark key="^" line="45" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/picupload/index.vue" timestamp="1552450006390">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/picupload/index.vue" timestamp="1552453179596">
         <mark key="'" line="19" column="15" />
-        <mark key="[" line="109" column="24" />
-        <mark key="]" line="109" column="26" />
-        <mark key="." line="109" column="26" />
-        <mark key="^" line="109" column="26" />
+        <mark key="[" line="22" column="66" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+        <mark key="^" line="23" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1551443743374">
         <mark key="'" line="154" column="0" />
@@ -143,11 +143,11 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/dev.env.js" timestamp="1552448278564">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/dev.env.js" timestamp="1552453189397">
         <mark key="[" line="6" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548750094803">
         <mark key="'" line="36" column="16" />
@@ -350,16 +350,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>res</text>
+        <text>picUrl</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>picUrl</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1dWlkID0gc2VsZi4kdXVpZHYxKCkK</text>
+        <text encoding="base64">ICAgIDxzcGFuPnt7IHBpY1VybCB9fTwvc3Bhbj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdHlwZSA9ICdwaWNCZWQnCg==</text>
