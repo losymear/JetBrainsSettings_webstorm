@@ -146,11 +146,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/wechatgroup/WechatGroup.vue" timestamp="1552626406365">
-        <mark key="[" line="125" column="20" />
-        <mark key="]" line="2" column="62" />
-        <mark key="^" line="2" column="62" />
-        <mark key="." line="2" column="62" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/wechatgroup/WechatGroup.vue" timestamp="1552633412155">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1551788405331">
         <mark key="[" line="13" column="36" />
@@ -211,7 +211,6 @@
         <mark key="." line="29" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/wechatgroup/WechatGroupList.vue" timestamp="1552626812079">
-        <mark key="[" line="79" column="34" />
         <mark key="]" line="75" column="5" />
         <mark key="^" line="75" column="5" />
         <mark key="." line="75" column="5" />
@@ -371,7 +370,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhdGVnb3J5OiB0aGlzLmNhdGVnb3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYWNjZXB0PSJpbWFnZS9qcGVnLGltYWdlL3BuZyxpbWFnZS9qcGciLS0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/operator/banner/groucollegespList</text>
@@ -383,31 +382,31 @@
         <text encoding="base64">ICAgICAgICAgIGNhdGVnb3J5OiB0aGlzLmNhdGVnb3J5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYWNjZXB0PSJpbWFnZS9qcGVnLGltYWdlL3BuZyxpbWFnZS9qcGciLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZ3JvdXBJZCwgcGFnZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcmFtczogewo=</text>
+        <text encoding="base64">ICAgICAgZ3JvdXBJZCwgcGFnZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHlwZSA9ICdwaWNCZWQnCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtczogewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi51cGxvYWRCdXR0b25Mb2NrID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgdHlwZSA9ICdwaWNCZWQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGxvYWRCdXR0b25Mb2NrID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgc2VsZi51cGxvYWRCdXR0b25Mb2NrID0gdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzZWxmLnJ1bGVGb3JtW3R5cGVdID0gYGh0dHA6Ly91cGxvYWQuMTdxbXMuY29tLyR7cmVzLmRhdGEua2V5fWAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGxvYWRCdXR0b25Mb2NrID0gZmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBUT0RPOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZWxmLnJ1bGVGb3JtW3R5cGVdID0gYGh0dHA6Ly91cGxvYWQuMTdxbXMuY29tLyR7cmVzLmRhdGEua2V5fWAK</text>
       </register>
     </registers>
     <search>
