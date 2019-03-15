@@ -96,8 +96,8 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1551866073358">
         <mark key="[" line="292" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1552399576813">
-        <mark key="[" line="117" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1552624059404">
+        <mark key="[" line="52" column="21" />
         <mark key="]" line="126" column="25" />
         <mark key="." line="126" column="25" />
         <mark key="^" line="126" column="25" />
@@ -145,6 +145,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="28" column="10" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/wechatgroup/WechatGroup.vue" timestamp="1552624386651">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="2" column="62" />
+        <mark key="^" line="2" column="62" />
+        <mark key="." line="2" column="62" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1551788405331">
         <mark key="[" line="13" column="36" />
@@ -359,7 +365,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgIGNhdGVnb3J5OiB0aGlzLmNhdGVnb3J5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/operator/banner/groucollegespList</text>
@@ -368,7 +374,7 @@
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzcGFuPnt7IHBpY1VybCB9fTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgIGNhdGVnb3J5OiB0aGlzLmNhdGVnb3J5Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8K</text>
