@@ -146,8 +146,8 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/wechatgroup/WechatGroup.vue" timestamp="1552624386651">
-        <mark key="[" line="2" column="63" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/wechatgroup/WechatGroup.vue" timestamp="1552626406365">
+        <mark key="[" line="125" column="20" />
         <mark key="]" line="2" column="62" />
         <mark key="^" line="2" column="62" />
         <mark key="." line="2" column="62" />
@@ -209,6 +209,12 @@
         <mark key="]" line="29" column="21" />
         <mark key="^" line="29" column="21" />
         <mark key="." line="29" column="21" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/wechatgroup/WechatGroupList.vue" timestamp="1552626812079">
+        <mark key="[" line="79" column="34" />
+        <mark key="]" line="75" column="5" />
+        <mark key="^" line="75" column="5" />
+        <mark key="." line="75" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" timestamp="1551866100377">
         <mark key="'" line="148" column="14" />
