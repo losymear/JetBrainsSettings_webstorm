@@ -165,8 +165,11 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.js" timestamp="1553768980979">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.js" timestamp="1553770797179">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1551788405331">
         <mark key="[" line="13" column="36" />
@@ -257,7 +260,7 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/ApplyList.vue" timestamp="1551785909482">
         <mark key="[" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.js" timestamp="1553768940071">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.js" timestamp="1553770799224">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="13" column="17" />
         <mark key="^" line="13" column="17" />
