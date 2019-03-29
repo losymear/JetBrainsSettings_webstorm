@@ -70,7 +70,6 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/.gitignore_global" timestamp="1553769031922" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/components/Navbar.vue" timestamp="1548644689851">
         <mark key="[" line="35" column="24" />
         <mark key="]" line="36" column="23" />
@@ -165,11 +164,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.js" timestamp="1553784156189">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.js" timestamp="1553831661375">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1551788405331">
         <mark key="[" line="13" column="36" />
@@ -197,12 +197,12 @@
         <mark key="." line="25" column="5" />
         <mark key="^" line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.js" timestamp="1553784049246">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.js" timestamp="1553831470276">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/modules/decoration.js" timestamp="1551788387468">
         <mark key="[" line="40" column="17" />
