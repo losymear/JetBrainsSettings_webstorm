@@ -209,11 +209,9 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" timestamp="1553860032750">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="2" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" timestamp="1553863716753">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerClient.js" timestamp="1551841573752">
@@ -343,7 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/Withdraw.vue" />
       <jump line="9" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
       <jump line="53" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" />
       <jump line="1" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
@@ -439,14 +436,15 @@
       <jump line="28" column="47" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/service/uploadQiniu.ts" />
       <jump line="198" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="15" column="57" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
-      <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
       <jump line="67" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
       <jump line="9" column="71" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/README.md" />
       <jump line="14" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
+      <jump line="22" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
+      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RlJPTSBidWlsZGtpdGUvZG9ja2VyLXB1cHBldGVlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>node</text>
@@ -458,31 +456,31 @@
         <text encoding="base64">Q01EIFsibm9kZSIsICJpbmRleC5qcyJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RlJPTSBidWlsZGtpdGUvZG9ja2VyLXB1cHBldGVlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">UlVOIHNlZCAtaSAncy9kZWIuZGViaWFuLm9yZy9taXJyb3JzLjE2My5jb20vZycgL2V0Yy9hcHQvc291cmNlcy5saXN0ICYmIFwKICAgIGFwdCB1cGRhdGUgJiYgXAogICAgYXB0LWdldCBpbnN0YWxsIC15IGRwa2cgd2dldCB1bnppcAogICAgI2ZvbnRzLWRyb2lkIGZvbnRzLWFycGhpYy11a2FpIGZvbnRzLWFycGhpYy11bWluZwpSVU4gY2QgL3RtcCAmJiB3Z2V0IGh0dHA6Ly9mdHAuY24uZGViaWFuLm9yZy9kZWJpYW4vcG9vbC9tYWluL2YvZm9udHMtbm90by1jamsvZm9udHMtbm90by1jamtfMjAxNzA2MDErcmVwYWNrMS0zX2FsbC5kZWIgJiYgXAogICAgZHBrZyAtaSBmb250cy1ub3RvLWNqa18yMDE3MDYwMStyZXBhY2sxLTNfYWxsLmRlYiAgICAmJiBcCiAgICB3Z2V0IGh0dHBzOi8vZ2l0aHViLmNvbS9hZG9iZS1mb250cy9zb3VyY2Utc2Fucy1wcm8vcmVsZWFzZXMvZG93bmxvYWQvMi4wNDBSLXJvJTJGMS4wOTBSLWl0L3NvdXJjZS1zYW5zLXByby0yLjA0MFItcm8tMS4wOTBSLWl0LnppcCAmJiBcCiAgICB1bnppcCBzb3VyY2Utc2Fucy1wcm8tMi4wNDBSLXJvLTEuMDkwUi1pdC56aXAgJiYgY2Qgc291cmNlLXNhbnMtcHJvLTIuMDQwUi1yby0xLjA5MFItaXQgICYmIG12IC4vT1RGIC91c3Ivc2hhcmUvZm9udHMvICAmJiBcCiAgICBmYy1jYWNoZSAtZiAtdg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyDlpI3liLblrr/kuLvmnLrlvZPliY3ot6/lvoTkuIvmiYDmnInmlofku7bliLBkb2NrZXLnmoTlt6XkvZznm67lvZUK</text>
+      <register name="4" type="4">
+        <text encoding="base64">I0VOViAgUEFUSD0iJHtQQVRIfTovbm9kZV9tb2R1bGVzLy5iaW4iCgpSVU4gIG5wbSBzZXQgcmVnaXN0cnkgaHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZyAmJiBcCiAgICAgbnBtIHNldCBkaXN0dXJsIGh0dHBzOi8vbnBtLnRhb2Jhby5vcmcvZGlzdCAmJiBcCiAgICAgbnBtIHNldCBzYXNzX2JpbmFyeV9zaXRlIGh0dHBzOi8vbnBtLnRhb2Jhby5vcmcvbWlycm9ycy9ub2RlLXNhc3MgJiYgXAogICAgIG5wbSBzZXQgcHVwcGV0ZWVyX2Rvd25sb2FkX2hvc3QgaHR0cHM6Ly9ucG0udGFvYmFvLm9yZy9taXJyb3JzICYmIFwKICAgICBucG0gc2V0IGNocm9tZWRyaXZlcl9jZG51cmwgaHR0cHM6Ly9ucG0udGFvYmFvLm9yZy9taXJyb3JzL2Nocm9tZWRyaXZlciAmJiBcCiAgICAgbnBtIGk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">V09SS0RJUiAvd29ya3NwYWNlCg==</text>
+        <text encoding="base64">Q01EIFsibnBtIiwicnVuIiwic3RhcnQiXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyDmjIflrppSVU7jgIFDTUTkuI5FTlRSWVBPSU5U5ZG95Luk55qE5bel5L2c55uu5b2VCg==</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC93b3Jrc3BhY2UK</text>
+        <text encoding="base64">IyDmi4nlj5Zub2Rl6ZWc5YOPCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyDliJvlu7rpobnnm67ku6PnoIHnmoTnm67lvZUK</text>
+        <text encoding="base64">RlJPTSBidWlsZGtpdGUvZG9ja2VyLXB1cHBldGVlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RlJPTSBidWlsZGtpdGUvcHVwcGV0ZWVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
