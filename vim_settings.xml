@@ -153,11 +153,11 @@
         <mark key="^" line="29" column="21" />
         <mark key="." line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/package.json" timestamp="1553843787708">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/package.json" timestamp="1553852424886">
+        <mark key="[" line="9" column="166" />
+        <mark key="]" line="9" column="165" />
+        <mark key="^" line="9" column="165" />
+        <mark key="." line="9" column="165" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.js" timestamp="1553837583054">
         <mark key="[" line="14" column="0" />
@@ -171,8 +171,11 @@
         <mark key="^" line="124" column="5" />
         <mark key="." line="124" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/buildImage.sh" timestamp="1553843345906">
-        <mark key="[" line="4" column="66" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/buildImage.sh" timestamp="1553853177959">
+        <mark key="[" line="5" column="84" />
+        <mark key="]" line="5" column="83" />
+        <mark key="^" line="5" column="83" />
+        <mark key="." line="5" column="83" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548816682216">
         <mark key="[" line="97" column="42" />
@@ -206,11 +209,11 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" timestamp="1553843090608">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" timestamp="1553853273501">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerClient.js" timestamp="1551841573752">
         <mark key="'" line="8" column="0" />
@@ -441,8 +444,8 @@
       <jump line="198" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>path/file.txt was deleted</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsCg==</text>
       </register>
       <register name="-" type="4">
         <text>path/file.txt was deleted</text>
@@ -451,34 +454,34 @@
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsK</text>
+        <text encoding="base64">ZG9ja2VyIHRhZyByZXN1bWUtcGRmIHJlZ2lzdHJ5LmNuLWhhbmd6aG91LmFsaXl1bmNzLmNvbS9xdW1pYW5zaGkvcmVzdW1lLXBkZgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcy51bmxpbmtzCg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">ZG9ja2VyIHRhZyBwZGYgcmVnaXN0cnkuY24taGFuZ3pob3UuYWxpeXVuY3MuY29tL3F1bWlhbnNoaS9xbXNfYmFja2VuZDpyZWxlYXNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">Q09QWSAuIC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcy51bmxpbmtzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDliKDpmaTmlofku7YK</text>
+        <text encoding="base64">ICAgICAgICBwYWdlLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihg5LiN5a2Y5Zyo5paH5Lu2JHtmaWxlUGF0aH1gKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCghc3RhdCl8fCghc3RhdC5pc0ZpbGUoKSkpewo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDliKDpmaTmlofku7YK</text>
       </register>
     </registers>
     <search>
