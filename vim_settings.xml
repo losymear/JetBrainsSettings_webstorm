@@ -112,12 +112,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" timestamp="1553849467958">
-        <mark key="'" line="169" column="19" />
-        <mark key="[" line="195" column="31" />
-        <mark key="]" line="195" column="30" />
-        <mark key="^" line="195" column="30" />
-        <mark key="." line="195" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" timestamp="1553850668119">
+        <mark key="[" line="190" column="23" />
+        <mark key="]" line="190" column="22" />
+        <mark key="^" line="190" column="22" />
+        <mark key="." line="190" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548750094803">
         <mark key="'" line="36" column="16" />
@@ -279,7 +278,6 @@
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.js" timestamp="1553849389364">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="188" column="47" />
         <mark key="]" line="13" column="41" />
         <mark key="^" line="13" column="41" />
         <mark key="." line="13" column="41" />
@@ -326,11 +324,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/service/uploadQiniu.ts" timestamp="1553849342314">
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="26" column="54" />
-        <mark key="." line="26" column="54" />
-        <mark key="^" line="26" column="54" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/service/uploadQiniu.ts" timestamp="1553850337479">
+        <mark key="'" line="28" column="47" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="28" column="47" />
+        <mark key="^" line="28" column="47" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1551860554689">
         <mark key="[" line="207" column="2" />
@@ -340,8 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" />
-      <jump line="11" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/timeLimitedActivity/CumulativeReward.vue" />
       <jump line="29" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" />
       <jump line="83" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/timeLimitedActivity/CumulativeReward.vue" />
       <jump line="7" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/Withdraw.vue" />
@@ -440,46 +437,48 @@
       <jump line="148" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="169" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/service/uploadQiniu.ts" />
+      <jump line="28" column="47" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/service/uploadQiniu.ts" />
+      <jump line="198" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlLmNsb3NlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>path/file.txt was deleted</text>
       </register>
       <register name="-" type="4">
-        <text>resources</text>
+        <text>path/file.txt was deleted</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAncGF0aCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcy51bmxpbmtzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWdlLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDliKDpmaTmlofku7YK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihg5LiN5a2Y5Zyo5paH5Lu2JHtmaWxlUGF0aH1gKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDliKDpmaTmlofku7YK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCghc3RhdCl8fCghc3RhdC5pc0ZpbGUoKSkpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZzLnN0YXQoZmlsZVBhdGgpKXt9ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihg5LiN5a2Y5Zyo5paH5Lu2JHtmaWxlUGF0aH1gKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCghc3RhdCl8fCghc3RhdC5pc0ZpbGUoKSkpewo=</text>
       </register>
     </registers>
     <search>
