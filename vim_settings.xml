@@ -154,10 +154,10 @@
         <mark key="." line="29" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/package.json" timestamp="1553852424886">
-        <mark key="[" line="9" column="166" />
-        <mark key="]" line="9" column="165" />
-        <mark key="^" line="9" column="165" />
-        <mark key="." line="9" column="165" />
+        <mark key="[" line="8" column="166" />
+        <mark key="]" line="8" column="165" />
+        <mark key="^" line="8" column="165" />
+        <mark key="." line="8" column="165" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.js" timestamp="1553837583054">
         <mark key="[" line="14" column="0" />
@@ -171,11 +171,11 @@
         <mark key="^" line="124" column="5" />
         <mark key="." line="124" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/buildImage.sh" timestamp="1553854621185">
-        <mark key="[" line="5" column="84" />
-        <mark key="]" line="6" column="74" />
-        <mark key="^" line="6" column="74" />
-        <mark key="." line="6" column="74" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/buildImage.sh" timestamp="1553860037418">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548816682216">
         <mark key="[" line="97" column="42" />
@@ -209,12 +209,12 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" timestamp="1553854602496">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="14" />
-        <mark key="." line="42" column="14" />
-        <mark key="^" line="42" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" timestamp="1553860032750">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerClient.js" timestamp="1551841573752">
         <mark key="'" line="8" column="0" />
@@ -256,12 +256,12 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/README.md" timestamp="1553854647213">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/README.md" timestamp="1553859513594">
         <mark key="'" line="10" column="71" />
-        <mark key="[" line="8" column="67" />
-        <mark key="]" line="8" column="67" />
-        <mark key="." line="8" column="67" />
-        <mark key="^" line="8" column="67" />
+        <mark key="[" line="15" column="138" />
+        <mark key="]" line="15" column="137" />
+        <mark key="." line="15" column="137" />
+        <mark key="^" line="15" column="137" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/kua.js" timestamp="1552601417277">
         <mark key="[" line="15" column="0" />
@@ -343,7 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
       <jump line="40" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/Withdraw.vue" />
       <jump line="9" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
       <jump line="53" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" />
@@ -443,13 +442,14 @@
       <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
       <jump line="67" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
       <jump line="9" column="71" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/README.md" />
+      <jump line="14" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>qiyang.hqy@dtwave-inc.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RlJPTSBidWlsZGtpdGUvZG9ja2VyLXB1cHBldGVlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>qiyang.hqy@dtwave-inc.com</text>
+        <text>node</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
@@ -458,31 +458,31 @@
         <text encoding="base64">Q01EIFsibm9kZSIsICJpbmRleC5qcyJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RlJPTSBidWlsZGtpdGUvZG9ja2VyLXB1cHBldGVlcgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlJPTSBidWlsZGtpdGUvcHVwcGV0ZWVyCkNPUFkgLi8gL2FwcApXT1JLRElSIC9hcHAKCgpSVU4gc2VkIC1pICdzL2RlYi5kZWJpYW4ub3JnL21pcnJvcnMuMTYzLmNvbS9nJyAvZXRjL2FwdC9zb3VyY2VzLmxpc3QgJiYgXAogICAgYXB0IHVwZGF0ZSAmJiBcCiAgICBhcHQtZ2V0IGluc3RhbGwgLXkgZHBrZyB3Z2V0IHVuemlwCiAgICAjZm9udHMtZHJvaWQgZm9udHMtYXJwaGljLXVrYWkgZm9udHMtYXJwaGljLXVtaW5nClJVTiBjZCAvdG1wICYmIHdnZXQgaHR0cDovL2Z0cC5jbi5kZWJpYW4ub3JnL2RlYmlhbi9wb29sL21haW4vZi9mb250cy1ub3RvLWNqay9mb250cy1ub3RvLWNqa18yMDE3MDYwMStyZXBhY2sxLTNfYWxsLmRlYiAmJiBcCiAgICBkcGtnIC1pIGZvbnRzLW5vdG8tY2prXzIwMTcwNjAxK3JlcGFjazEtM19hbGwuZGViICAgICYmIFwKICAgIHdnZXQgaHR0cHM6Ly9naXRodWIuY29tL2Fkb2JlLWZvbnRzL3NvdXJjZS1zYW5zLXByby9yZWxlYXNlcy9kb3dubG9hZC8yLjA0MFItcm8lMkYxLjA5MFItaXQvc291cmNlLXNhbnMtcHJvLTIuMDQwUi1yby0xLjA5MFItaXQuemlwICYmIFwKICAgIHVuemlwIHNvdXJjZS1zYW5zLXByby0yLjA0MFItcm8tMS4wOTBSLWl0LnppcCAmJiBjZCBzb3VyY2Utc2Fucy1wcm8tMi4wNDBSLXJvLTEuMDkwUi1pdCAgJiYgbXYgLi9PVEYgL3Vzci9zaGFyZS9mb250cy8gICYmIFwKICAgIGZjLWNhY2hlIC1mIC12CgpSVU4gIG5wbSBzZXQgcmVnaXN0cnkgaHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZyAmJiBcCiAgICAgbnBtIHNldCBkaXN0dXJsIGh0dHBzOi8vbnBtLnRhb2Jhby5vcmcvZGlzdCAmJiBcCiAgICAgbnBtIHNldCBzYXNzX2JpbmFyeV9zaXRlIGh0dHBzOi8vbnBtLnRhb2Jhby5vcmcvbWlycm9ycy9ub2RlLXNhc3MgJiYgXAogICAgIG5wbSBzZXQgcHVwcGV0ZWVyX2Rvd25sb2FkX2hvc3QgaHR0cHM6Ly9ucG0udGFvYmFvLm9yZy9taXJyb3JzICYmIFwKICAgICBucG0gc2V0IGNocm9tZWRyaXZlcl9jZG51cmwgaHR0cHM6Ly9ucG0udGFvYmFvLm9yZy9taXJyb3JzL2Nocm9tZWRyaXZlciAmJiBcCiAgICAgbnBtIGkKCkNNRCBbIm5vZGUiLCAiaW5kZXguanMiXQoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">RlJPTSBidWlsZGtpdGUvcHVwcGV0ZWVyCkNPUFkgLi8gL2FwcApXT1JLRElSIC9hcHAKCgpSVU4gc2VkIC1pICdzL2RlYi5kZWJpYW4ub3JnL21pcnJvcnMuMTYzLmNvbS9nJyAvZXRjL2FwdC9zb3VyY2VzLmxpc3QgJiYgXAogICAgYXB0IHVwZGF0ZSAmJiBcCiAgICBhcHQtZ2V0IGluc3RhbGwgLXkgZHBrZyB3Z2V0IHVuemlwCiAgICAjZm9udHMtZHJvaWQgZm9udHMtYXJwaGljLXVrYWkgZm9udHMtYXJwaGljLXVtaW5nClJVTiBjZCAvdG1wICYmIHdnZXQgaHR0cDovL2Z0cC5jbi5kZWJpYW4ub3JnL2RlYmlhbi9wb29sL21haW4vZi9mb250cy1ub3RvLWNqay9mb250cy1ub3RvLWNqa18yMDE3MDYwMStyZXBhY2sxLTNfYWxsLmRlYiAmJiBcCiAgICBkcGtnIC1pIGZvbnRzLW5vdG8tY2prXzIwMTcwNjAxK3JlcGFjazEtM19hbGwuZGViICAgICYmIFwKICAgIHdnZXQgaHR0cHM6Ly9naXRodWIuY29tL2Fkb2JlLWZvbnRzL3NvdXJjZS1zYW5zLXByby9yZWxlYXNlcy9kb3dubG9hZC8yLjA0MFItcm8lMkYxLjA5MFItaXQvc291cmNlLXNhbnMtcHJvLTIuMDQwUi1yby0xLjA5MFItaXQuemlwICYmIFwKICAgIHVuemlwIHNvdXJjZS1zYW5zLXByby0yLjA0MFItcm8tMS4wOTBSLWl0LnppcCAmJiBjZCBzb3VyY2Utc2Fucy1wcm8tMi4wNDBSLXJvLTEuMDkwUi1pdCAgJiYgbXYgLi9PVEYgL3Vzci9zaGFyZS9mb250cy8gICYmIFwKICAgIGZjLWNhY2hlIC1mIC12CgpSVU4gIG5wbSBzZXQgcmVnaXN0cnkgaHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZyAmJiBcCiAgICAgbnBtIHNldCBkaXN0dXJsIGh0dHBzOi8vbnBtLnRhb2Jhby5vcmcvZGlzdCAmJiBcCiAgICAgbnBtIHNldCBzYXNzX2JpbmFyeV9zaXRlIGh0dHBzOi8vbnBtLnRhb2Jhby5vcmcvbWlycm9ycy9ub2RlLXNhc3MgJiYgXAogICAgIG5wbSBzZXQgcHVwcGV0ZWVyX2Rvd25sb2FkX2hvc3QgaHR0cHM6Ly9ucG0udGFvYmFvLm9yZy9taXJyb3JzICYmIFwKICAgICBucG0gc2V0IGNocm9tZWRyaXZlcl9jZG51cmwgaHR0cHM6Ly9ucG0udGFvYmFvLm9yZy9taXJyb3JzL2Nocm9tZWRyaXZlciAmJiBcCiAgICAgbnBtIGkKCkNNRCBbIm5vZGUiLCAiaW5kZXguanMiXQoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyDlpI3liLblrr/kuLvmnLrlvZPliY3ot6/lvoTkuIvmiYDmnInmlofku7bliLBkb2NrZXLnmoTlt6XkvZznm67lvZUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">V09SS0RJUiAvd29ya3NwYWNlCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsCg==</text>
+        <text encoding="base64">IyDmjIflrppSVU7jgIFDTUTkuI5FTlRSWVBPSU5U5ZG95Luk55qE5bel5L2c55uu5b2VCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsCg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC93b3Jrc3BhY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZG9ja2VyIHRhZyBwZGYgcmVnaXN0cnkuY24taGFuZ3pob3UuYWxpeXVuY3MuY29tL3F1bWlhbnNoaS9xbXNfYmFja2VuZDpyZWxlYXNlCg==</text>
+        <text encoding="base64">IyDliJvlu7rpobnnm67ku6PnoIHnmoTnm67lvZUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q09QWSAuIC4K</text>
+        <text encoding="base64">RlJPTSBidWlsZGtpdGUvcHVwcGV0ZWVyCg==</text>
       </register>
     </registers>
     <search>
