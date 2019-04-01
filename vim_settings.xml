@@ -93,6 +93,13 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/changelog.md" timestamp="1554086732026">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.js" timestamp="1553838419249">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="5" column="25" />
@@ -112,11 +119,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" timestamp="1553850668119">
-        <mark key="[" line="190" column="23" />
-        <mark key="]" line="190" column="22" />
-        <mark key="^" line="190" column="22" />
-        <mark key="." line="190" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" timestamp="1554087704597">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
+        <mark key="^" line="208" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548750094803">
         <mark key="'" line="36" column="16" />
@@ -153,11 +160,11 @@
         <mark key="^" line="29" column="21" />
         <mark key="." line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/package.json" timestamp="1553852424886">
-        <mark key="[" line="8" column="166" />
-        <mark key="]" line="8" column="165" />
-        <mark key="^" line="8" column="165" />
-        <mark key="." line="8" column="165" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/package.json" timestamp="1554087137753">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="44" />
+        <mark key="^" line="9" column="44" />
+        <mark key="." line="9" column="44" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.js" timestamp="1553837583054">
         <mark key="[" line="14" column="0" />
@@ -284,8 +291,12 @@
         <mark key="^" line="13" column="41" />
         <mark key="." line="13" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.ts" timestamp="1553842510748">
-        <mark key="'" line="27" column="20" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.ts" timestamp="1554085935558">
+        <mark key="'" line="28" column="20" />
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/freelyChat/components/ApplyHandle.vue" timestamp="1551941416019">
         <mark key="'" line="35" column="45" />
@@ -326,12 +337,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/service/uploadQiniu.ts" timestamp="1553850337479">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/service/uploadQiniu.ts" timestamp="1554087543083">
         <mark key="'" line="28" column="47" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="28" column="47" />
-        <mark key="^" line="28" column="47" />
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="53" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1551860554689">
         <mark key="[" line="207" column="2" />
@@ -341,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
       <jump line="53" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" />
       <jump line="1" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
       <jump line="93" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" />
@@ -441,46 +451,47 @@
       <jump line="14" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
       <jump line="22" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
+      <jump line="7" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/changelog.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIEFkZGVkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>node</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q01EIFsibm9kZSIsICJpbmRleC5qcyJdCg==</text>
+        <text encoding="base64">IyMjIEFkZGVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSDkuYvliY3nmoTmtYvor5VodG1s5paH5Lu25pu/5o2i5o6J44CCCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">UlVOIHNlZCAtaSAncy9kZWIuZGViaWFuLm9yZy9taXJyb3JzLjE2My5jb20vZycgL2V0Yy9hcHQvc291cmNlcy5saXN0ICYmIFwKICAgIGFwdCB1cGRhdGUgJiYgXAogICAgYXB0LWdldCBpbnN0YWxsIC15IGRwa2cgd2dldCB1bnppcAogICAgI2ZvbnRzLWRyb2lkIGZvbnRzLWFycGhpYy11a2FpIGZvbnRzLWFycGhpYy11bWluZwpSVU4gY2QgL3RtcCAmJiB3Z2V0IGh0dHA6Ly9mdHAuY24uZGViaWFuLm9yZy9kZWJpYW4vcG9vbC9tYWluL2YvZm9udHMtbm90by1jamsvZm9udHMtbm90by1jamtfMjAxNzA2MDErcmVwYWNrMS0zX2FsbC5kZWIgJiYgXAogICAgZHBrZyAtaSBmb250cy1ub3RvLWNqa18yMDE3MDYwMStyZXBhY2sxLTNfYWxsLmRlYiAgICAmJiBcCiAgICB3Z2V0IGh0dHBzOi8vZ2l0aHViLmNvbS9hZG9iZS1mb250cy9zb3VyY2Utc2Fucy1wcm8vcmVsZWFzZXMvZG93bmxvYWQvMi4wNDBSLXJvJTJGMS4wOTBSLWl0L3NvdXJjZS1zYW5zLXByby0yLjA0MFItcm8tMS4wOTBSLWl0LnppcCAmJiBcCiAgICB1bnppcCBzb3VyY2Utc2Fucy1wcm8tMi4wNDBSLXJvLTEuMDkwUi1pdC56aXAgJiYgY2Qgc291cmNlLXNhbnMtcHJvLTIuMDQwUi1yby0xLjA5MFItaXQgICYmIG12IC4vT1RGIC91c3Ivc2hhcmUvZm9udHMvICAmJiBcCiAgICBmYy1jYWNoZSAtZiAtdg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">LSBWZXJzaW9uIG5hdmlnYXRpb24uCi0gTGlua3MgdG8gbGF0ZXN0IHJlbGVhc2VkIHZlcnNpb24gaW4gcHJldmlvdXMgdmVyc2lvbnMuCi0gIldoeSBrZWVwIGEgY2hhbmdlbG9nPyIgc2VjdGlvbi4KLSAiV2hvIG5lZWRzIGEgY2hhbmdlbG9nPyIgc2VjdGlvbi4KLSAiSG93IGRvIEkgbWFrZSBhIGNoYW5nZWxvZz8iIHNlY3Rpb24uCi0gIkZyZXF1ZW50bHkgQXNrZWQgUXVlc3Rpb25zIiBzZWN0aW9uLgotIE5ldyAiR3VpZGluZyBQcmluY2lwbGVzIiBzdWItc2VjdGlvbiB0byAiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">I0VOViAgUEFUSD0iJHtQQVRIfTovbm9kZV9tb2R1bGVzLy5iaW4iCgpSVU4gIG5wbSBzZXQgcmVnaXN0cnkgaHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZyAmJiBcCiAgICAgbnBtIHNldCBkaXN0dXJsIGh0dHBzOi8vbnBtLnRhb2Jhby5vcmcvZGlzdCAmJiBcCiAgICAgbnBtIHNldCBzYXNzX2JpbmFyeV9zaXRlIGh0dHBzOi8vbnBtLnRhb2Jhby5vcmcvbWlycm9ycy9ub2RlLXNhc3MgJiYgXAogICAgIG5wbSBzZXQgcHVwcGV0ZWVyX2Rvd25sb2FkX2hvc3QgaHR0cHM6Ly9ucG0udGFvYmFvLm9yZy9taXJyb3JzICYmIFwKICAgICBucG0gc2V0IGNocm9tZWRyaXZlcl9jZG51cmwgaHR0cHM6Ly9ucG0udGFvYmFvLm9yZy9taXJyb3JzL2Nocm9tZWRyaXZlciAmJiBcCiAgICAgbnBtIGk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q01EIFsibnBtIiwicnVuIiwic3RhcnQiXQo=</text>
+        <text encoding="base64">IyMjIEFkZGVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
+        <text encoding="base64">LSBOZXcgdmlzdWFsIGlkZW50aXR5IGJ5IFtAdHlsZXJmb3J0dW5lOF0oaHR0cHM6Ly9naXRodWIuY29tL3R5bGVyZm9ydHVuZTgpLgotIFZlcnNpb24gbmF2aWdhdGlvbi4KLSBMaW5rcyB0byBsYXRlc3QgcmVsZWFzZWQgdmVyc2lvbiBpbiBwcmV2aW91cyB2ZXJzaW9ucy4KLSAiV2h5IGtlZXAgYSBjaGFuZ2Vsb2c/IiBzZWN0aW9uLgotICJXaG8gbmVlZHMgYSBjaGFuZ2Vsb2c/IiBzZWN0aW9uLgotICJIb3cgZG8gSSBtYWtlIGEgY2hhbmdlbG9nPyIgc2VjdGlvbi4KLSAiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMiIHNlY3Rpb24uCi0gTmV3ICJHdWlkaW5nIFByaW5jaXBsZXMiIHN1Yi1zZWN0aW9uIHRvICIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyDmi4nlj5Zub2Rl6ZWc5YOPCg==</text>
+        <text encoding="base64">IyMgW1VucmVsZWFzZWRdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RlJPTSBidWlsZGtpdGUvZG9ja2VyLXB1cHBldGVlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIuWIoOmZpOaWh+S7tuWHuumUmSIsIGtleSwpOwo=</text>
       </register>
     </registers>
     <search>
