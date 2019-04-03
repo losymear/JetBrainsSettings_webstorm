@@ -119,12 +119,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" timestamp="1554286582625">
-        <mark key="'" line="71" column="76" />
-        <mark key="[" line="75" column="19" />
-        <mark key="]" line="75" column="18" />
-        <mark key="^" line="75" column="18" />
-        <mark key="." line="75" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" timestamp="1554290370352">
+        <mark key="'" line="72" column="76" />
+        <mark key="[" line="77" column="13" />
+        <mark key="]" line="73" column="27" />
+        <mark key="^" line="73" column="27" />
+        <mark key="." line="73" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/pages/job_verify/src/js/imageUploader.js" timestamp="1548750094803">
         <mark key="'" line="36" column="16" />
@@ -338,12 +338,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/service/uploadQiniu.ts" timestamp="1554087543083">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/service/uploadQiniu.ts" timestamp="1554290023620">
         <mark key="'" line="28" column="47" />
-        <mark key="[" line="38" column="54" />
-        <mark key="]" line="38" column="53" />
-        <mark key="." line="38" column="53" />
-        <mark key="^" line="38" column="53" />
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="20" />
+        <mark key="." line="51" column="20" />
+        <mark key="^" line="51" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/components/ApplyHandle.vue" timestamp="1551860554689">
         <mark key="[" line="207" column="2" />
