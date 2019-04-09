@@ -3,16 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/picupload/index.vue" timestamp="1554802343242">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/picupload/index.vue" timestamp="1554803629149">
         <mark key="'" line="19" column="15" />
-        <mark key="[" line="79" column="28" />
+        <mark key="[" line="67" column="24" />
         <mark key="]" line="79" column="27" />
         <mark key="." line="79" column="27" />
         <mark key="^" line="79" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1554802885212">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1554803623234">
         <mark key="'" line="155" column="0" />
-        <mark key="[" line="115" column="35" />
+        <mark key="[" line="112" column="24" />
         <mark key="]" line="117" column="28" />
         <mark key="^" line="117" column="28" />
         <mark key="." line="117" column="28" />
@@ -29,9 +29,9 @@
         <mark key="." line="40" column="101" />
         <mark key="^" line="40" column="101" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/EditJob.vue" timestamp="1554802891869">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/EditJob.vue" timestamp="1554803632167">
         <mark key="'" line="19" column="66" />
-        <mark key="[" line="176" column="41" />
+        <mark key="[" line="172" column="24" />
         <mark key="]" line="220" column="13" />
         <mark key="." line="220" column="13" />
         <mark key="^" line="220" column="13" />
@@ -43,9 +43,9 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1554802889046">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1554803625835">
         <mark key="'" line="102" column="27" />
-        <mark key="[" line="151" column="41" />
+        <mark key="[" line="147" column="23" />
         <mark key="]" line="151" column="77" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
@@ -100,8 +100,8 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner_old_unresiable.vue" timestamp="1554802878927">
-        <mark key="[" line="101" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner_old_unresiable.vue" timestamp="1554803611823">
+        <mark key="[" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.js" timestamp="1553838419249">
         <mark key="'" line="10" column="0" />
@@ -154,9 +154,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/qiniu.js" timestamp="1553845790424">
-        <mark key="[" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1551785775730">
         <mark key="[" line="29" column="22" />
@@ -293,8 +290,8 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/wechatgroup/WechatGroup.vue" timestamp="1554802898546">
-        <mark key="[" line="127" column="36" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/wechatgroup/WechatGroup.vue" timestamp="1554803635243">
+        <mark key="[" line="121" column="24" />
         <mark key="]" line="27" column="24" />
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
