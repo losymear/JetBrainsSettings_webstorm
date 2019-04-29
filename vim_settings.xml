@@ -74,6 +74,12 @@
         <mark key="^" line="62" column="7" />
         <mark key="." line="62" column="7" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/FuWuFanWei.vue" timestamp="1556510521448">
+        <mark key="[" line="83" column="34" />
+        <mark key="]" line="83" column="29" />
+        <mark key="^" line="83" column="29" />
+        <mark key="." line="83" column="29" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/defines/result.ts" timestamp="1553849438283">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="1" column="18" />
@@ -232,10 +238,9 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" timestamp="1553863716753">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decorate/edit/ComponentContainer.vue" timestamp="1556510615016">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="55" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/interviewerClient.js" timestamp="1551841573752">
         <mark key="'" line="8" column="0" />
@@ -250,6 +255,9 @@
         <mark key="]" line="36" column="17" />
         <mark key="^" line="36" column="17" />
         <mark key="." line="36" column="17" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1556509846296">
+        <mark key="[" line="241" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1554800485016">
         <mark key="[" line="111" column="19" />
@@ -302,10 +310,11 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/myTypings/koa-cors/index.d.ts" timestamp="1553838972858">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/AddFanWei.vue" timestamp="1556509679048">
+        <mark key="[" line="169" column="20" />
+        <mark key="]" line="170" column="36" />
+        <mark key="^" line="170" column="36" />
+        <mark key="." line="170" column="36" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.ts" timestamp="1554085935558">
         <mark key="'" line="28" column="20" />
@@ -354,6 +363,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/store/baidudecoration.js" timestamp="1556510633299">
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="67" column="31" />
+        <mark key="^" line="67" column="31" />
+        <mark key="." line="67" column="31" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/service/uploadQiniu.ts" timestamp="1554290023620">
         <mark key="'" line="28" column="47" />
         <mark key="[" line="51" column="21" />
@@ -366,6 +381,9 @@
         <mark key="]" line="97" column="30" />
         <mark key="^" line="97" column="30" />
         <mark key="." line="97" column="30" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/store/baidu-mutation-types.js" timestamp="1556510443057">
+        <mark key="[" line="1" column="58" />
       </file>
     </filemarks>
     <jumps>
@@ -472,16 +490,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>banner组</text>
+        <text>Decoration_Move_ActiveTab</text>
       </register>
       <register name="-" type="4">
-        <text>banner组</text>
+        <text>Decoration_Move_ActiveTab</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9IuaJi+acuuWPtyIgd2lkdGg9IjI4MCIgcHJvcD0icGhvbmUiLz4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuY29tbWl0KCdEZWNvcmF0aW9uX01vdmVfQWN0aXZlVGFiJywgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBoZWFkZXItYWxpZ249ImNlbnRlciIgYWxpZ249ImNlbnRlciIgbGFiZWw9IuaYteensCIgd2lkdGg9IjI4MCIgcHJvcD0icHJvZmlsZS5uaWNrTmFtZSIvPgo=</text>
