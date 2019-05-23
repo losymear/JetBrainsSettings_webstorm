@@ -65,6 +65,9 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/router/index.js" timestamp="1558611101627">
+        <mark key="[" line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/build/webpack.dev.conf.js" timestamp="1551785990672">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="42" column="27" />
@@ -247,6 +250,12 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/AddOne.vue" timestamp="1558611299940">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/resources/dist/index.html" timestamp="1553845114266">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="17" column="36" />
@@ -372,6 +381,13 @@
         <mark key="." line="88" column="23" />
         <mark key="^" line="88" column="23" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/.gitignore" timestamp="1558610922101">
+        <mark key="'" line="21" column="16" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBannerGroup.vue" timestamp="1551861892524">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="33" />
@@ -402,7 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
       <jump line="93" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/withdraw/Withdraw.vue" />
       <jump line="14" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
       <jump line="21" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" />
@@ -502,6 +517,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
       <jump line="7" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/changelog.md" />
       <jump line="71" column="76" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
+      <jump line="21" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
