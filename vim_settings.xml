@@ -117,14 +117,14 @@
         <mark key="^" line="83" column="29" />
         <mark key="." line="83" column="29" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" timestamp="1558691542868">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" timestamp="1558692518123">
         <mark key="t" line="399" column="41" />
         <mark key="d" line="190" column="7" />
         <mark key="'" line="357" column="18" />
-        <mark key="[" line="394" column="47" />
-        <mark key="]" line="395" column="48" />
-        <mark key="." line="395" column="48" />
-        <mark key="^" line="395" column="48" />
+        <mark key="[" line="400" column="6" />
+        <mark key="]" line="399" column="5" />
+        <mark key="." line="399" column="5" />
+        <mark key="^" line="399" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/defines/result.ts" timestamp="1553849438283">
         <mark key="[" line="3" column="18" />
@@ -627,10 +627,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOkB3eSDlj5HpgIHor7fmsYIK</text>
       </register>
       <register name="-" type="4">
-        <text>复制链接成功</text>
+        <text>this.selectedEvluationTutorId</text>
       </register>
       <register name="/" type="4">
         <text>data(</text>
@@ -639,31 +639,31 @@
         <text encoding="base64">ICAgICAgaWYgKHRoaXMuZGlhbG9nTW9kZSA9PT0gJ2Nob29zZUV2YWx1YXRpb25UdXRvcicpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOkB3eSDlj5HpgIHor7fmsYIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdXJhdGlvbjogMTAwMAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDlj5HpgIHor7fmsYLvvIznhLblkI7liLfmlrAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5kaWFsb2dNb2RlID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZWxlY3RlZEV2bHVhdGlvblRpbWUgPSBudWxsCiAgICAgIHRoaXMuc2VsZWN0ZWRFdmx1YXRpb25UdXRvcklkID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICBkdXJhdGlvbjogMTAwMAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5kaWFsb2dNb2RlID0gbnVsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5kaWFsb2dWaXNpYmxlID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZWxlY3RlZEV2bHVhdGlvblRpbWUgPSBudWxsCiAgICAgIHRoaXMuc2VsZWN0ZWRFdmx1YXRpb25UdXRvcklkID0gbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kaWFsb2dNb2RlID0gbnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGU9InRleHQiCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kaWFsb2dWaXNpYmxlID0gbnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGU9InRleHQiCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
     </registers>
     <search>
