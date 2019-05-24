@@ -89,14 +89,14 @@
         <mark key="^" line="83" column="29" />
         <mark key="." line="83" column="29" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" timestamp="1558726264316">
-        <mark key="t" line="518" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" timestamp="1558729447907">
+        <mark key="t" line="521" column="19" />
         <mark key="d" line="190" column="7" />
         <mark key="'" line="83" column="44" />
-        <mark key="[" line="277" column="8" />
-        <mark key="]" line="258" column="112" />
-        <mark key="." line="258" column="112" />
-        <mark key="^" line="258" column="112" />
+        <mark key="[" line="378" column="76" />
+        <mark key="]" line="378" column="75" />
+        <mark key="." line="378" column="75" />
+        <mark key="^" line="378" column="75" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/defines/result.ts" timestamp="1553849438283">
         <mark key="[" line="3" column="18" />
@@ -136,12 +136,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/Index.vue" timestamp="1558726524068">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/Index.vue" timestamp="1558728324645">
         <mark key="'" line="3" column="21" />
-        <mark key="[" line="166" column="1" />
-        <mark key="]" line="166" column="0" />
-        <mark key="^" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+        <mark key="[" line="154" column="32" />
+        <mark key="]" line="154" column="31" />
+        <mark key="^" line="154" column="31" />
+        <mark key="." line="154" column="31" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/modules/decoration.js" timestamp="1551788387468">
         <mark key="[" line="40" column="17" />
@@ -486,17 +486,17 @@
       <jump line="83" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>未联系</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>未联系</text>
       </register>
       <register name="/" type="4">
         <text>data(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIGlmICh0aGlzLnR5cGUgPT09ICflrabnlJ/miafooYzljZXpk77mjqUnKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0YXVzID09PSAn5bey5oql5ZCNJykgewogICAgICAgIHJldHVybiAn5pyq6IGU57O7JwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIH0K</text>
