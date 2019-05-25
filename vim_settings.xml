@@ -79,14 +79,13 @@
         <mark key="^" line="83" column="29" />
         <mark key="." line="83" column="29" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" timestamp="1558770381445">
-        <mark key="t" line="521" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" timestamp="1558786381852">
         <mark key="d" line="190" column="7" />
-        <mark key="'" line="83" column="44" />
-        <mark key="[" line="370" column="20" />
-        <mark key="]" line="370" column="19" />
-        <mark key="." line="370" column="19" />
-        <mark key="^" line="370" column="19" />
+        <mark key="'" line="164" column="18" />
+        <mark key="[" line="523" column="35" />
+        <mark key="]" line="523" column="48" />
+        <mark key="^" line="523" column="48" />
+        <mark key="." line="523" column="48" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/defines/result.ts" timestamp="1553849438283">
         <mark key="[" line="3" column="18" />
@@ -240,11 +239,11 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/constantRouter.js" timestamp="1558770637084">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/constantRouter.js" timestamp="1558785841904">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/HangYeRenZhi.vue" timestamp="1558696515062">
         <mark key="[" line="43" column="13" />
@@ -363,11 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.js" />
-      <jump line="8" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/.gitignore" />
-      <jump line="9" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.ts" />
-      <jump line="74" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="18" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.ts" />
       <jump line="23" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.ts" />
       <jump line="31" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
@@ -463,13 +457,18 @@
       <jump line="156" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
       <jump line="83" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
       <jump line="77" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" />
+      <jump line="375" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
+      <jump line="273" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
+      <jump line="159" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
+      <jump line="527" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
+      <jump line="164" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>interviewer/verify/list</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>interviewer/verify/list</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>data(</text>
