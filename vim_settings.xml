@@ -256,12 +256,12 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" timestamp="1559134185643">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" timestamp="1559138767709">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/HangYeRenZhi.vue" timestamp="1558696515062">
         <mark key="[" line="43" column="13" />
@@ -497,8 +497,8 @@
       <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pro</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>pro</text>
@@ -510,31 +510,31 @@
         <text encoding="base64">ICAgIHJlZGlyZWN0OiAnL2ludGVydmlld2VyL3ZlcmlmeS9saXN0Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVhY3QuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3cpCg==</text>
+        <text encoding="base64">UmVhY3QuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSsrCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvciAoaSA9IDA7IGkgPCAxMDAwMDAwMDAwMDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSsrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBpID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZvciAoaSA9IDA7IGkgPCAxMDAwMDAwMDAwMDsgaSsrKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgID7miJHmnaXot58K</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBpID0gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNsaXBib2FyZCBmcm9tICdAL3V0aWxzL2NsaXBib2FyZCcK</text>
+        <text encoding="base64">ICAgICAgICAgID7miJHmnaXot58K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGNsaXBib2FyZCBmcm9tICdAL3V0aWxzL2NsaXBib2FyZCcK</text>
       </register>
     </registers>
     <search>
