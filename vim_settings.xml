@@ -256,6 +256,13 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" timestamp="1559134185643">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/HangYeRenZhi.vue" timestamp="1558696515062">
         <mark key="[" line="43" column="13" />
       </file>
@@ -287,11 +294,20 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/node_modules/react/cjs/react.development.js" timestamp="1559132436933">
+        <mark key="'" line="1844" column="12" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1551856762327">
         <mark key="[" line="52" column="6" />
         <mark key="]" line="52" column="5" />
         <mark key="." line="52" column="5" />
         <mark key="^" line="52" column="5" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.css" timestamp="1559132724336">
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="15" />
+        <mark key="^" line="43" column="15" />
+        <mark key="." line="43" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1558691036462">
         <mark key="[" line="0" column="0" />
@@ -307,6 +323,12 @@
         <mark key="]" line="5" column="28" />
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/.gitignore" timestamp="1559133198083">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/wechatgroup/WechatGroup.vue" timestamp="1554803635243">
         <mark key="[" line="121" column="24" />
@@ -373,9 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
-      <jump line="105" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
-      <jump line="188" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="119" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="179" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="17" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
@@ -473,52 +492,55 @@
       <jump line="27" column="32" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react/packages/react/src/ReactBaseClasses.js" />
       <jump line="20" column="9" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react/packages/react/src/ReactBaseClasses.js" />
       <jump line="144" column="0" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react/packages/react/src/ReactBaseClasses.js" />
+      <jump line="1844" column="12" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/node_modules/react/cjs/react.development.js" />
+      <jump line="11" column="3" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3cpCg==</text>
+      <register name="&quot;" type="4">
+        <text>pro</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>pro</text>
       </register>
       <register name="/" type="4">
-        <text>data(</text>
+        <text>button</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlZGlyZWN0OiAnL2ludGVydmlld2VyL3ZlcmlmeS9saXN0Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3cpCg==</text>
+        <text encoding="base64">UmVhY3QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3cpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSsrCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvciAoaSA9IDA7IGkgPCAxMDAwMDAwMDAwMDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSsrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBpID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZvciAoaSA9IDA7IGkgPCAxMDAwMDAwMDAwMDsgaSsrKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgID7miJHmnaXot58K</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBpID0gMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNsaXBib2FyZCBmcm9tICdAL3V0aWxzL2NsaXBib2FyZCcK</text>
+        <text encoding="base64">ICAgICAgICAgID7miJHmnaXot58K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGNsaXBib2FyZCBmcm9tICdAL3V0aWxzL2NsaXBib2FyZCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>data(</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern>data(</last-pattern>
+      <last-pattern>button</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -529,10 +551,10 @@
         <entry>fix</entry>
         <entry>seen</entry>
         <entry>configList</entry>
-        <entry>button</entry>
         <entry>then</entry>
         <entry>name</entry>
         <entry>data(</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd />
       <history-expr />
