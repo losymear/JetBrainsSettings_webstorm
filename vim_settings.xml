@@ -173,6 +173,13 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decorate/edit/common/AddVideoInfoButton.vue" timestamp="1554803016359">
         <mark key="[" line="98" column="17" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react/packages/react/src/ReactBaseClasses.js" timestamp="1559125006551">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1558670084232">
         <mark key="[" line="49" column="20" />
         <mark key="]" line="49" column="19" />
@@ -366,9 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/index.ts" />
-      <jump line="31" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
-      <jump line="25" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="80" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="105" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="188" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
@@ -466,6 +470,9 @@
       <jump line="527" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
       <jump line="164" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
       <jump line="1775" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/node_modules/react/cjs/react.development.js" />
+      <jump line="27" column="32" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react/packages/react/src/ReactBaseClasses.js" />
+      <jump line="20" column="9" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react/packages/react/src/ReactBaseClasses.js" />
+      <jump line="144" column="0" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react/packages/react/src/ReactBaseClasses.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
