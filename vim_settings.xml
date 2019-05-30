@@ -272,11 +272,11 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" timestamp="1559208119105">
-        <mark key="'" line="77" column="29" />
-        <mark key="[" line="69" column="29" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" timestamp="1559208902494">
+        <mark key="[" line="95" column="14" />
+        <mark key="]" line="97" column="54" />
+        <mark key="^" line="97" column="54" />
+        <mark key="." line="97" column="54" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/HangYeRenZhi.vue" timestamp="1558696515062">
         <mark key="[" line="43" column="13" />
@@ -513,10 +513,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeElzTmUK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjdXJyZW50ID0gaGlzdG9yeVtoaXN0b3J5Lmxlbmd0aCAtIDFdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/* TODO */</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -525,31 +525,32 @@
         <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeElzTmUK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjdXJyZW50ID0gaGlzdG9yeVtoaXN0b3J5Lmxlbmd0aCAtIDFdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwogICAgICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgICAgICAgIGhpc3Rvcnk6IFt7CiAgICAgICAgICAgICAgICBzcXVhcmVzOiBBcnJheSg5KS5maWxsKG51bGwpLAogICAgICAgICAgICB9XSwKICAgICAgICAgICAgeElzTmV4dDogdHJ1ZSwKICAgICAgICAgICAgc3RlcE51bWJlcjogMCwKICAgICAgICB9OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBoaXN0b3J5ID0gdGhpcy5zdGF0ZS5oaXN0b3J5Owo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+      <register name="3" type="4">
+        <text>.state.history;
+        const current = histo</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGlzdG9yeTogaGlzdG9yeS5jb25jYXQoW3tzcXVhcmVzfV0pLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBoaXN0b3J5ID0gdGhpcy5zdGF0ZS5oaXN0b3J5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzdGF0dXMiPntzdGF0dXN9PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeElzTmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzcXVhcmVzID0gdGhpcy5zdGF0ZS5zcXVhcmVzLnNsaWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwogICAgICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgICAgICAgIGhpc3Rvcnk6IFt7CiAgICAgICAgICAgICAgICBzcXVhcmVzOiBBcnJheSg5KS5maWxsKG51bGwpLAogICAgICAgICAgICB9XSwKICAgICAgICAgICAgeElzTmV4dDogdHJ1ZSwKICAgICAgICAgICAgc3RlcE51bWJlcjogMCwKICAgICAgICB9OwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aW5uZXIgPSBjYWxjdWxhdGVXaW5uZXIodGhpcy5zdGF0ZS5zcXVhcmVzKTsKICAgICAgICBsZXQgc3RhdHVzOwogICAgICAgIGlmICh3aW5uZXIpIHsKICAgICAgICAgICAgc3RhdHVzID0gJ1dpbm5lcjogJyArIHdpbm5lcjsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzdGF0dXMgPSAnTmV4dCBwbGF5ZXI6JyArICh0aGlzLnN0YXRlLnhJc05leHQgPyAnWCcgOiAnTycpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwogICAgICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgICAgICAgIHNxdWFyZXM6IEFycmF5KDkpLmZpbGwobnVsbCksCiAgICAgICAgICAgIHhJc05leHQ6IHRydWUKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
