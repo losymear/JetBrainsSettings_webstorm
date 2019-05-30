@@ -9,6 +9,12 @@
         <mark key="^" line="35" column="18" />
         <mark key="." line="35" column="18" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/picupload/index.vue" timestamp="1559196086636">
+        <mark key="[" line="70" column="51" />
+        <mark key="]" line="70" column="50" />
+        <mark key="^" line="70" column="50" />
+        <mark key="." line="70" column="50" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/freelyChatTopic.js" timestamp="1551865511092">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="7" />
@@ -260,12 +266,12 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" timestamp="1559189123199">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" timestamp="1559195616141">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="48" />
+        <mark key="^" line="36" column="48" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/HangYeRenZhi.vue" timestamp="1558696515062">
         <mark key="[" line="43" column="13" />
@@ -399,7 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="179" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="17" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="59" column="75" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
@@ -499,52 +504,53 @@
       <jump line="1844" column="12" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/node_modules/react/cjs/react.development.js" />
       <jump line="11" column="3" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" />
       <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" />
+      <jump line="18" column="12" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>board</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IC8uaWRlYQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IC8uaWRlYS8qCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ2xpY2s9e2Z1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICBhbGVydCgiY2xpY2siKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IC8uaWRlYQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IC8uaWRlYS8qCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ2xpY2s9e2Z1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICBhbGVydCgiY2xpY2siKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">UmVhY3QuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3cpCg==</text>
+        <text encoding="base64">UmVhY3QuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3cpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSsrCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvciAoaSA9IDA7IGkgPCAxMDAwMDAwMDAwMDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSsrCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>button</last-search>
+      <last-search>board</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>board</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -559,6 +565,7 @@
         <entry>name</entry>
         <entry>data(</entry>
         <entry>button</entry>
+        <entry>board</entry>
       </history-search>
       <history-cmd />
       <history-expr />
