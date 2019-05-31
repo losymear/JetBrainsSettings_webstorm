@@ -27,9 +27,6 @@
         <mark key="." line="40" column="101" />
         <mark key="^" line="40" column="101" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/zhixingdan2/detail/DaoShi.vue" timestamp="1558723701345">
-        <mark key="[" line="39" column="9" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/utils.js" timestamp="1558677119373">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="22" column="1" />
@@ -52,9 +49,6 @@
         <mark key="]" line="12" column="26" />
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" timestamp="1555401914383">
-        <mark key="[" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/layout/components/Navbar.vue" timestamp="1548644689851">
         <mark key="[" line="35" column="24" />
@@ -79,9 +73,6 @@
         <mark key="]" line="139" column="49" />
         <mark key="^" line="139" column="49" />
         <mark key="." line="139" column="49" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/example/components/Dropdown/SourceUrl.vue" timestamp="1558723718773">
-        <mark key="[" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/JobList.vue" timestamp="1551784627410">
         <mark key="[" line="62" column="8" />
@@ -126,9 +117,6 @@
         <mark key="]" line="13" column="3" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner_old_unresiable.vue" timestamp="1554803611823">
-        <mark key="[" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1558690551262">
         <mark key="[" line="10" column="10" />
@@ -188,21 +176,18 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/package.json" timestamp="1559287662787">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/package.json" timestamp="1559290768343">
         <mark key="'" line="21" column="30" />
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="39" />
-        <mark key="^" line="18" column="39" />
-        <mark key="." line="18" column="39" />
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1555658150068">
         <mark key="[" line="36" column="7" />
         <mark key="]" line="36" column="6" />
         <mark key="^" line="36" column="6" />
         <mark key="." line="36" column="6" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decorate/edit/common/AddVideoInfoButton.vue" timestamp="1554803016359">
-        <mark key="[" line="98" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react/packages/react/src/ReactBaseClasses.js" timestamp="1559130757527">
         <mark key="'" line="144" column="0" />
@@ -230,6 +215,7 @@
         <mark key="^" line="38" column="23" />
         <mark key="." line="38" column="23" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/resume/router.js" timestamp="1559291001640" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548816682216">
         <mark key="[" line="97" column="42" />
         <mark key="]" line="97" column="37" />
@@ -302,12 +288,6 @@
         <mark key="^" line="106" column="50" />
         <mark key="." line="106" column="50" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/HangYeRenZhi.vue" timestamp="1558696515062">
-        <mark key="[" line="43" column="13" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/verify/VerifyInfo.vue" timestamp="1556509846296">
-        <mark key="[" line="241" column="38" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/clipboard.js" timestamp="1558722157570">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="18" column="14" />
@@ -347,9 +327,6 @@
         <mark key="]" line="43" column="15" />
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1558691036462">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/kua.js" timestamp="1552601417277">
         <mark key="[" line="15" column="0" />
@@ -405,6 +382,12 @@
         <mark key="^" line="75" column="5" />
         <mark key="." line="75" column="5" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/Container/FlexContainer.js" timestamp="1559291328342">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBannerGroup.vue" timestamp="1551861892524">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="33" />
@@ -428,9 +411,6 @@
         <mark key="]" line="97" column="30" />
         <mark key="^" line="97" column="30" />
         <mark key="." line="97" column="30" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/store/baidu-mutation-types.js" timestamp="1556510443057">
-        <mark key="[" line="1" column="58" />
       </file>
     </filemarks>
     <jumps>
