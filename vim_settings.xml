@@ -15,7 +15,6 @@
         <mark key="^" line="70" column="50" />
         <mark key="." line="70" column="50" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/resume/views/ResumeCompletedController.js" timestamp="1559292355896" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/freelyChatTopic.js" timestamp="1551865511092">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="7" />
@@ -222,7 +221,6 @@
         <mark key="^" line="38" column="23" />
         <mark key="." line="38" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/resume/router.js" timestamp="1559291001640" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548816682216">
         <mark key="[" line="97" column="42" />
         <mark key="]" line="97" column="37" />
@@ -359,12 +357,13 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" timestamp="1559305858794">
-        <mark key="t" line="59" column="46" />
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="27" />
-        <mark key="^" line="58" column="27" />
-        <mark key="." line="58" column="27" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" timestamp="1559307285299">
+        <mark key="t" line="60" column="46" />
+        <mark key="'" line="28" column="77" />
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/AddFanWei.vue" timestamp="1556509679048">
         <mark key="[" line="169" column="20" />
@@ -434,7 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/changelog.md" />
       <jump line="71" column="76" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="21" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/.gitignore" />
       <jump line="52" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/Index.vue" />
@@ -534,13 +532,14 @@
       <jump line="21" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/AppContainer.js" />
       <jump line="19" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/package.json" />
       <jump line="21" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/package.json" />
+      <jump line="28" column="77" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9WaWV3Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>relative</text>
       </register>
       <register name="-" type="4">
-        <text>textAlign</text>
+        <text>relative</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
