@@ -15,6 +15,7 @@
         <mark key="^" line="70" column="50" />
         <mark key="." line="70" column="50" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/resume/views/ResumeCompletedController.js" timestamp="1559292355896" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/freelyChatTopic.js" timestamp="1551865511092">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="7" />
@@ -55,6 +56,12 @@
         <mark key="]" line="36" column="23" />
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/resume/views/ResumePCUploadViewController.js" timestamp="1559293423924">
+        <mark key="[" line="57" column="39" />
+        <mark key="]" line="62" column="4" />
+        <mark key="^" line="62" column="4" />
+        <mark key="." line="62" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/auth.js" timestamp="1556621446668">
         <mark key="[" line="2" column="18" />
@@ -352,6 +359,12 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" timestamp="1559297531504">
+        <mark key="[" line="23" column="56" />
+        <mark key="]" line="23" column="56" />
+        <mark key="^" line="23" column="56" />
+        <mark key="." line="23" column="56" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/AddFanWei.vue" timestamp="1556509679048">
         <mark key="[" line="169" column="20" />
         <mark key="]" line="170" column="36" />
@@ -411,6 +424,12 @@
         <mark key="]" line="97" column="30" />
         <mark key="^" line="97" column="30" />
         <mark key="." line="97" column="30" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/resume/views/ResumeViewController.js" timestamp="1559292528820">
+        <mark key="[" line="86" column="15" />
+        <mark key="]" line="86" column="14" />
+        <mark key="^" line="86" column="14" />
+        <mark key="." line="86" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -517,44 +536,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjdXJyZW50ID0gaGlzdG9yeVtoaXN0b3J5Lmxlbmd0aCAtIDFdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEltYWdlQmFja2dyb3VuZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCIuL2Fzc2V0LyIpfQogICAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvSW1hZ2VCYWNrZ3JvdW5kPgo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>341</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+VE9ETzogQHd5PC9UZXh0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjdXJyZW50ID0gaGlzdG9yeVtoaXN0b3J5Lmxlbmd0aCAtIDFdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEltYWdlQmFja2dyb3VuZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCIuL2Fzc2V0LyIpfQogICAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvSW1hZ2VCYWNrZ3JvdW5kPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBoaXN0b3J5ID0gdGhpcy5zdGF0ZS5oaXN0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>.state.history;
-        const current = histo</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgiLi9hc3NldC8iKX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlzdG9yeTogaGlzdG9yeS5jb25jYXQoW3tzcXVhcmVzfV0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEltYWdlQmFja2dyb3VuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBoaXN0b3J5ID0gdGhpcy5zdGF0ZS5oaXN0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFZpZXdDb250cmkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeElzTmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RmxleENvbnRhaW5lcj4KICAgICAgICAgICAgICAgICAgICAgICAgPEltYWdlQmFja2dyb3VuZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCIuL2Fzc2V0LyIpfQogICAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvSW1hZ2VCYWNrZ3JvdW5kPgogICAgICAgICAgICAgICAgICAgICAgICA8VGV4dD5UT0RPOiBAd3k8L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgPC9GbGV4Q29udGFpbmVyPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwogICAgICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgICAgICAgIGhpc3Rvcnk6IFt7CiAgICAgICAgICAgICAgICBzcXVhcmVzOiBBcnJheSg5KS5maWxsKG51bGwpLAogICAgICAgICAgICB9XSwKICAgICAgICAgICAgeElzTmV4dDogdHJ1ZSwKICAgICAgICAgICAgc3RlcE51bWJlcjogMCwKICAgICAgICB9OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0PlRPRE86IEB3eTwvVGV4dD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmbGV4Ywo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
