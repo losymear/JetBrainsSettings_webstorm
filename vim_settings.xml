@@ -47,7 +47,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/router/main.js" timestamp="1559114757111" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/router/main.js" timestamp="1559287639700">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/withdrawClient.js" timestamp="1555401914383">
         <mark key="[" line="3" column="17" />
       </file>
@@ -137,6 +142,9 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/AppContainer.js" timestamp="1559287649867">
+        <mark key="'" line="21" column="10" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/Index.vue" timestamp="1558728324645">
         <mark key="[" line="163" column="32" />
         <mark key="]" line="163" column="31" />
@@ -180,11 +188,12 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/package.json" timestamp="1559275393347">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/package.json" timestamp="1559287662787">
+        <mark key="'" line="21" column="30" />
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+        <mark key="." line="18" column="39" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1555658150068">
         <mark key="[" line="36" column="7" />
@@ -425,9 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
-      <jump line="22" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
-      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
       <jump line="7" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/changelog.md" />
       <jump line="71" column="76" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/basicRender.ts" />
       <jump line="21" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/.gitignore" />
@@ -525,6 +531,9 @@
       <jump line="57" column="29" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" />
       <jump line="20" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/yarn.lock" />
       <jump line="6117" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/yarn.lock" />
+      <jump line="21" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/AppContainer.js" />
+      <jump line="19" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/package.json" />
+      <jump line="21" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
