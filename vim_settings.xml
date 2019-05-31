@@ -116,6 +116,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/__tests__/App-test.js" timestamp="1559284654069">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner_old_unresiable.vue" timestamp="1554803611823">
         <mark key="[" line="30" column="26" />
       </file>
@@ -272,6 +278,9 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/yarn.lock" timestamp="1559284727449">
+        <mark key="'" line="6117" column="4" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/constantRouter.js" timestamp="1558785841904">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="3" />
@@ -416,8 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
-      <jump line="9" column="71" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/README.md" />
       <jump line="14" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
       <jump line="22" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/dockerfile" />
@@ -516,6 +523,8 @@
       <jump line="45" column="32" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" />
       <jump line="46" column="32" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" />
       <jump line="57" column="29" filename="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" />
+      <jump line="20" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/yarn.lock" />
+      <jump line="6117" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/yarn.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
