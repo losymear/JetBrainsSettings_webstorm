@@ -99,6 +99,12 @@
         <mark key="." line="378" column="0" />
         <mark key="^" line="378" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/welcome/views/MajorViewController.js" timestamp="1559357942621">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/controller/defines/result.ts" timestamp="1553849438283">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="1" column="18" />
@@ -356,13 +362,13 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" timestamp="1559309532549">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" timestamp="1559359284753">
         <mark key="t" line="60" column="46" />
-        <mark key="'" line="80" column="27" />
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="30" />
-        <mark key="^" line="28" column="30" />
-        <mark key="." line="28" column="30" />
+        <mark key="'" line="33" column="30" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="70" column="3" />
+        <mark key="^" line="70" column="3" />
+        <mark key="." line="70" column="3" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/AddFanWei.vue" timestamp="1556509679048">
         <mark key="[" line="169" column="20" />
@@ -394,11 +400,11 @@
         <mark key="^" line="75" column="5" />
         <mark key="." line="75" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/Container/FlexContainer.js" timestamp="1559304741277">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/Container/FlexContainer.js" timestamp="1559358141449">
         <mark key="[" line="10" column="43" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="10" column="42" />
-        <mark key="." line="10" column="42" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBannerGroup.vue" timestamp="1551861892524">
         <mark key="[" line="8" column="34" />
@@ -432,10 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
-      <jump line="183" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
-      <jump line="46" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
-      <jump line="151" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/Index.vue" />
       <jump line="153" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/Index.vue" />
       <jump line="53" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/Index.vue" />
       <jump line="232" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
@@ -532,46 +534,50 @@
       <jump line="82" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="21" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="80" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
+      <jump line="56" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
+      <jump line="34" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
+      <jump line="33" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>red</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>marginTop</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dD4gVE9ETzrmnKrnmbvlvZXnmoR2aWV3IOS7peWPimZsZXjlsZ7mgKfnmoTorr7nva4gPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17e2NvbG9yOiAnI0ZGRkZGRicsIGZvbnRTaXplOiAyMn19PgogICAgICAgICAgICAgICAgICAgICAgICB7cHJvcHMucHJvZmlsZS5uYW1lfQogICAgICAgICAgICAgICAgICAgIDwvVGV4dD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3tiYWNrZ3JvdW5kQ29sb3I6ICdyZWQnLCBmbGV4OiAxfX0+Cg==</text>
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxTYWZlQXJlYVZpZXcgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICBmbGV4OiAxLAo=</text>
+        <text encoding="base64">ICogQHBhcmFtIHByb3BzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3tiYWNrZ3JvdW5kQ29sb3I6ICdyZWQnLCBmbGV4OiAxfX0+Cg==</text>
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGV4dD4KICAgICAgICAgICAgICAgICAgICAgICAge3Byb3BzLm5hbWV9CiAgICAgICAgICAgICAgICAgICAgPC9UZXh0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5NyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFNhZmVBcmVhVmlldyBzdHlsZT17ewogICAgICAgICAgICAgICAgZmxleDogMSwKICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNGNUY2RkEnCiAgICAgICAgICAgIH19Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDYwLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFNhZmVBcmVhVmlldyBzdHlsZT17ewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiA2MCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlckluZm86IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
