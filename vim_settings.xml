@@ -33,15 +33,17 @@
         <mark key="." line="40" column="101" />
         <mark key="^" line="40" column="101" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/login/LoginViewController.js" timestamp="1559652222162">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="49" />
+        <mark key="^" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/utils.js" timestamp="1558677119373">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="22" column="1" />
         <mark key="^" line="22" column="1" />
         <mark key="." line="22" column="1" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react/.gitignore" timestamp="1559187929120">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/utils.js" timestamp="1558717524578">
         <mark key="'" line="7" column="39" />
@@ -62,11 +64,6 @@
         <mark key="]" line="36" column="23" />
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/resume/views/ResumePCUploadViewController.js" timestamp="1559293423924">
-        <mark key="]" line="56" column="4" />
-        <mark key="^" line="56" column="4" />
-        <mark key="." line="56" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/design/Color/index.js" timestamp="1559382428738">
         <mark key="[" line="14" column="36" />
@@ -156,12 +153,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/AppContainer.js" timestamp="1559632350345">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/AppContainer.js" timestamp="1559652310349">
         <mark key="'" line="21" column="10" />
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="31" />
-        <mark key="^" line="31" column="31" />
-        <mark key="." line="31" column="31" />
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="22" />
+        <mark key="^" line="30" column="22" />
+        <mark key="." line="30" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/router.js" timestamp="1559631763301">
         <mark key="[" line="0" column="31" />
@@ -196,6 +193,12 @@
         <mark key="]" line="77" column="18" />
         <mark key="^" line="77" column="18" />
         <mark key="." line="77" column="18" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/AppContainer/index.js" timestamp="1559652217481">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/package.json" timestamp="1554087137753">
         <mark key="[" line="9" column="45" />
@@ -320,17 +323,17 @@
         <mark key="^" line="113" column="12" />
         <mark key="." line="113" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/AppContainer/webController.js" timestamp="1559635671045">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="23" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="23" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/AppContainer/webController.js" timestamp="1559652289911">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/App.js" timestamp="1559639491707">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="29" column="39" />
-        <mark key="^" line="29" column="39" />
-        <mark key="." line="29" column="39" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/App.js" timestamp="1559652358010">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+        <mark key="." line="27" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/clipboard.js" timestamp="1558722157570">
         <mark key="[" line="18" column="15" />
@@ -374,6 +377,12 @@
         <mark key="]" line="43" column="15" />
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/AppContainer/blankSpaceNavi.js" timestamp="1559652215669">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/kua.js" timestamp="1552601417277">
         <mark key="[" line="15" column="0" />
@@ -450,10 +459,6 @@
         <mark key="]" line="10" column="67" />
         <mark key="^" line="10" column="67" />
         <mark key="." line="10" column="67" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/design/Button/index.js" timestamp="1559374082600">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBannerGroup.vue" timestamp="1551861892524">
         <mark key="[" line="8" column="34" />
