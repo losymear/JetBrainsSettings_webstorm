@@ -169,9 +169,6 @@
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/router.js" timestamp="1559631763301">
-        <mark key="[" line="0" column="31" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/Index.vue" timestamp="1558728324645">
         <mark key="[" line="163" column="32" />
         <mark key="]" line="163" column="31" />
@@ -208,6 +205,13 @@
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/discover/DiscoverViewController.js" timestamp="1559717898552">
+        <mark key="'" line="221" column="0" />
+        <mark key="[" line="213" column="25" />
+        <mark key="]" line="213" column="24" />
+        <mark key="^" line="213" column="24" />
+        <mark key="." line="213" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/package.json" timestamp="1554087137753">
         <mark key="[" line="9" column="45" />
@@ -265,6 +269,12 @@
         <mark key="]" line="97" column="37" />
         <mark key="^" line="97" column="37" />
         <mark key="." line="97" column="37" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/message/MessageList.js" timestamp="1559718262371">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decorate/edit/retired/SubComponent0.vue" timestamp="1554802935757">
         <mark key="[" line="52" column="9" />
@@ -326,11 +336,11 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" timestamp="1559627073100">
-        <mark key="[" line="113" column="13" />
-        <mark key="]" line="113" column="12" />
-        <mark key="^" line="113" column="12" />
-        <mark key="." line="113" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/tolearn/react_tutorial_game_demo/src/index.js" timestamp="1559718587430">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="28" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/AppContainer/webController.js" timestamp="1559652289911">
         <mark key="[" line="12" column="47" />
@@ -417,13 +427,13 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" timestamp="1559713461185">
-        <mark key="t" line="100" column="66" />
-        <mark key="'" line="13" column="29" />
-        <mark key="[" line="167" column="25" />
-        <mark key="]" line="167" column="24" />
-        <mark key="^" line="167" column="24" />
-        <mark key="." line="167" column="24" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" timestamp="1559718217060">
+        <mark key="t" line="176" column="30" />
+        <mark key="'" line="174" column="28" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/AddFanWei.vue" timestamp="1556509679048">
         <mark key="[" line="169" column="20" />
@@ -449,6 +459,12 @@
         <mark key="]" line="7" column="42" />
         <mark key="^" line="23" column="34" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/message/MessageViewController.js" timestamp="1559718371825">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/zhixingdan/list/AddOne.vue" timestamp="1558722893379">
         <mark key="[" line="69" column="40" />
@@ -507,9 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/baidu.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/baidu.js" />
-      <jump line="169" column="74" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
       <jump line="212" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
       <jump line="190" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
       <jump line="153" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" />
@@ -587,7 +600,6 @@
       <jump line="87" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="17" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="57" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
-      <jump line="214" column="88" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="18" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/Container/FlexContainer.js" />
       <jump line="199" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="5" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
@@ -596,7 +608,6 @@
       <jump line="98" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="201" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="180" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
-      <jump line="174" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="170" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="172" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="62" column="49" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
@@ -607,46 +618,51 @@
       <jump line="13" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="76" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/homeComponents/AvatarAndName.js" />
       <jump line="10" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/homeComponents/AvatarAndName.js" />
+      <jump line="176" column="92" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
+      <jump line="214" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
+      <jump line="69" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/discover/DiscoverViewController.js" />
+      <jump line="174" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
+      <jump line="221" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/discover/DiscoverViewController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Iml0ZW0xIj48L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Iml0ZW0xIj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJbWFnZSBzdHlsZT17cmlnaHRBcnJvd1N0eWxlfSBzb3VyY2U9e3JlcXVpcmUoIi4vYXNzZXQvcmlnaHRBcnJvdy5wbmciKX0vPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFBpbmdGYW5nU0NTZW1pYm9sZCA9ICdQaW5nRmFuZ1NDLVNlbWlib2xkJzsKZXhwb3J0IGNvbnN0IFBpbmdGYW5nU0NSZWd1bGFyID0gJ1BpbmdGYW5nU0MtUmVndWxhcic7CmV4cG9ydCBjb25zdCBQaW5nRmFuZ1NDTGlnaHQgPSAnUGluZ0ZhbmdTQy1MaWdodCc7CmV4cG9ydCBjb25zdCBBdmVuaXJIZWF2eSA9ICdBdmVuaXItSGVhdnknOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFBpbmdGYW5nU0NTZW1pYm9sZCA9ICdQaW5nRmFuZ1NDLVNlbWlib2xkJzsKZXhwb3J0IGNvbnN0IFBpbmdGYW5nU0NSZWd1bGFyID0gJ1BpbmdGYW5nU0MtUmVndWxhcic7CmV4cG9ydCBjb25zdCBQaW5nRmFuZ1NDTGlnaHQgPSAnUGluZ0ZhbmdTQy1MaWdodCc7CmV4cG9ydCBjb25zdCBBdmVuaXJIZWF2eSA9ICdBdmVuaXItSGVhdnknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SW1hZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICA8VmlldyBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyM3ZjYwZmYnLCBmbGV4OiAxfX0+CiAgICAgICAgICAgICAgICA8U2FmZUFyZWFWaWV3IHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgZmxleDogMSwKICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDE1LAogICAgICAgICAgICAgICAgfX0+Cj4+Pj4+Pj4gcmVtb3Rlcy9vcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGV4dD4g6K6+572uIDwvVGV4dD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC4uLk1lc3NhZ2VSb3V0ZXJDb25maWcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGV4dD4g5oiR55qE5LyY5oOg5Yi4IDwvVGV4dD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC4uLkhvbWVSb3V0ZXJDb25maWcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGV4dD4g5oiR55qE5pS26JePIDwvVGV4dD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6ICIzMCUiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAiYmx1ZSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBqdXN0aWZ5Q29udGVudDogImNlbnRlciIsCg==</text>
       </register>
     </registers>
     <search>
