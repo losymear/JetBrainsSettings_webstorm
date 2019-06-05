@@ -65,9 +65,6 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/design/Color/index.js" timestamp="1559382428738">
-        <mark key="[" line="14" column="36" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/utils/auth.js" timestamp="1556621446668">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="17" />
@@ -110,11 +107,11 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/utils/navigation/index.js" timestamp="1559653615288">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/utils/navigation/index.js" timestamp="1559704694617">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/common/UploadImage.vue" timestamp="1556621316220">
         <mark key="[" line="50" column="25" />
@@ -140,6 +137,12 @@
         <mark key="]" line="10" column="26" />
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/login/router.js" timestamp="1559704669086">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/ApplyList.vue" timestamp="1558690551262">
         <mark key="[" line="10" column="10" />
