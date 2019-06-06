@@ -421,12 +421,12 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1559793849019">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1559796170974">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="53" />
-        <mark key="^" line="7" column="53" />
-        <mark key="." line="7" column="53" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1551856762327">
         <mark key="[" line="52" column="6" />
