@@ -202,9 +202,9 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentHeader.vue" timestamp="1560237480745">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentHeader.vue" timestamp="1560239281640">
         <mark key="'" line="10" column="39" />
-        <mark key="[" line="76" column="17" />
+        <mark key="[" line="24" column="30" />
         <mark key="]" line="76" column="16" />
         <mark key="." line="76" column="16" />
         <mark key="^" line="76" column="16" />
@@ -399,12 +399,12 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentDetail.vue" timestamp="1560237670923">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentDetail.vue" timestamp="1560239308953">
         <mark key="'" line="12" column="32" />
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="39" />
-        <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="39" />
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+        <mark key="." line="19" column="30" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/interviewer/noverify/NoVerifyList.vue" timestamp="1548816682216">
         <mark key="[" line="97" column="42" />
@@ -586,12 +586,12 @@
         <mark key="^" line="10" column="67" />
         <mark key="." line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/Index.vue" timestamp="1560237588441">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/Index.vue" timestamp="1560239311922">
         <mark key="'" line="57" column="33" />
-        <mark key="[" line="2" column="74" />
-        <mark key="]" line="2" column="73" />
-        <mark key="^" line="2" column="73" />
-        <mark key="." line="2" column="73" />
+        <mark key="[" line="33" column="103" />
+        <mark key="]" line="33" column="102" />
+        <mark key="^" line="33" column="102" />
+        <mark key="." line="33" column="102" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBannerGroup.vue" timestamp="1551861892524">
         <mark key="[" line="8" column="34" />
@@ -728,16 +728,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHByb2ZpbGUubmFtZSA=</text>
+        <text>求职方向</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByb2ZpbGUubmFtZSA=</text>
+        <text>求职方向</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlVGltZSh0aW1lKSB7CiAgICAgIHJldHVybiBtb21lbnQodGltZSkuZm9ybWF0KCdZWVlZL01NL0REIEhIOm1tOnNzJykKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJpdGVtIj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJrZXkiPiDmnI3liqHmiKrmraLml7bpl7Q8L3NwYW4+CiAgICAgICAgICA8c3BhbiBjbGFzcz0idmFsdWUiLz4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
