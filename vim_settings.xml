@@ -572,13 +572,13 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1560397961665">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1560405010793">
         <mark key="t" line="54" column="21" />
-        <mark key="'" line="55" column="18" />
-        <mark key="[" line="127" column="29" />
-        <mark key="]" line="127" column="28" />
-        <mark key="." line="127" column="28" />
-        <mark key="^" line="127" column="28" />
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="124" column="1" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="124" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/AddFanWei.vue" timestamp="1556509679048">
         <mark key="[" line="169" column="20" />
@@ -676,7 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="57" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
       <jump line="18" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/Container/FlexContainer.js" />
       <jump line="199" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/profile/ProfileViewController.js" />
@@ -776,10 +775,11 @@
       <jump line="110" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
       <jump line="84" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
       <jump line="55" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
+      <jump line="35" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8g5aaC5p6cYGFbaV0gPiBhW2ktMV1g77yM6YKj5LmIYG1heChpKT1tYXgoaS0yKSthW2ldYCxgbGFzdElkeD1pYDsKLy8g5aaC5p6cYGFbaV0gPCBhW2ktMV1gLOS4lAovLyAgMSlgbGFzdElkeGDkuLpgaS0yYO+8jOWImWBtYXgoaSk9bWF4KGktMSkrYVtpXWAsbGBhc3RJZHg9aWA7Ci8vICAyKSBgbGFzdElkeGDkuLpgaS0xYO+8jOmcgOimgei/m+ihjOWvueavlAo=</text>
       </register>
       <register name="-" type="4">
         <text>id</text>
@@ -791,31 +791,31 @@
         <text encoding="base64">ICAgIHRoaXMucmVxdWVzdE9yZGVyTGlzdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygn5a+85biI5YiX6KGo77yaJyArIGRhdGEpCg==</text>
+        <text encoding="base64">Ly8g5aaC5p6cYGFbaV0gPiBhW2ktMV1g77yM6YKj5LmIYG1heChpKT1tYXgoaS0yKSthW2ldYCxgbGFzdElkeD1pYDsKLy8g5aaC5p6cYGFbaV0gPCBhW2ktMV1gLOS4lAovLyAgMSlgbGFzdElkeGDkuLpgaS0yYO+8jOWImWBtYXgoaSk9bWF4KGktMSkrYVtpXWAsbGBhc3RJZHg9aWA7Ci8vICAyKSBgbGFzdElkeGDkuLpgaS0xYO+8jOmcgOimgei/m+ihjOWvueavlAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHR1dG9yTGlzdCgpCiAgICAgIC50aGVuKHJlcyA9PiB7CiAgICAgICAgY29uc29sZS5sb2cocmVzKQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygn5a+85biI5YiX6KGo77yaJyArIGRhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5kYXRhU291cmNlID0gewogICAgICAgIC4uLmRlZmF1bHRQYWdlUmVzcG9uc2VEYXRhCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHR1dG9yTGlzdCgpCiAgICAgIC50aGVuKHJlcyA9PiB7CiAgICAgICAgY29uc29sZS5sb2cocmVzKQogICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kYXRhU291cmNlID0gewogICAgICAgIC4uLmRlZmF1bHRQYWdlUmVzcG9uc2VEYXRhCiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0LmVyckNvZGUgPT09IDApIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIChkYXRhSXRlbSA9PiB7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgLi4uZGF0YUl0ZW0sCiAgICAgICAgICAgIH0KICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0LmVyckNvZGUgPT09IDApIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjcmVhdGVUaW1lOiBmb3JtYXRUaW1lVGV4dChkYXRhSXRlbS5jcmVhdGVUaW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIChkYXRhSXRlbSA9PiB7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgLi4uZGF0YUl0ZW0sCiAgICAgICAgICAgIH0KICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RPcmRlckxpc3QoKSB7CgogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjcmVhdGVUaW1lOiBmb3JtYXRUaW1lVGV4dChkYXRhSXRlbS5jcmVhdGVUaW1lKQo=</text>
       </register>
     </registers>
     <search>
