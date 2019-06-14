@@ -71,12 +71,12 @@
         <mark key="^" line="139" column="49" />
         <mark key="." line="139" column="49" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorPersonInfo.vue" timestamp="1560497080959">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorPersonInfo.vue" timestamp="1560498558208">
         <mark key="'" line="17" column="9" />
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="40" column="14" />
-        <mark key="." line="40" column="14" />
-        <mark key="^" line="40" column="14" />
+        <mark key="[" line="65" column="56" />
+        <mark key="]" line="65" column="55" />
+        <mark key="." line="65" column="55" />
+        <mark key="^" line="65" column="55" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/FuWuFanWei.vue" timestamp="1556510521448">
         <mark key="[" line="83" column="34" />
@@ -807,11 +807,11 @@
       <jump line="17" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorPersonInfo.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>padding-left: 20px;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb21wdXRlZDogewogICAgc2VwYXJhdGVJbnRybygpIHsKICAgICAgcmV0dXJuIGVkaXRlZAoKICAgIH0KCiAgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text>padding-left: 20px;</text>
+        <text>editedIntro</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -820,16 +820,16 @@
         <text encoding="base64">ICAgICAgICA8ZWwtZm9ybS1pdGVtIGxhYmVsPSLkuKrkurrnu4/ljoYiPgogICAgICAgICAgPGVsLWlucHV0IHYtbW9kZWw9InByb2ZpbGUuZXhwZXJpZW5jZSIgdHlwZT0idGV4dGFyZWEiLz4KICAgICAgICA8L2VsLWZvcm0taXRlbT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjb21wdXRlZDogewogICAgc2VwYXJhdGVJbnRybygpIHsKICAgICAgcmV0dXJuIGVkaXRlZAoKICAgIH0KCiAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA3MCU7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkaXYuaW50cm8gLmVsLWZvcm0taXRlbV9fY29udGVudHsK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA3MCU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkaXYuaW50cm8gLmVsLWZvcm0taXRlbV9fY29udGVudHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -838,13 +838,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImludHJvIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiAxMHB4Owo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImludHJvIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tlZDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiAxMHB4Owo=</text>
       </register>
     </registers>
     <search>
