@@ -71,12 +71,12 @@
         <mark key="^" line="139" column="49" />
         <mark key="." line="139" column="49" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorPersonInfo.vue" timestamp="1560495697626">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorPersonInfo.vue" timestamp="1560497080959">
         <mark key="'" line="17" column="9" />
-        <mark key="[" line="28" column="99" />
-        <mark key="]" line="28" column="98" />
-        <mark key="." line="28" column="98" />
-        <mark key="^" line="28" column="98" />
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/FuWuFanWei.vue" timestamp="1556510521448">
         <mark key="[" line="83" column="34" />
@@ -807,11 +807,11 @@
       <jump line="17" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorPersonInfo.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>padding-left: 20px;</text>
       </register>
       <register name="-" type="4">
-        <text>style=&quot;width: 100%&quot;</text>
+        <text>padding-left: 20px;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
