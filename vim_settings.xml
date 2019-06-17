@@ -71,12 +71,12 @@
         <mark key="^" line="139" column="49" />
         <mark key="." line="139" column="49" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorPersonInfo.vue" timestamp="1560746665501">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorPersonInfo.vue" timestamp="1560753921391">
         <mark key="'" line="107" column="31" />
-        <mark key="[" line="135" column="16" />
-        <mark key="]" line="135" column="15" />
-        <mark key="." line="135" column="15" />
-        <mark key="^" line="135" column="15" />
+        <mark key="[" line="107" column="54" />
+        <mark key="]" line="107" column="53" />
+        <mark key="." line="107" column="53" />
+        <mark key="^" line="107" column="53" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/FuWuFanWei.vue" timestamp="1556510521448">
         <mark key="[" line="83" column="34" />
@@ -807,7 +807,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAvLyDml7bpl7QK</text>
       </register>
       <register name="-" type="4">
         <text>editTutorExperienceAndSkill</text>
@@ -819,31 +819,31 @@
         <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnNlcnZpY2VUaW1lU2V0dGluZy5pbml0aWFsZWQpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAvLyDml7bpl7QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcHJvZmlsZSA9IHRoaXMucHJvZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRlc3QK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2VydmljZVRpbWVTZXR0aW5nOiB7CiAgICAgIC8vICAgb25DYWxsOiBbXSwKICAgICAgLy8gICAgIHdvcmtEYXlzOiBbXSwKICAgICAgLy8gICAgIHdvcmtUaW1lczogW10sCiAgICAgIC8vICAgICBpbml0aWFsZWQ6IGZhbHNlCiAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcHJvZmlsZSA9IHRoaXMucHJvZmlsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNoZWNrRmFpbERpYWxvZ1Zpc3VhYmxlID0gZmFsc2UK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNoZWNrRmFpbERpYWxvZ1Zpc3VhYmxlID0gZmFsc2UK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gc2VydmljZVRpbWVTZXR0aW5nOiB7CiAgICAgIC8vICAgb25DYWxsOiBbXSwKICAgICAgLy8gICAgIHdvcmtEYXlzOiBbXSwKICAgICAgLy8gICAgIHdvcmtUaW1lczogW10sCiAgICAgIC8vICAgICBpbml0aWFsZWQ6IGZhbHNlCiAgICAgIC8vIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmNoZWNrRmFpbERpYWxvZ1Zpc3VhYmxlID0gZmFsc2UK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNoZWNrRmFpbERpYWxvZ1Zpc3VhYmxlID0gZmFsc2UK</text>
       </register>
     </registers>
     <search>
