@@ -141,12 +141,12 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/studentManage/Index.vue" timestamp="1560776765414">
-        <mark key="'" line="59" column="16" />
-        <mark key="[" line="123" column="1" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/studentManage/Index.vue" timestamp="1560778153971">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="129" column="37" />
+        <mark key="]" line="65" column="38" />
+        <mark key="^" line="65" column="38" />
+        <mark key="." line="65" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" timestamp="1560770695892">
         <mark key="'" line="7" column="0" />
@@ -534,12 +534,12 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1560775083183">
-        <mark key="'" line="40" column="91" />
-        <mark key="[" line="201" column="14" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1560827479036">
+        <mark key="'" line="224" column="0" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/decoratebaidu/edit/FuWuFanWei/AddFanWei.vue" timestamp="1556509679048">
         <mark key="[" line="169" column="20" />
@@ -624,9 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentDetail.vue" />
-      <jump line="59" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentDetail.vue" />
-      <jump line="1" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentDetail.vue" />
       <jump line="12" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentDetail.vue" />
       <jump line="39" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/router.js" />
       <jump line="25" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/main.js" />
@@ -724,6 +721,9 @@
       <jump line="17" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/studentManage/Index.vue" />
       <jump line="74" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/studentManage/Index.vue" />
       <jump line="59" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/studentManage/Index.vue" />
+      <jump line="65" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/studentManage/Index.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/studentManage/Index.vue" />
+      <jump line="224" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -733,7 +733,7 @@
         <text>学生状态</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZXlcPg==</text>
+        <text>apply</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICAgICAga2V5PSJzdGF0dXMiCiAgICAgICAgICAgIHByb3A9InN0YXR1cyIKICAgICAgICAgICAgbGFiZWw9IuWtpueUn+eKtuaAgSIvPgo=</text>
@@ -767,10 +767,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrZXlcPg==</last-search>
+      <last-search>apply</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>apply</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -791,6 +791,7 @@
         <entry encoding="base64">XDwnXD4=</entry>
         <entry>cancelRea</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry>apply</entry>
       </history-search>
       <history-cmd />
       <history-expr />
