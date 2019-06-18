@@ -550,11 +550,12 @@
         <mark key="^" line="170" column="36" />
         <mark key="." line="170" column="36" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/zhixingdan/list/Index.vue" timestamp="1560151137770">
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="162" column="56" />
-        <mark key="^" line="167" column="28" />
-        <mark key="." line="167" column="28" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/zhixingdan/list/Index.vue" timestamp="1560855661437">
+        <mark key="t" line="119" column="36" />
+        <mark key="[" line="119" column="101" />
+        <mark key="]" line="119" column="100" />
+        <mark key="." line="119" column="100" />
+        <mark key="^" line="119" column="100" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/xzbTutor.js" timestamp="1560775590557">
         <mark key="'" line="36" column="33" />
@@ -729,44 +730,44 @@
       <jump line="224" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4K</text>
+      <register name="&quot;" type="4">
+        <text>blue</text>
       </register>
       <register name="-" type="4">
-        <text>学生状态</text>
+        <text>blue</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICAgICAga2V5PSJzdGF0dXMiCiAgICAgICAgICAgIHByb3A9InN0YXR1cyIKICAgICAgICAgICAgbGFiZWw9IuWtpueUn+eKtuaAgSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgc2xvdC1zY29wZT0ic2NvcGUiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb3A9InN0dWRlbnRQaG9uZSIK</text>
+        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgc2NvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleT0ic3R1ZGVudFBob25lIgo=</text>
+        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBsYWJlbD0i5Y2P6K6uUGRmIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPC9lbC1jb2xsYXBzZS1pdGVtPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGVsLWNvbGxhcHNlLWl0ZW0gbGFiZWwtPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9lbC1jb2xsYXBzZS1pdGVtPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCEtLU9LLS0+CiAgICAgIDwhLS1FeGFtcGxlIFZhbHVlLS0+CiAgICAgIDwhLS1Nb2RlbC0tPgogICAgICA8IS0tey0tPgogICAgICA8IS0tImRhdGEiOiB7LS0+CiAgICAgIDwhLS0iZGVueU51bWJlciI6IDAsLS0+CiAgICAgIDwhLS0icGFzc051bWJlciI6IDAsLS0+CiAgICAgIDwhLS0icmV2b2tlTnVtYmVyIjogMCwtLT4KICAgICAgPCEtLSJ0b3RhbE51bWJlciI6IDAsLS0+CiAgICAgIDwhLS0id2FpdGluZ051bWJlciI6IDAtLT4K</text>
+        <text encoding="base64">ICAgICAgPGVsLWNvbGxhcHNlLWl0ZW0gbGFiZWwtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4K</text>
       </register>
     </registers>
     <search>
