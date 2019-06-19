@@ -315,11 +315,11 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1560932818445">
-        <mark key="[" line="40" column="6" />
-        <mark key="]" line="40" column="5" />
-        <mark key="^" line="40" column="5" />
-        <mark key="." line="40" column="5" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1560933572749">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="40" column="32" />
+        <mark key="." line="44" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.ts" timestamp="1553840431308">
         <mark key="[" line="6" column="32" />
@@ -433,11 +433,11 @@
         <mark key="^" line="46" column="26" />
         <mark key="." line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" timestamp="1560932781466">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" timestamp="1560933575232">
         <mark key="[" line="39" column="24" />
-        <mark key="]" line="60" column="10" />
-        <mark key="^" line="60" column="10" />
-        <mark key="." line="60" column="10" />
+        <mark key="]" line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/node_modules/react-navigation/typescript/react-navigation.d.ts" timestamp="1559633194714">
         <mark key="[" line="642" column="47" />
@@ -751,10 +751,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deleteJob</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>deleteJob</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
