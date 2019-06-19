@@ -49,6 +49,9 @@
         <mark key="^" line="47" column="42" />
         <mark key="." line="47" column="42" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" timestamp="1560936431262">
+        <mark key="[" line="214" column="24" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/build/webpack.dev.conf.js" timestamp="1551785990672">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="42" column="27" />
@@ -155,12 +158,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" timestamp="1560927529561">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" timestamp="1560938293864">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/Index.vue" timestamp="1559793563424">
         <mark key="[" line="4" column="26" />
@@ -248,6 +251,12 @@
         <mark key="." line="113" column="23" />
         <mark key="^" line="113" column="23" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/coupon/Novice.vue" timestamp="1560936327562">
+        <mark key="[" line="303" column="4" />
+        <mark key="]" line="303" column="3" />
+        <mark key="^" line="303" column="3" />
+        <mark key="." line="303" column="3" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/home/HomeViewController.js" timestamp="1559632786589">
         <mark key="[" line="44" column="27" />
         <mark key="]" line="44" column="26" />
@@ -315,11 +324,12 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1560933572749">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="44" column="14" />
-        <mark key="^" line="40" column="32" />
-        <mark key="." line="44" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1560938553399">
+        <mark key="'" line="59" column="3" />
+        <mark key="[" line="94" column="21" />
+        <mark key="]" line="94" column="20" />
+        <mark key="^" line="94" column="20" />
+        <mark key="." line="94" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.ts" timestamp="1553840431308">
         <mark key="[" line="6" column="32" />
@@ -364,9 +374,9 @@
         <mark key="^" line="45" column="35" />
         <mark key="." line="45" column="35" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/AddOne.vue" timestamp="1560500483001">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/AddOne.vue" timestamp="1560936769262">
         <mark key="'" line="66" column="31" />
-        <mark key="[" line="17" column="0" />
+        <mark key="[" line="7" column="10" />
         <mark key="]" line="17" column="80" />
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="10" />
@@ -408,11 +418,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/Index.vue" timestamp="1560582439638">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="94" />
-        <mark key="^" line="58" column="13" />
-        <mark key="." line="58" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/Index.vue" timestamp="1560938161442">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="45" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/onlinetest.env.js" timestamp="1551439487177">
         <mark key="[" line="6" column="0" />
@@ -433,11 +444,12 @@
         <mark key="^" line="46" column="26" />
         <mark key="." line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" timestamp="1560933575232">
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="24" />
-        <mark key="^" line="39" column="24" />
-        <mark key="." line="39" column="24" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" timestamp="1560939070134">
+        <mark key="'" line="73" column="11" />
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="14" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="25" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/node_modules/react-navigation/typescript/react-navigation.d.ts" timestamp="1559633194714">
         <mark key="[" line="642" column="47" />
@@ -556,10 +568,10 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1560931481267">
-        <mark key="'" line="26" column="24" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="20" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1560937710911">
+        <mark key="'" line="207" column="23" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="30" />
         <mark key="." line="159" column="17" />
         <mark key="^" line="159" column="17" />
       </file>
@@ -633,8 +645,8 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/router.js" timestamp="1560916687611">
-        <mark key="'" line="37" column="21" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/router.js" timestamp="1560938222235">
+        <mark key="'" line="46" column="30" />
         <mark key="[" line="46" column="30" />
         <mark key="]" line="46" column="29" />
         <mark key="^" line="46" column="29" />
@@ -648,20 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="80" column="50" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="63" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="52" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="110" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="84" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="55" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="35" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="99" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="105" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="114" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="16" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/xzbTutor.js" />
-      <jump line="149" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
-      <jump line="155" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/AddTutorDialog.vue" />
       <jump line="51" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/AddTutorDialog.vue" />
       <jump line="107" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
       <jump line="40" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/AddTutorDialog.vue" />
@@ -745,55 +743,69 @@
       <jump line="8" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
       <jump line="37" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/router.js" />
       <jump line="12" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" />
-      <jump line="11" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
       <jump line="26" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
       <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="63" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="64" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="71" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="75" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="78" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="39" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="28" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/Index.vue" />
+      <jump line="18" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
+      <jump line="11" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="61" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="15" column="107" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="207" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
+      <jump line="67" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
+      <jump line="46" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/router.js" />
+      <jump line="59" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICAgICAga2V5PSJkaXJlY3Rpb25OdW1iZXIiCiAgICAgICAgICAgIHByb3A9ImlkaXJlY3Rpb25OdW1iZXIKICAgICAgICAgICAgbGFiZWw9IuihjOS4muaVsOmHjyIvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>directionNumber</text>
       </register>
       <register name="/" type="4">
-        <text>apply</text>
+        <text>self</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlVGltZSh0aW1lKSB7CiAgICAgIHJldHVybiB0aW1lID8gbW9tZW50KHRpbWUpLmZvcm1hdCgnWVlZWS9NTS9ERCBISDptbTpzcycpIDogbnVsbAogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgIGtleT0iaWQiCiAgICAgICAgcHJvcD0iaWQiCiAgICAgICAgbGFiZWw9ImlkIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuPnt7IHBhcnNlVGltZShzY29wZS5yb3cudHV0b3JBcHBseURUTy5jcmVhdGVUaW1lKSB9fTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICAgICAga2V5PSJkaXJlY3Rpb25OdW1iZXIiCiAgICAgICAgICAgIHByb3A9ImlkaXJlY3Rpb25OdW1iZXIKICAgICAgICAgICAgbGFiZWw9IuihjOS4muaVsOmHjyIvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
+        <text encoding="base64">ICA8ZGl2PmRldGFpbDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2PmluZHVzdHJ5IGxpc3Q8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iaGVhZEJ1dHRvbnMiPgogICAgICAgIDxlbC1idXR0b24gOmRpc2FibGVkPSJjb25jdXJyZW50TG9jayIgdHlwZT0idGV4dCIgc2l6ZT0ic21hbGwiIEBjbGljaz0iYWRkIj7mlrDlop7ooYzkuJo8L2VsLWJ1dHRvbj4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHBhcmFtcwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5lZGl0ZWRJbmR1c3RyeS5pZCA9IGlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtczogY2xlYXJQYXJhbXMocGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gVE9ETzog5Zu+54mH5oKs5rWu5pS+5aSn57uE5Lu2Cg==</text>
+        <text encoding="base64">ICAgIDwhLS3mlrDlop7ooYzkuJrnmoRkaWFsb2ctLT4KICAgIDxlbC1kaWFsb2cKICAgICAgOnZpc2libGUuc3luYz0iZWRpdEluZHVzdHJ5RGlhbG9nVmlzdWFibGUiCiAgICAgIHRpdGxlPSLnvJbovpHooYzkuJoiCiAgICAgIHdpZHRoPSI0MCUiPgogICAgICA8ZGl2IHN0eWxlPSJkaXNwbGF5OiBmbGV4O2ZsZXgtZGlyZWN0aW9uOiBjb2x1bW47Ij4KICAgICAgICA8ZWwtZm9ybQogICAgICAgICAgOmlubGluZT0idHJ1ZSIKICAgICAgICAgIGxhYmVsLXBvc2l0aW9uPSJyaWdodCI+CiAgICAgICAgICA8ZWwtZm9ybS1pdGVtIGxhYmVsPSLooYzkuJrlkI0iPgogICAgICAgICAgICA8ZWwtaW5wdXQgdi1tb2RlbD0iZWRpdGVkSW5kdXN0cnkubmFtZSIvPgogICAgICAgICAgPC9lbC1mb3JtLWl0ZW0+CiAgICAgICAgPC9lbC1mb3JtPgogICAgICAgIDxkaXYgY2xhc3M9ImJ1dHRvbnMiPgogICAgICAgICAgPGVsLWJ1dHRvbiA6ZGlzYWJsZWQ9ImNvbmN1cnJlbnRMb2NrIiB0eXBlPSJ0ZXh0IiBzaXplPSJzbWFsbCIgQGNsaWNrPSJjYW5jZWxFZGl0SW5kdXN0cnkiPuWPlua2iDwvZWwtYnV0dG9uPgogICAgICAgICAgPGVsLWJ1dHRvbiA6ZGlzYWJsZWQ9ImNvbmN1cnJlbnRMb2NrIiB0eXBlPSJ0ZXh0IiBzaXplPSJzbWFsbCIgQGNsaWNrPSJjb25maXJtRWRpdEluZHVzdHJ5Ij7noa7orqQ8L2VsLWJ1dHRvbj4KICAgICAgICA8L2Rpdj4KCiAgICAgIDwvZGl2PgogICAgPC9lbC1kaWFsb2c+Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>apply</last-search>
+      <last-search>self</last-search>
       <last-offset />
-      <last-pattern>apply</last-pattern>
+      <last-pattern>self</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -816,6 +828,7 @@
         <entry>cancelRea</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry>apply</entry>
+        <entry>self</entry>
       </history-search>
       <history-cmd />
       <history-expr />
