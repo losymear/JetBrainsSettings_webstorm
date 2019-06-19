@@ -315,11 +315,11 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1560928801733">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1560930014340">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="16" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.ts" timestamp="1553840431308">
         <mark key="[" line="6" column="32" />
@@ -752,10 +752,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xzbTutor</text>
+        <text>获取行业列表，暂时不分页</text>
       </register>
       <register name="-" type="4">
-        <text>xzbTutor</text>
+        <text>获取行业列表，暂时不分页</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
@@ -764,31 +764,31 @@
         <text encoding="base64">aW1wb3J0IHsgdHV0b3JMaXN0LCBjaGFuZ2VTdGF0dXMgfSBmcm9tICdAL2FwaS94emJUdXRvcicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETzog5Zu+54mH5oKs5rWu5pS+5aSn57uE5Lu2Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHBhcmFtcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGlmdj48dGVzdD4gIDwvdGVzdD48L2RpZnY+Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtczogY2xlYXJQYXJhbXMocGFyYW1zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVE9ETzog5Zu+54mH5oKs5rWu5pS+5aSn57uE5Lu2Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgc2NvPgo=</text>
+        <text encoding="base64">ICA8ZGlmdj48dGVzdD4gIDwvdGVzdD48L2RpZnY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBsYWJlbD0i5Y2P6K6uUGRmIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9lbC1jb2xsYXBzZS1pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgc2NvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGVsLWNvbGxhcHNlLWl0ZW0gbGFiZWwtPgo=</text>
+        <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbiBsYWJlbD0i5Y2P6K6uUGRmIgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgPC9lbC1jb2xsYXBzZS1pdGVtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPGVsLWNvbGxhcHNlLWl0ZW0gbGFiZWwtPgo=</text>
       </register>
     </registers>
     <search>
