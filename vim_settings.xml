@@ -328,12 +328,12 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1561012838911">
-        <mark key="'" line="93" column="23" />
-        <mark key="[" line="109" column="25" />
-        <mark key="]" line="109" column="24" />
-        <mark key="." line="109" column="24" />
-        <mark key="^" line="109" column="24" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1561013797839">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="123" column="14" />
+        <mark key="]" line="118" column="14" />
+        <mark key="." line="118" column="14" />
+        <mark key="^" line="118" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.ts" timestamp="1553840431308">
         <mark key="[" line="6" column="32" />
@@ -366,12 +366,12 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1561012862640">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1561013513982">
         <mark key="'" line="25" column="43" />
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="33" />
-        <mark key="." line="36" column="33" />
-        <mark key="^" line="36" column="33" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/decoration.js" timestamp="1551788391221">
         <mark key="[" line="11" column="1" />
@@ -670,7 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" />
       <jump line="33" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" />
       <jump line="45" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" />
       <jump line="33" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/xzbTutor.js" />
@@ -770,10 +769,11 @@
       <jump line="7" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" />
       <jump line="17" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" />
       <jump line="25" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" />
+      <jump line="113" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ2luZHVzdHJ5QGRpcmVjdGlvbic6IGAke2luZHVzdHJ5fUAke2RpcmVjdGlvbn1gCg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="-" type="4">
         <text>list</text>
@@ -785,31 +785,31 @@
         <text encoding="base64">ICAgICAgaW5kdXN0cnk6IHRoaXMuJHJvdXRlLnF1ZXJ5LmluZHVzdHJ5LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ2luZHVzdHJ5QGRpcmVjdGlvbic6IGAke2luZHVzdHJ5fUAke2RpcmVjdGlvbn1gCg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldE91dGxpbmUodGhpcy4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldERpcmVjdGlvbkxpc3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwPnt7IEpTT04uc3RyaW5naWZ5KCRyb3V0ZS5xdWVyeSkgfX08L3A+Cg==</text>
+        <text encoding="base64">KiB0eXBlIDDlhoXlip8gIDHlpJblip8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">KiDooYzkuJrmlrnlkJHnmoTlhoXlip/lpKfnurIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgJ2luZHVzdHJ5QGRpcmVjdGlvbic6IGAke2luZHVzdHJ5fUAke2RpcmVjdGlvbn1gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocm93KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldE91dGxpbmUodGhpcy4pCg==</text>
       </register>
     </registers>
     <search>
