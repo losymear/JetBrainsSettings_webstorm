@@ -158,12 +158,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" timestamp="1561011954484">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" timestamp="1561015669222">
         <mark key="'" line="69" column="5" />
-        <mark key="[" line="118" column="1" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="118" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/Index.vue" timestamp="1559793563424">
         <mark key="[" line="4" column="26" />
@@ -328,12 +328,12 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1561013797839">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1561015415659">
         <mark key="'" line="113" column="0" />
-        <mark key="[" line="123" column="14" />
-        <mark key="]" line="118" column="14" />
-        <mark key="." line="118" column="14" />
-        <mark key="^" line="118" column="14" />
+        <mark key="[" line="122" column="6" />
+        <mark key="]" line="122" column="14" />
+        <mark key="." line="122" column="14" />
+        <mark key="^" line="122" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/html2pdf/router.ts" timestamp="1553840431308">
         <mark key="[" line="6" column="32" />
@@ -366,12 +366,12 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1561013513982">
-        <mark key="'" line="25" column="43" />
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1561015894395">
+        <mark key="'" line="44" column="43" />
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/decoration.js" timestamp="1551788391221">
         <mark key="[" line="11" column="1" />
@@ -772,44 +772,44 @@
       <jump line="113" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogCg==</text>
+      <register name="&quot;" type="4">
+        <text>复选框 C</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>复选框 C</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaW5kdXN0cnk6IHRoaXMuJHJvdXRlLnF1ZXJ5LmluZHVzdHJ5LAo=</text>
+        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgc2xvdC1zY29wZT0ic2NvcGUiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3t9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSzwvdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByb3A9ImNvdXJzZVRhcmdldCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KiB0eXBlIDDlhoXlip8gIDHlpJblip8K</text>
+        <text encoding="base64">ICAgICAgICAgIGtleT0iY291cnNlVGFyZ2V0Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiDooYzkuJrmlrnlkJHnmoTlhoXlip/lpKfnurIK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5lZGl0KCdbeyJjb2RlIjoiMDAxIiwiY291cnNlVGFyZ2V0Ijoi6KGM5Lia6K6k55+lIiwidHV0b3JUeXBlIjpbIuWGheWKnyJdLCJzdHVkZW50U3RhdHVzIjpbIuWHhuWkh+acnyJdLCJkZXNjcmlwdGlvbiI6Iui/meaYr+S4gOauteaPj+i/sOaWh+WtlyIsImRlbCI6MH1dJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ2luZHVzdHJ5QGRpcmVjdGlvbic6IGAke2luZHVzdHJ5fUAke2RpcmVjdGlvbn1gCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZWRpdCgnW3siY29kZSI6IjAwMSIsImNvdXJzZVRhcmdldCI6IuihjOS4muiupOefpSIsInR1dG9yVHlwZSI6WyLlhoXlip8iXSwic3R1ZGVudFN0YXR1cyI6WyLlh4blpIfmnJ8iXSwiZGVzY3JpcHRpb24iOiLov5nmmK/kuIDmrrXmj4/ov7DmloflrZciLCJkZWwiOjB9XScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldE91dGxpbmUodGhpcy4pCg==</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
     </registers>
     <search>
