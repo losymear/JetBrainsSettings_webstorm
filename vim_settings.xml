@@ -55,6 +55,9 @@
         <mark key="^" line="47" column="42" />
         <mark key="." line="47" column="42" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" timestamp="1560936431262">
+        <mark key="[" line="214" column="24" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/build/webpack.dev.conf.js" timestamp="1551785990672">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="42" column="27" />
@@ -226,6 +229,9 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/beargym/src/ran.html" timestamp="1561348366522">
+        <mark key="[" line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentHeader.vue" timestamp="1560428690317">
         <mark key="'" line="10" column="39" />
         <mark key="[" line="5" column="26" />
@@ -260,6 +266,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/beargym/safe.html" timestamp="1561347833932">
+        <mark key="[" line="88" column="111" />
+        <mark key="]" line="88" column="112" />
+        <mark key="." line="88" column="112" />
+        <mark key="^" line="88" column="113" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/package.json" timestamp="1560327622049">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="0" />
@@ -278,11 +290,11 @@
         <mark key="^" line="303" column="3" />
         <mark key="." line="303" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/beargym/ran.html" timestamp="1561345754547">
-        <mark key="[" line="80" column="23" />
-        <mark key="]" line="80" column="14" />
-        <mark key="^" line="80" column="14" />
-        <mark key="." line="80" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/beargym/ran.html" timestamp="1561347756449">
+        <mark key="[" line="96" column="39" />
+        <mark key="]" line="94" column="80" />
+        <mark key="^" line="94" column="80" />
+        <mark key="." line="94" column="80" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/home/HomeViewController.js" timestamp="1559632786589">
         <mark key="[" line="44" column="27" />
@@ -307,6 +319,12 @@
         <mark key="]" line="70" column="50" />
         <mark key="^" line="70" column="50" />
         <mark key="." line="70" column="50" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/beargym/package.json" timestamp="1561348085665">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbcorp/tmpBear/newV2.html" timestamp="1561029249087">
         <mark key="[" line="103" column="7" />
@@ -408,11 +426,11 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" timestamp="1561344611808">
-        <mark key="[" line="47" column="30" />
-        <mark key="]" line="38" column="9" />
-        <mark key="." line="38" column="9" />
-        <mark key="^" line="38" column="9" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" timestamp="1561348788907">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="26" />
+        <mark key="^" line="36" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/beargym/.gitignore" timestamp="1561345387453">
         <mark key="[" line="1" column="0" />
@@ -431,6 +449,12 @@
         <mark key="]" line="2" column="22" />
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/beargym/jianfeiyin2.html" timestamp="1561347373951">
+        <mark key="[" line="97" column="39" />
+        <mark key="]" line="97" column="38" />
+        <mark key="^" line="97" column="38" />
+        <mark key="." line="97" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/common/AppContainer/index.js" timestamp="1559652217481">
         <mark key="[" line="0" column="41" />
@@ -846,43 +870,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>images2/jianfei-2_01.jpg</text>
+        <text>top: 57.2%;right:59%;</text>
       </register>
       <register name="-" type="4">
-        <text>images2/jianfei-2_01.jpg</text>
+        <text>top: 57.2%;right:59%;</text>
       </register>
       <register name="/" type="4">
         <text>images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj5UT0RPOiDmnI3liqHkuK3nmoTlr7zluIjliJfooag8L2Rpdj4K</text>
+        <text encoding="base64">PCEtLTxkaXYgc3R5bGU9InBvc2l0aW9uOiByZWxhdGl2ZTsiPi0tPgogICAgPCEtLTxpbWFnZSBjbGFzcz0iY29weSIgZGF0YS1jbGlwYm9hcmQtdGV4dD0iMTgwNzI5MDkzMjIiIHNyYz0iaW1hZ2VzMi9qaWFuZmVpLTJfMDUuanBnIj48L2ltYWdlPi0tPgogICAgPCEtLTxpbWFnZSBjbGFzcz0iY29weS1idG4gY29weSIgZGF0YS1jbGlwYm9hcmQtdGV4dD0iMTgwNzI5MDkzMjIiIHNyYz0iaW1hZ2VzX3NhZmUvd2VjaGF0cmFuLmdpZiI+PC9pbWFnZT4tLT4KICAgIDwhLS08aW1hZ2UgY2xhc3M9ImNvcHktYnRuIGNvcHkiIGRhdGEtY2xpcGJvYXJkLXRleHQ9IjE4MDcyOTA5MzIyIiBzcmM9ImltYWdlc19zYWZlL3dlY2hhdHJhbi5naWYiIHN0eWxlPSJ0b3A6IDU3LjIlO3JpZ2h0OjU5JTsiPjwvaW1hZ2U+LS0+CjwhLS08L2Rpdj4tLT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1iCg==</text>
+        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3NhZmUvaW1hZ2VzL3NhZmUwNi5qcGciPjwvaW1hZ2U+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3NhZmUvaW1hZ2VzL3NhZmUwNi5qcGciPjwvaW1hZ2U+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3Jhbi9pbWFnZXMvcmFuMDUuanBnIj48L2ltYWdlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LnMgPSB0aGlzLmV2YWx1YXRpb24uc2lnbkZvcm0K</text>
+        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3Jhbi9pbWFnZXMvcmFuMDUuanBnIj48L2ltYWdlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5ldmFsdWF0aW9uLnNpZ25Gb3JtKQo=</text>
+        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3Jhbi9pbWFnZXMvcmFuMDYuanBnIj48L2ltYWdlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3Jhbi9pbWFnZXMvcmFuMDYuanBnIj48L2ltYWdlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIDxpbWFnZSBjbGFzcz0iY29weSIgZGF0YS1jbGlwYm9hcmQtdGV4dD0iMTgwNzI5MDkzMjIiIHNyYz0iaW1hZ2VzMi9qaWFuZmVpLTJfMDUuanBnIj48L2ltYWdlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">PGRpdiBzdHlsZT0icG9zaXRpb246IHJlbGF0aXZlOyI+CjxpbWFnZSBjbGFzcz0iY29weSIgZGF0YS1jbGlwYm9hcmQtdGV4dD0iMTgwNzI5MDkzMjIiIHNyYz0iaW1hZ2VzMi9qaWFuZmVpLTJfMDUuanBnIj48L2ltYWdlPgo8aW1hZ2UgY2xhc3M9ImNvcHktYnRuIGNvcHkiIGRhdGEtY2xpcGJvYXJkLXRleHQ9IjE4MDcyOTA5MzIyIiBzcmM9ImltYWdlcy93ZWNoYXQuZ2lmIj48L2ltYWdlPgo8aW1hZ2UgY2xhc3M9ImNvcHktYnRuIGNvcHkiIGRhdGEtY2xpcGJvYXJkLXRleHQ9IjE4MDcyOTA5MzIyIiBzcmM9ImltYWdlcy93ZWNoYXQuZ2lmIiBzdHlsZT0idG9wOiA1Ny4yJTtyaWdodDo1OSU7Ij48L2ltYWdlPgo8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzID0gJycK</text>
+        <text encoding="base64">PCEtLTxpbWFnZSBjbGFzcz0iZmxvYXRpbmciIG9uY2xpY2s9Il9NRUlRSUEoJ3Nob3dQYW5lbCcpOyIgc3JjPSJpbWFnZXNfcmFuL+aCrOa1rueqlzIucG5nIj48L2ltYWdlPi0tPgo=</text>
       </register>
     </registers>
     <search>
