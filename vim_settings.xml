@@ -415,19 +415,19 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1561171856713">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1561377691553">
         <mark key="'" line="245" column="0" />
-        <mark key="[" line="52" column="156" />
+        <mark key="[" line="7" column="15" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" timestamp="1561375475107">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" timestamp="1561378030641">
         <mark key="'" line="146" column="19" />
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="62" column="20" />
-        <mark key="." line="62" column="20" />
-        <mark key="^" line="62" column="20" />
+        <mark key="[" line="86" column="46" />
+        <mark key="]" line="86" column="45" />
+        <mark key="." line="86" column="45" />
+        <mark key="^" line="86" column="45" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/beargym/.gitignore" timestamp="1561345387453">
         <mark key="[" line="1" column="0" />
@@ -716,12 +716,12 @@
         <mark key="^" line="75" column="5" />
         <mark key="." line="75" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/Index.vue" timestamp="1561375485906">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/Index.vue" timestamp="1561377890485">
         <mark key="'" line="6" column="47" />
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBannerGroup.vue" timestamp="1551861892524">
         <mark key="[" line="8" column="34" />
@@ -859,43 +859,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>status</text>
+        <text>服务导师列表</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>服务导师列表</text>
       </register>
       <register name="/" type="4">
         <text>images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9ImJhY2tncm91bmQ6I2ZmZjtwYWRkaW5nLWxlZnQ6IDE1cHg7IHBhZGRpbmctcmlnaHQ6MTVweDsiPgo=</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2LWlmPSJmYWxzZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgICAgICAgIGxhYmVsPSLmk43kvZwiCiAgICAgICAgICAgICAgd2lkdGg9IjEwMCI+CiAgICAgICAgICAgICAgPHRlbXBsYXRlIHNsb3Qtc2NvcGU9InNjb3BlIj4KICAgICAgICAgICAgICAgIDxlbC1idXR0b24gOmRpc2FibGVkPSJjb25jdXJyZW50TG9jayIgdHlwZT0idGV4dCIgc2l6ZT0ic21hbGwiIEBjbGljaz0iZWRpdEl0ZW0oc2NvcGUuJGluZGV4LHNjb3BlLnJvdykiPue8lui+kTwvZWwtYnV0dG9uPgogICAgICAgICAgICAgICAgPGVsLWJ1dHRvbiA6ZGlzYWJsZWQ9ImNvbmN1cnJlbnRMb2NrIiB0eXBlPSJ0ZXh0IiBzaXplPSJzbWFsbCIgQGNsaWNrPSJkZWxldGVJdGVtKHNjb3BlLnJvdykiPuWIoOmZpDwvZWwtYnV0dG9uPgogICAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgICAgIDwvZWwtdGFibGUtY29sdW1uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0KSAK</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDEwcHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHt7IEpTT04uc3RyaW5naWZ5KGl0ZW0pIH19PC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvcD0ic3RhdHVzIgo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodD0iODAwIgo=</text>
+        <text encoding="base64">ICAgIDxkaXY+VE9ETzog5aSn57qy5YiX6KGoPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiDmnI3liqHkuK3nmoTlr7zluIjliJfooagK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
     </registers>
     <search>
