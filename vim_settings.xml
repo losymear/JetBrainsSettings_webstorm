@@ -180,12 +180,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" timestamp="1561106989114">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" timestamp="1561366079346">
         <mark key="'" line="69" column="5" />
-        <mark key="[" line="76" column="28" />
-        <mark key="]" line="76" column="27" />
-        <mark key="." line="76" column="27" />
-        <mark key="^" line="76" column="27" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="29" column="14" />
+        <mark key="^" line="29" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/Index.vue" timestamp="1559793563424">
         <mark key="[" line="4" column="26" />
@@ -426,11 +426,11 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" timestamp="1561363448761">
-        <mark key="[" line="42" column="9" />
-        <mark key="]" line="42" column="7" />
-        <mark key="." line="42" column="7" />
-        <mark key="^" line="42" column="7" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" timestamp="1561366305959">
+        <mark key="[" line="50" column="25" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="50" column="24" />
+        <mark key="^" line="50" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/beargym/.gitignore" timestamp="1561345387453">
         <mark key="[" line="1" column="0" />
@@ -620,12 +620,12 @@
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="67" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1561106980234">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1561365695305">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="395" column="14" />
-        <mark key="]" line="237" column="16" />
-        <mark key="." line="237" column="16" />
-        <mark key="^" line="237" column="16" />
+        <mark key="[" line="383" column="30" />
+        <mark key="]" line="383" column="29" />
+        <mark key="." line="383" column="29" />
+        <mark key="^" line="383" column="29" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1551856762327">
         <mark key="[" line="52" column="6" />
@@ -869,41 +869,41 @@
       <jump line="6" column="47" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/Index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodD0iODAwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>状态</text>
       </register>
       <register name="-" type="4">
-        <text>dataSource.content</text>
+        <text>状态</text>
       </register>
       <register name="/" type="4">
         <text>images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpbWFnZSBjbGFzcz0iY29weS1idG4gY29weSIgZGF0YS1jbGlwYm9hcmQtdGV4dD0iMTgwNzI5MDkzMjIiIHNyYz0iaW1hZ2VzL3dlY2hhdC5naWYiIHN0eWxlPSJ0b3A6IDU5LjIlO3JpZ2h0OjU5JTsiPjwvaW1hZ2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgc2xvdC1zY29wZT0ic2NvcGUiPgogICAgICAgICAge3sgcGFyc2VUaW1lKHNjb3BlLnJvdy5jcmVhdGVUaW1lKSB9fQogICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodD0iODAwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcD0ic3RhdHVzIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiDmnI3liqHkuK3nmoTlr7zluIjliJfooagK</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodD0iODAwIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxpbWFnZSBjbGFzcz0iY29weS1idG4gY29weSIgZGF0YS1jbGlwYm9hcmQtdGV4dD0iMTgwNzI5MDkzMjIiIHNyYz0iaW1hZ2VzL3dlY2hhdC5naWYiIHN0eWxlPSJ0b3A6IDU3LjIlO3JpZ2h0OjU5JTsiPjwvaW1hZ2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPOiDmnI3liqHkuK3nmoTlr7zluIjliJfooagK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3NhZmUvaW1hZ2VzL3NhZmUwNi5qcGciPjwvaW1hZ2U+Cg==</text>
+        <text encoding="base64">ICAgIDxpbWFnZSBjbGFzcz0iY29weS1idG4gY29weSIgZGF0YS1jbGlwYm9hcmQtdGV4dD0iMTgwNzI5MDkzMjIiIHNyYz0iaW1hZ2VzL3dlY2hhdC5naWYiIHN0eWxlPSJ0b3A6IDU3LjIlO3JpZ2h0OjU5JTsiPjwvaW1hZ2U+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3NhZmUvaW1hZ2VzL3NhZmUwNi5qcGciPjwvaW1hZ2U+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3Jhbi9pbWFnZXMvcmFuMDUuanBnIj48L2ltYWdlPgo=</text>
+        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3NhZmUvaW1hZ2VzL3NhZmUwNi5qcGciPjwvaW1hZ2U+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3Jhbi9pbWFnZXMvcmFuMDUuanBnIj48L2ltYWdlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3Jhbi9pbWFnZXMvcmFuMDYuanBnIj48L2ltYWdlPgo=</text>
+        <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3Jhbi9pbWFnZXMvcmFuMDUuanBnIj48L2ltYWdlPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">PGltYWdlIHNyYz0iaW1hZ2VzX3Jhbi9pbWFnZXMvcmFuMDYuanBnIj48L2ltYWdlPgo=</text>
