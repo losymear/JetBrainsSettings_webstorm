@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="EditTutorDirectionDialog" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
