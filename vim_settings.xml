@@ -200,12 +200,12 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" timestamp="1561457458102">
-        <mark key="'" line="65" column="82" />
-        <mark key="[" line="4" column="122" />
-        <mark key="]" line="4" column="121" />
-        <mark key="^" line="4" column="121" />
-        <mark key="." line="4" column="121" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" timestamp="1561460628634">
+        <mark key="'" line="86" column="9" />
+        <mark key="[" line="68" column="20" />
+        <mark key="]" line="68" column="19" />
+        <mark key="." line="68" column="19" />
+        <mark key="^" line="68" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" timestamp="1561434126472">
         <mark key="'" line="75" column="35" />
@@ -305,13 +305,11 @@
         <mark key="^" line="49" column="22" />
         <mark key="." line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/list/JieYeDialog.vue" timestamp="1561457171546">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/list/JieYeDialog.vue" timestamp="1561460050094">
         <mark key="t" line="36" column="62" />
-        <mark key="'" line="37" column="44" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="112" />
-        <mark key="." line="32" column="25" />
-        <mark key="^" line="32" column="25" />
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/index.js" timestamp="1561002010555">
         <mark key="[" line="24" column="13" />
@@ -649,12 +647,12 @@
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="67" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1561443446434">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1561461117368">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="385" column="26" />
-        <mark key="]" line="385" column="25" />
-        <mark key="." line="385" column="25" />
-        <mark key="^" line="385" column="25" />
+        <mark key="[" line="275" column="11" />
+        <mark key="]" line="399" column="6" />
+        <mark key="." line="399" column="6" />
+        <mark key="^" line="399" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/simulateJobClient.js" timestamp="1551856762327">
         <mark key="[" line="52" column="6" />
@@ -762,12 +760,12 @@
         <mark key="^" line="75" column="5" />
         <mark key="." line="75" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/ChangeTutorAvatarDialog.vue" timestamp="1561457395790">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="58" column="34" />
-        <mark key="]" line="58" column="33" />
-        <mark key="." line="58" column="33" />
-        <mark key="^" line="58" column="33" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/ChangeTutorAvatarDialog.vue" timestamp="1561461074211">
+        <mark key="'" line="27" column="20" />
+        <mark key="[" line="66" column="6" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/Index.vue" timestamp="1561377890485">
         <mark key="'" line="6" column="47" />
@@ -809,12 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
-      <jump line="75" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
-      <jump line="78" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
-      <jump line="39" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
-      <jump line="28" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/Index.vue" />
-      <jump line="18" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
       <jump line="11" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
       <jump line="61" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
       <jump line="207" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" />
@@ -909,46 +901,52 @@
       <jump line="11" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/ChangeTutorAvatarDialog.vue" />
       <jump line="14" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/ChangeTutorAvatarDialog.vue" />
       <jump line="65" column="82" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" />
+      <jump line="21" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/ChangeTutorAvatarDialog.vue" />
+      <jump line="64" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/list/JieYeDialog.vue" />
+      <jump line="28" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/ChangeTutorAvatarDialog.vue" />
+      <jump line="27" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/ChangeTutorAvatarDialog.vue" />
+      <jump line="70" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" />
+      <jump line="86" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdlbWl0JykK</text>
       </register>
       <register name="-" type="4">
-        <text>payload.offerImageUrl</text>
+        <text>cancelEditAvatar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGNhbmNlbEVkaXRBdmF0YXIoKSB7CiAgICAgIHRoaXMuZWRpdEF2YXRhckRpYWxvZ1Zpc2libGUgPSBmYWxzZQogICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdlbWl0JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDpkaXNhYmxlZD0iY29uY3VycmVuY3lMb2NrIgo=</text>
+        <text encoding="base64">ICAgICAgQHVwZGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC90ZW1wbGF0ZT4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCd1cGRhdGVQcm9maWxlJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuJGVtaXQoJ2ZpbmlzaEVkaXRBdmF0YXInKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZWRpdEluZm8gfSBmcm9tICdAL2FwaS94emJUdXRvcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVkaXREaXJlY3Rpb25UcmlnZ2VyOiB7CiAgICAgIHR5cGU6IE9iamVjdCwKICAgICAgZGVmYXVsdDogKCkgPT4gewogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY2hhbmdlU3RhdHVzIH0gZnJvbSAnQC9hcGkvYmFpZHVGdXd1Jwo=</text>
       </register>
     </registers>
     <search>
@@ -997,6 +995,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
