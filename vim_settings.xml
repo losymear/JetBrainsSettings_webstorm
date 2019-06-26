@@ -672,12 +672,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/EditTutorDirectionDialog.vue" timestamp="1561518810436">
-        <mark key="'" line="158" column="29" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="137" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/EditTutorDirectionDialog.vue" timestamp="1561519421696">
+        <mark key="'" line="144" column="29" />
+        <mark key="[" line="98" column="1" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/kua.js" timestamp="1552601417277">
         <mark key="[" line="15" column="0" />
@@ -909,8 +909,8 @@
       <jump line="86" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>add</text>
@@ -922,31 +922,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZTogZGlyZWN0aW9uLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGtleSwgZGF0YS5rZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMuZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGtleSwgZGF0YS5rZXkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtb3VudGVkKCkgewogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMuZGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldERpcmVjdGlvbk1hcCgpCiAgICAgIC50aGVuKHJlcyA9PiB7CiAgICAgICAgY29uc29sZS5sb2cocmVzLmRhdGEpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICBtb3VudGVkKCkgewogIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXREaXJlY3Rpb25NYXB9IGZyb20gJ0AvYXBpL2luZHVzdHJ5QW5kRGlyZWN0aW9uJwo=</text>
+        <text encoding="base64">ICAgIGdldERpcmVjdGlvbk1hcCgpCiAgICAgIC50aGVuKHJlcyA9PiB7CiAgICAgICAgY29uc29sZS5sb2cocmVzLmRhdGEpCiAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdlbWl0JykK</text>
+        <text encoding="base64">aW1wb3J0IHtnZXREaXJlY3Rpb25NYXB9IGZyb20gJ0AvYXBpL2luZHVzdHJ5QW5kRGlyZWN0aW9uJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQHVwZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdlbWl0JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgQHVwZGF0ZQo=</text>
       </register>
     </registers>
     <search>
