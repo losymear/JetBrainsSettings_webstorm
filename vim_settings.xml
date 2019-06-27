@@ -9,11 +9,11 @@
         <mark key="^" line="25" column="7" />
         <mark key="." line="25" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1561002015678">
-        <mark key="[" line="12" column="50" />
-        <mark key="]" line="12" column="49" />
-        <mark key="^" line="12" column="49" />
-        <mark key="." line="12" column="49" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1561609041001">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/xzb-app/src/modules/welcome/router.js" timestamp="1559632268842">
         <mark key="[" line="13" column="46" />
@@ -60,9 +60,6 @@
         <mark key="]" line="47" column="42" />
         <mark key="^" line="47" column="42" />
         <mark key="." line="47" column="42" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/BannerList.vue" timestamp="1560936431262">
-        <mark key="[" line="214" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/build/webpack.dev.conf.js" timestamp="1551785990672">
         <mark key="[" line="44" column="19" />
@@ -120,6 +117,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner_old_unresiable.vue" timestamp="1561608596961">
+        <mark key="[" line="91" column="64" />
+        <mark key="]" line="95" column="3" />
+        <mark key="^" line="95" column="3" />
+        <mark key="." line="95" column="3" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/AddOrEditOutlineItemDialog.vue" timestamp="1561532494421">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="48" />
@@ -147,9 +150,6 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/CePingBaoGao.vue" timestamp="1561451099844">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="79" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/zhixingdan/detail/AddDaShi.vue" timestamp="1561449676529">
-        <mark key="[" line="157" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/config/index.js" timestamp="1551785775730">
         <mark key="[" line="29" column="22" />
@@ -255,9 +255,6 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/beargym/src/ran.html" timestamp="1561348366522">
-        <mark key="[" line="119" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentHeader.vue" timestamp="1561375480863">
         <mark key="'" line="10" column="39" />
@@ -525,7 +522,7 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1561607005218">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/README.md" timestamp="1561608326214">
         <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1560932725946">
@@ -921,11 +918,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/node_modules/element-ui/packages/button/src/button.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGU9InRleHQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>blue</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
