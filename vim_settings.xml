@@ -30,12 +30,12 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" timestamp="1562665310485">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" timestamp="1562668269378">
         <mark key="'" line="132" column="21" />
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+        <mark key="[" line="92" column="11" />
+        <mark key="]" line="92" column="10" />
+        <mark key="." line="92" column="10" />
+        <mark key="^" line="92" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/list/Index.vue" timestamp="1561625106397">
         <mark key="'" line="231" column="0" />
@@ -334,7 +334,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxpbWcgOnNyYz0iZWRpdGVkRGlyZWN0aW9uLmltYWdlIiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyA6c3JjPSJlZGl0ZWREaXJlY3Rpb24uaW1hZ2UiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -346,31 +346,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGltZyA6c3JjPSJlZGl0ZWREaXJlY3Rpb24uaW1hZ2UiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpbWcgOnNyYz0iZWRpdGVkRGlyZWN0aW9uLmltYWdlIiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyA6c3JjPSJlZGl0ZWREaXJlY3Rpb24uaW1hZ2UiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbWcgOnNyYz0iZWRpdGVkRGlyZWN0aW9uLmltYWdlIiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiPgo=</text>
+        <text encoding="base64">ICAgIDxpbWcgOnNyYz0iZWRpdGVkRGlyZWN0aW9uLmltYWdlIiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbWcgOnNyYz0iZWRpdGVkSW5kdXN0cnkuaW1hZ2UiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgOnNyYz0iZWRpdGVkRGlyZWN0aW9uLmltYWdlIiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZWwtZm9ybS1pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgOnNyYz0iZWRpdGVkSW5kdXN0cnkuaW1hZ2UiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRzOiB7CiAgICBVcGxvYWRJbWFnZQogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZWwtZm9ybS1pdGVtPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFVwbG9hZEltYWdlIGZyb20gJ0Avdmlld3MvYmFpZHViYW9taW5nL2RlY29yYXRlYmFpZHUvZWRpdC9jb21tb24vVXBsb2FkSW1hZ2UnCg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRzOiB7CiAgICBVcGxvYWRJbWFnZQogIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFVwbG9hZEltYWdlIGZyb20gJ0Avdmlld3MvYmFpZHViYW9taW5nL2RlY29yYXRlYmFpZHUvZWRpdC9jb21tb24vVXBsb2FkSW1hZ2UnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgIHN0eWxlPSJjb2xvcjogIzY2NjZkNDt0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTtjdXJzb3I6IHBvaW50ZXI7IgogICAgICAgICAgICBAY2xpY2s9InZpZXdJbmR1c3RyeURldGFpbChzY29wZS5yb3cpIj57eyBzY29wZS5yb3cubmFtZSB9fTwvc3Bhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgIHN0eWxlPSJjb2xvcjogIzY2NjZkNDt0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTtjdXJzb3I6IHBvaW50ZXI7IgogICAgICAgICAgICBAY2xpY2s9InZpZXdJbmR1c3RyeURldGFpbChzY29wZS5yb3cpIj57eyBzY29wZS5yb3cubmFtZSB9fTwvc3Bhbj4K</text>
       </register>
     </registers>
     <search>
