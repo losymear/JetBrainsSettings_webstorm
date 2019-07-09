@@ -139,12 +139,12 @@
         <mark key="^" line="95" column="3" />
         <mark key="." line="95" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/AddOrEditOutlineItemDialog.vue" timestamp="1561618414956">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/AddOrEditOutlineItemDialog.vue" timestamp="1562670820525">
         <mark key="'" line="12" column="31" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="30" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="27" />
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="38" column="35" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="38" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1562654753576">
         <mark key="'" line="1" column="0" />
@@ -153,12 +153,12 @@
         <mark key="." line="173" column="32" />
         <mark key="^" line="173" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1561618507761">
-        <mark key="'" line="245" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="102" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1562671051419">
+        <mark key="'" line="255" column="0" />
+        <mark key="[" line="35" column="1" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" timestamp="1561634320249">
         <mark key="'" line="85" column="9" />
@@ -208,6 +208,10 @@
         <mark key="]" line="10" column="31" />
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/decoratebaidu/edit/FuWuJiaGe.vue" timestamp="1562670325684">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="48" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1561617862417">
         <mark key="[" line="57" column="18" />
@@ -334,43 +338,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGltZyA6c3JjPSJlZGl0ZWREaXJlY3Rpb24uaW1hZ2UiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>editedItem</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGltZyA6c3JjPSJlZGl0ZWREaXJlY3Rpb24uaW1hZ2UiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVsLWNoZWNrYm94LWdyb3VwIHYtbW9kZWw9ImVkaXRlZEl0ZW0udHV0b3JUeXBlIj4KICAgICAgICAgICAgICA8ZWwtY2hlY2tib3ggbGFiZWw9IuWGheWKnyIvPgogICAgICAgICAgICAgIDxlbC1jaGVja2JveCBsYWJlbD0i5aSW5YqfIi8+CiAgICAgICAgICAgICAgPGVsLWNoZWNrYm94IGxhYmVsPSLnnaPlr7wiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGltZyA6c3JjPSJlZGl0ZWREaXJlY3Rpb24uaW1hZ2UiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpbWcgOnNyYz0iZWRpdGVkRGlyZWN0aW9uLmltYWdlIiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbWcgOnNyYz0iZWRpdGVkRGlyZWN0aW9uLmltYWdlIiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbWcgOnNyYz0iZWRpdGVkSW5kdXN0cnkuaW1hZ2UiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZWwtZm9ybS1pdGVtPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRzOiB7CiAgICBVcGxvYWRJbWFnZQogIH0sCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFVwbG9hZEltYWdlIGZyb20gJ0Avdmlld3MvYmFpZHViYW9taW5nL2RlY29yYXRlYmFpZHUvZWRpdC9jb21tb24vVXBsb2FkSW1hZ2UnCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge3sgc2NvcGUucm93LmNvcmVDb3Vyc2U/J+aYryc6J+WQpicgfX0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwvZWwtZm9ybS1pdGVtPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGVsLWZvcm0taXRlbSBsYWJlbD0i5qC45b+D6K++56iLIiBsYWJlbC13aWR0aD0iMTQwcHgiIHByb3A9ImNvcmVDb3Vyc2UiPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge3sgc2NvcGUucm93LmNvcmVDb3Vyc2U/J+aYryc6J+WQpicgfX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9lbC1mb3JtLWl0ZW0+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZWwtcmFkaW8gOmxhYmVsPSI2Ij7lpIfpgInpobk8L2VsLXJhZGlvPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZWwtcmFkaW8gOmxhYmVsPSIzIj7lpIfpgInpobk8L2VsLXJhZGlvPgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgIHN0eWxlPSJjb2xvcjogIzY2NjZkNDt0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTtjdXJzb3I6IHBvaW50ZXI7IgogICAgICAgICAgICBAY2xpY2s9InZpZXdJbmR1c3RyeURldGFpbChzY29wZS5yb3cpIj57eyBzY29wZS5yb3cubmFtZSB9fTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVsLWNoZWNrYm94LWdyb3VwIHYtbW9kZWw9ImVkaXRlZEl0ZW0uY29yZUNvdXJzZSI+CiAgICAgICAgICAgICAgPGVsLWNoZWNrYm94IGxhYmVsPSIiLz4KICAgICAgICAgICAgPC9lbC1jaGVja2JveC1ncm91cD4K</text>
       </register>
     </registers>
     <search>
