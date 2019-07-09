@@ -44,6 +44,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" timestamp="1562655248475">
+        <mark key="[" line="92" column="10" />
+        <mark key="]" line="92" column="9" />
+        <mark key="^" line="92" column="9" />
+        <mark key="." line="92" column="9" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1561620505998">
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="26" />
@@ -127,9 +133,6 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/node_modules/element-ui/packages/button/src/button.vue" timestamp="1561547514969">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/modules/industryAndOutline.js" timestamp="1561001095002">
         <mark key="'" line="0" column="22" />
         <mark key="[" line="0" column="0" />
@@ -150,12 +153,12 @@
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1562653458725">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1562654753576">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="23" column="96" />
-        <mark key="]" line="23" column="65" />
-        <mark key="." line="23" column="65" />
-        <mark key="^" line="23" column="65" />
+        <mark key="[" line="173" column="33" />
+        <mark key="]" line="173" column="32" />
+        <mark key="." line="173" column="32" />
+        <mark key="^" line="173" column="32" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1561618507761">
         <mark key="'" line="245" column="0" />
@@ -192,10 +195,10 @@
         <mark key="." line="23" column="10" />
         <mark key="^" line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/ChangeTutorAvatarDialog.vue" timestamp="1561518227684">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/ChangeTutorAvatarDialog.vue" timestamp="1562655240647">
         <mark key="'" line="27" column="20" />
         <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
+        <mark key="]" line="39" column="84" />
         <mark key="^" line="39" column="22" />
         <mark key="." line="39" column="0" />
       </file>
@@ -340,8 +343,8 @@
       <jump line="19" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/EditTutorDirectionDialog.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>审核中</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFVwbG9hZEltYWdlIGZyb20gJ0Avdmlld3MvYmFpZHViYW9taW5nL2RlY29yYXRlYmFpZHUvZWRpdC9jb21tb24vVXBsb2FkSW1hZ2UnCg==</text>
       </register>
       <register name="-" type="4">
         <text>审核中</text>
@@ -350,7 +353,7 @@
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYmFpZHVGdXd1TGlzdCB9IGZyb20gJ0AvYXBpL2JhaWR1RnV3dScK</text>
+        <text encoding="base64">aW1wb3J0IFVwbG9hZEltYWdlIGZyb20gJ0Avdmlld3MvYmFpZHViYW9taW5nL2RlY29yYXRlYmFpZHUvZWRpdC9jb21tb24vVXBsb2FkSW1hZ2UnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLy8g5a6h5qC45LitIOW+heWujOWWhCDlt7LlrqHmoLgg5b6F5a6h5qC4IOacquWhq+WGmei1hOaWmQo=</text>
