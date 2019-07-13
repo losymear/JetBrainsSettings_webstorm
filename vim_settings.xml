@@ -78,12 +78,12 @@
         <mark key="^" line="306" column="5" />
         <mark key="." line="306" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/EditTutorDirectionDialog.vue" timestamp="1562925687343">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/EditTutorDirectionDialog.vue" timestamp="1563020560737">
         <mark key="'" line="19" column="23" />
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="7" column="19" />
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="31" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1562925538069">
         <mark key="[" line="18" column="35" />
@@ -186,6 +186,12 @@
         <mark key="]" line="3" column="5" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1563021602319">
+        <mark key="[" line="173" column="13" />
+        <mark key="]" line="173" column="12" />
+        <mark key="^" line="173" column="12" />
+        <mark key="." line="173" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" timestamp="1561634320249">
         <mark key="'" line="85" column="9" />
@@ -378,8 +384,8 @@
       <jump line="43" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRlbDAsIGRlbDEpCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -388,16 +394,16 @@
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09QWSBzcmMgL2hvbWUK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRlbDAsIGRlbDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDTUQgWyJqYXZhIiAsIi1YbXgzMDAwbSIsIi1zZXJ2ZXIiLCAiLURsb2c0ai5jb25maWd1cmF0aW9uRmlsZT1jbGFzc3BhdGg6bG9nNGoyLnlhbWwiLCAgIi1qYXIiLCAicXVtaWFuc2hpLTAuMC4xLVNOQVBTSE9ULmphciJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDTUQgWyJqYXZhIiAsIi1YbXgzMDAwbSIsIi1zZXJ2ZXIiLCAiLURsb2c0ai5jb25maWd1cmF0aW9uRmlsZT1jbGFzc3BhdGg6bG9nNGoyLnlhbWwiLCAgIi1qYXIiLCAicXVtaWFuc2hpLTAuMC4xLVNOQVBTSE9ULmphciJdCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -415,7 +421,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q09QWSByZXF1aXJlbWVudHMudHh0IC9ob21lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
