@@ -249,12 +249,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/app.js" timestamp="1562998640801">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/app.js" timestamp="1562999423214">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="24" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+        <mark key="." line="17" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -360,11 +360,11 @@
       <jump line="6" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gd2luZG93LmV2YWwoYHdpbmRvdy55dW54aW5Mb2dpbigiZmFrZSIsICJmMDAzODJmNWUzMmQzMDg0YWZlZmNkNDllZjM0ZTFjYiIsICJwcm9kIilgKTsK</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
