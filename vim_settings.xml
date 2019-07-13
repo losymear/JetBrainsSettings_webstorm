@@ -123,12 +123,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" timestamp="1563001642667">
-        <mark key="'" line="8" column="30" />
-        <mark key="[" line="86" column="47" />
-        <mark key="]" line="87" column="38" />
-        <mark key="." line="87" column="38" />
-        <mark key="^" line="87" column="38" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" timestamp="1563007207266">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="47" column="43" />
+        <mark key="]" line="47" column="43" />
+        <mark key="." line="47" column="43" />
+        <mark key="^" line="47" column="43" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner_old_unresiable.vue" timestamp="1561608596961">
         <mark key="[" line="91" column="64" />
@@ -147,12 +147,12 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="73" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/template/yunxin.html" timestamp="1563001542338">
-        <mark key="'" line="120" column="45" />
-        <mark key="[" line="120" column="33" />
-        <mark key="]" line="120" column="36" />
-        <mark key="^" line="120" column="36" />
-        <mark key="." line="120" column="36" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/template/yunxin.html" timestamp="1563007274723">
+        <mark key="'" line="124" column="45" />
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/template/js/addFileList.js" timestamp="1562996483721">
         <mark key="[" line="30" column="24" />
@@ -196,6 +196,13 @@
         <mark key="]" line="20" column="18" />
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/finalHtmlTemplate.js" timestamp="1563006307014">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="4" column="82" />
+        <mark key="]" line="6" column="115" />
+        <mark key="." line="6" column="115" />
+        <mark key="^" line="6" column="115" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/baiduFuwu.js" timestamp="1561625103345">
         <mark key="'" line="41" column="2" />
@@ -249,25 +256,15 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/app.js" timestamp="1563001168585">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="23" column="15" />
-        <mark key="." line="23" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/app.js" timestamp="1563005744568">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" />
-      <jump line="25" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" />
-      <jump line="208" column="57" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" />
-      <jump line="233" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" />
-      <jump line="13" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/router.js" />
-      <jump line="6" column="47" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/Index.vue" />
-      <jump line="36" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" />
-      <jump line="146" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" />
-      <jump line="15" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
-      <jump line="63" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" />
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
       <jump line="2" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" />
       <jump line="75" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" />
@@ -358,46 +355,56 @@
       <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
       <jump line="120" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/template/yunxin.html" />
       <jump line="8" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
+      <jump line="33" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
+      <jump line="4" column="141" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/finalHtmlTemplate.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/finalHtmlTemplate.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
+      <jump line="18" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
+      <jump line="61" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
+      <jump line="133" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
+      <jump line="128" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>uploaddone</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgdXJsX3N0cmluZyA9IGxvY2F0aW9uLmhyZWY7CiAgICAgICAgdmFyIHVybCA9IG5ldyBVUkwodXJsX3N0cmluZyk7CiAgICAgICAgdmFyIGFjY2lkID0gdXJsLnNlYXJjaFBhcmFtcy5nZXQoImFjY2lkIik7CiAgICAgICAgdmFyIHRva2VuID0gdXJsLnNlYXJjaFBhcmFtcy5nZXQoInRva2VuIik7CiAgICAgICAgdmFyIGVudiA9IHVybC5zZWFyY2hQYXJhbXMuZ2V0KCJlbnYiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>uploaddone</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygidXBsb2FkZG9uZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuZXZhbChgd2luZG93Lnl1bnhpbkxvZ2luKCIyOWUyMjQzMzBmMmQ0NGZkYmE3NjdiZWY0M2QwZmE4OCIsICJmMDAzODJmNWUzMmQzMDg0YWZlZmNkNDllZjM0ZTFjYiIsICJwcm9kIilgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cueXVueGluVXBsb2FkRXJyb3IgPSBlcnJvcjsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdXJsX3N0cmluZyA9IGxvY2F0aW9uLmhyZWY7CiAgICAgICAgdmFyIHVybCA9IG5ldyBVUkwodXJsX3N0cmluZyk7CiAgICAgICAgdmFyIGFjY2lkID0gdXJsLnNlYXJjaFBhcmFtcy5nZXQoImFjY2lkIik7CiAgICAgICAgdmFyIHRva2VuID0gdXJsLnNlYXJjaFBhcmFtcy5nZXQoInRva2VuIik7CiAgICAgICAgdmFyIGVudiA9IHVybC5zZWFyY2hQYXJhbXMuZ2V0KCJlbnYiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cueXVueGluVXBsb2FkUmVzID0gcmVzOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPOiDkuovku7YK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CgogICAgICAgIH0gZmluYWxseSB7CgoKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cub25GaWxlVXBsb2FkZWQobnVsbCwgZXJyb3IsIHJlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2VuZCBmaWxlIGRvbmUnLCBlcnJvciwgcmVzKTsK</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2VuZCBmaWxlIGRvbmUnLCBlcnJvciwgcmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnMudW5saW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZmlsZUlucHV0TmFtZSB0eXBlJywgZmlsZUlucHV0TmFtZSwgdHJhbnN0eXBlKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYmVnaW51cGxvYWQnLCBkYXRhLm9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VwbG9hZCAnLCB0YXJnZXQuZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
