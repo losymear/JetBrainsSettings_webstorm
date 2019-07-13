@@ -44,11 +44,6 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/NewJob.vue" timestamp="1561620505998">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="26" />
-        <mark key="." line="174" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/ChangeTutorDialog.vue" timestamp="1561628174219">
         <mark key="'" line="69" column="84" />
         <mark key="[" line="69" column="58" />
@@ -128,6 +123,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" timestamp="1562987444038">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner_old_unresiable.vue" timestamp="1561608596961">
         <mark key="[" line="91" column="64" />
         <mark key="]" line="95" column="3" />
@@ -141,6 +143,9 @@
         <mark key="^" line="38" column="35" />
         <mark key="." line="38" column="35" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/template/yunxin.html" timestamp="1562987147981">
+        <mark key="[" line="85" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1562654753576">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="173" column="33" />
@@ -148,11 +153,14 @@
         <mark key="." line="173" column="32" />
         <mark key="^" line="173" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1562925632146">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/service/mockDom.js" timestamp="1562986806083">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/.gitignore" timestamp="1562986826589">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/baidujihua/Index.vue" timestamp="1561634320249">
         <mark key="'" line="85" column="9" />
@@ -229,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/AddOrEditOutlineItemDialog.vue" />
       <jump line="22" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/AddOrEditOutlineItemDialog.vue" />
       <jump line="63" column="80" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" />
       <jump line="30" column="41" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" />
@@ -329,13 +336,14 @@
       <jump line="19" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/EditTutorDirectionDialog.vue" />
       <jump line="91" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" />
       <jump line="133" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" />
+      <jump line="6" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lZGl0KEpTT04uc3RyaW5naWZ5KHRoaXMub3V0bGluZURldGFpbHMpKQo=</text>
+        <text encoding="base64">ZG9tLndpbmRvdy5yYW4gPT09IDM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>编号与已有条目重复！</text>
+        <text>readAsText</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
@@ -344,31 +352,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5lZGl0KEpTT04uc3RyaW5naWZ5KHRoaXMub3V0bGluZURldGFpbHMuc29ydCgoeCwgeSkgPT4geC5jb2RlIC0geS5jb2RlKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lZGl0KEpTT04uc3RyaW5naWZ5KHRoaXMub3V0bGluZURldGFpbHMpKQo=</text>
+        <text encoding="base64">ZG9tLndpbmRvdy5yYW4gPT09IDM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IoJ+WGsueqgeS6hicpCg==</text>
+        <text encoding="base64">Y29uc3QgcmVzdCA9IHdpbmRvdy5ldmFsKCJjb25zb2xlLmxvZyhhYmMpIik7CmNvbnNvbGUubG9nKHJlc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coeXVueGluSHRtbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgc2NvcGUucm93LmNvcmVDb3Vyc2U/J+aYryc6J+WQpicgfX0K</text>
+        <text encoding="base64">PC9ib2R5PmApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZWwtZm9ybS1pdGVtPgo=</text>
+        <text encoding="base64">ICA8c2NyaXB0PmRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiaHIiKSk7PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGVsLWZvcm0taXRlbSBsYWJlbD0i5qC45b+D6K++56iLIiBsYWJlbC13aWR0aD0iMTQwcHgiIHByb3A9ImNvcmVDb3Vyc2UiPgo=</text>
+        <text encoding="base64">Y29uc3QgZG9tID0gbmV3IEpTRE9NKGA8Ym9keT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgc2NvcGUucm93LmNvcmVDb3Vyc2U/J+aYryc6J+WQpicgfX0K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5lZGl0KEpTT04uc3RyaW5naWZ5KHRoaXMub3V0bGluZURldGFpbHMpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9lbC1mb3JtLWl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IoJ+WGsueqgeS6hicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZWwtcmFkaW8gOmxhYmVsPSI2Ij7lpIfpgInpobk8L2VsLXJhZGlvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
