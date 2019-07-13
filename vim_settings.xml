@@ -95,7 +95,7 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/buildImage.sh" timestamp="1563008094433">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/buildImage.sh" timestamp="1563008962927">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -378,11 +378,11 @@
       <jump line="43" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>app.py</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
