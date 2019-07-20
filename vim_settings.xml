@@ -120,13 +120,7 @@
         <mark key="." line="2" column="66" />
         <mark key="^" line="2" column="66" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/AddTutorDialog.vue" timestamp="1560414899192">
-        <mark key="'" line="32" column="47" />
-        <mark key="[" line="131" column="24" />
-        <mark key="]" line="131" column="24" />
-        <mark key="." line="131" column="24" />
-        <mark key="^" line="131" column="32" />
-      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/AddTutorDialog.vue" timestamp="1563606741916" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/Index.vue" timestamp="1563599378180">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -183,12 +177,12 @@
         <mark key="^" line="73" column="1" />
         <mark key="." line="73" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1563179488011">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/list/Index.vue" timestamp="1563606435621">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="168" column="39" />
-        <mark key="]" line="168" column="38" />
-        <mark key="^" line="168" column="38" />
-        <mark key="." line="168" column="38" />
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+        <mark key="." line="38" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/WeekTime.vue" timestamp="1563598492579">
         <mark key="[" line="1" column="15" />
@@ -223,12 +217,12 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/xzbTutor.js" timestamp="1563179454750">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/xzbTutor.js" timestamp="1563606496949">
         <mark key="'" line="28" column="4" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+        <mark key="[" line="68" column="14" />
+        <mark key="]" line="68" column="13" />
+        <mark key="^" line="68" column="13" />
+        <mark key="." line="68" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/router.js" timestamp="1560408088835">
         <mark key="'" line="30" column="0" />
@@ -407,17 +401,17 @@
       <jump line="49" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/ChannelSummary.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3QK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFdlZWtUaW1lIGZyb20gJ0Avdmlld3MvYmFpZHViYW9taW5nL3N0YXRpc3RpY3MvYXZlcmFnZS9XZWVrVGltZScK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiBbCiAgICAgICAgICB7IHJlcXVpcmVkOiBmYWxzZSwgbWVzc2FnZTogJ+ivt+Whq+WGmeWQjeWtlycsIHRyaWdnZXI6ICdjaGFuZ2UnIH0KICAgICAgICBdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRlc3QK</text>
