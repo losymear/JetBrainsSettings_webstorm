@@ -10,6 +10,12 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/Week.vue" timestamp="1563598570651">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="71" column="58" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/studentManage/Index.vue" timestamp="1561446131689">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="205" column="0" />
@@ -56,6 +62,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/ChannelSummary.vue" timestamp="1563599373326">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1561461117368">
         <mark key="'" line="0" column="0" />
@@ -115,6 +127,11 @@
         <mark key="." line="131" column="24" />
         <mark key="^" line="131" column="32" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/Index.vue" timestamp="1563599378180">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbcorp/tmpBear/jianfeiyin2.html" timestamp="1561030209924">
         <mark key="'" line="85" column="19" />
         <mark key="[" line="85" column="50" />
@@ -172,6 +189,12 @@
         <mark key="]" line="168" column="38" />
         <mark key="^" line="168" column="38" />
         <mark key="." line="168" column="38" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/WeekTime.vue" timestamp="1563598492579">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/Dockerfile" timestamp="1563008255007">
         <mark key="[" line="5" column="0" />
@@ -282,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
       <jump line="2" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" />
       <jump line="75" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" />
       <jump line="174" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
@@ -382,46 +404,47 @@
       <jump line="133" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
       <jump line="128" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
       <jump line="43" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
+      <jump line="49" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/ChannelSummary.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGlkIOiusOW9lWlkCg==</text>
+        <text encoding="base64">ICAgIHRlc3QK</text>
       </register>
       <register name="-" type="4">
-        <text>edit</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRlbDAsIGRlbDEpCg==</text>
+        <text encoding="base64">aW1wb3J0IFdlZWtUaW1lIGZyb20gJ0Avdmlld3MvYmFpZHViYW9taW5nL3N0YXRpc3RpY3MvYXZlcmFnZS9XZWVrVGltZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGlkIOiusOW9lWlkCg==</text>
+        <text encoding="base64">ICAgIHRlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHBheWxvYWQK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICog54q25oCBc3RhdHVz5pyJICDlvoXlrozlloQg5bey5a6h5qC4IOW+heWuoeaguCDmnKrloavlhpnotYTmlpkK</text>
+        <text encoding="base64">ICAgICAgICBrZXkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICDlj5bmtojnpoHnlKgK</text>
+        <text encoding="base64">ICAgICAgICA6a2V5PSJpbmRleCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKQo=</text>
+        <text encoding="base64">ICAgICAgICB2LWZvcj0iKHZhbHVlLGluZGV4KSBvZiBzT3JkZXIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDTUQgWyJqYXZhIiAsIi1YbXgzMDAwbSIsIi1zZXJ2ZXIiLCAiLURsb2c0ai5jb25maWd1cmF0aW9uRmlsZT1jbGFzc3BhdGg6bG9nNGoyLnlhbWwiLCAgIi1qYXIiLCAicXVtaWFuc2hpLTAuMC4xLVNOQVBTSE9ULmphciJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuKHJlc3VsdCA9PiB7CiAgICAgICAgICBpZiAocmVzdWx0LmVyckNvZGUgPT09IDApIHsKICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICBoZWFkZXJUaXRsZTogZGF0ZVN0ciwKICAgICAgICAgICAgICAuLi5tYXBUaW1lUmVzdWx0RGF0YVRvU3RyaW5nKE9iamVjdC52YWx1ZXMocmVzdWx0LmRhdGEpWzBdKQogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgIGhlYWRlclRpdGxlOiBkYXRlU3RyCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9KQogICAgICB9KSkudGhlbihyZXN1bHRzID0+IHsKICAgICAgICB0aGlzLmRhdGFTb3VyY2UgPSByZXN1bHRzCiAgICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZTogZGF0ZVN0cgo=</text>
       </register>
     </registers>
     <search>
