@@ -63,11 +63,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/ChannelSummary.vue" timestamp="1563599373326">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/ChannelSummary.vue" timestamp="1564560107903">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/router/index.js" timestamp="1561461117368">
         <mark key="'" line="0" column="0" />
@@ -139,6 +139,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="22" />
       </file>
+      <file name="/Dummy.txt" timestamp="1564560368421">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" timestamp="1563007207266">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="47" column="43" />
@@ -208,6 +211,13 @@
         <mark key="]" line="173" column="12" />
         <mark key="^" line="173" column="12" />
         <mark key="." line="173" column="12" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/zhixingdan/list/Index.vue" timestamp="1564560096411">
+        <mark key="'" line="316" column="38" />
+        <mark key="[" line="76" column="19" />
+        <mark key="]" line="316" column="38" />
+        <mark key="^" line="316" column="38" />
+        <mark key="." line="316" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/xzbTutor.js" timestamp="1563606496949">
         <mark key="'" line="28" column="4" />
@@ -291,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" />
       <jump line="75" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/detail/Index.vue" />
       <jump line="174" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/list/Index.vue" />
       <jump line="20" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/EditTutorDirectionDialog.vue" />
@@ -391,13 +400,14 @@
       <jump line="128" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
       <jump line="43" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/mockDom.js" />
       <jump line="49" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/ChannelSummary.vue" />
+      <jump line="316" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/zhixingdan/list/Index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0RGlyZWN0aW9uRGlhbG9nVmlzaWJsZVw+</text>
@@ -406,31 +416,31 @@
         <text encoding="base64">ICAgICAgICBuYW1lOiBbCiAgICAgICAgICB7IHJlcXVpcmVkOiBmYWxzZSwgbWVzc2FnZTogJ+ivt+Whq+WGmeWQjeWtlycsIHRyaWdnZXI6ICdjaGFuZ2UnIH0KICAgICAgICBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICBwcm9wPSJrZXkiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1lbHNlIHN0eWxlPSJjb2xvcjpmb3Jlc3RncmVlbiI+5bey562+57qmPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkK</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1pZj0ic2NvcGUucm93LnNpZ25lZCE9PTEiIHN0eWxlPSJjb2xvcjogcmVkOyI+5pyq562+57qmPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6a2V5PSJpbmRleCIK</text>
+        <text encoding="base64">ICAgIHRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2LWZvcj0iKHZhbHVlLGluZGV4KSBvZiBzT3JkZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
+        <text encoding="base64">ICAgICAgICBrZXkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuKHJlc3VsdCA9PiB7CiAgICAgICAgICBpZiAocmVzdWx0LmVyckNvZGUgPT09IDApIHsKICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICBoZWFkZXJUaXRsZTogZGF0ZVN0ciwKICAgICAgICAgICAgICAuLi5tYXBUaW1lUmVzdWx0RGF0YVRvU3RyaW5nKE9iamVjdC52YWx1ZXMocmVzdWx0LmRhdGEpWzBdKQogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgIGhlYWRlclRpdGxlOiBkYXRlU3RyCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9KQogICAgICB9KSkudGhlbihyZXN1bHRzID0+IHsKICAgICAgICB0aGlzLmRhdGFTb3VyY2UgPSByZXN1bHRzCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICA6a2V5PSJpbmRleCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2LWZvcj0iKHZhbHVlLGluZGV4KSBvZiBzT3JkZXIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZTogZGF0ZVN0cgo=</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
       </register>
     </registers>
     <search>
