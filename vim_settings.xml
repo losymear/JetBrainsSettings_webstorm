@@ -85,8 +85,11 @@
         <mark key="^" line="173" column="12" />
         <mark key="." line="173" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/haitouwang/index.js" timestamp="1564725496250">
-        <mark key="[" line="3" column="58" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/haitouwang/index.js" timestamp="1564725899148">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="83" />
+        <mark key="^" line="6" column="83" />
+        <mark key="." line="6" column="83" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/finalHtmlTemplate.js" timestamp="1563006307014">
         <mark key="'" line="2" column="0" />
@@ -285,6 +288,12 @@
         <mark key="^" line="59" column="3" />
         <mark key="." line="59" column="3" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/puppeteer-extra/packages/puppeteer-extra-plugin-flash/readme.md" timestamp="1564725766018">
+        <mark key="[" line="32" column="56" />
+        <mark key="]" line="32" column="55" />
+        <mark key="^" line="32" column="55" />
+        <mark key="." line="32" column="55" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/Index.vue" timestamp="1561625378521">
         <mark key="'" line="6" column="47" />
         <mark key="[" line="10" column="99" />
@@ -411,7 +420,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMzApCg==</text>
+        <text encoding="base64">cHVwcGV0ZWVyLnNldEV4dHJhKHthbGxvd0ZsYXNoOiB0cnVlfSkK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -423,31 +432,31 @@
         <text encoding="base64">ICAgICAgICBuYW1lOiBbCiAgICAgICAgICB7IHJlcXVpcmVkOiBmYWxzZSwgbWVzc2FnZTogJ+ivt+Whq+WGmeWQjeWtlycsIHRyaWdnZXI6ICdjaGFuZ2UnIH0KICAgICAgICBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMzApCg==</text>
+        <text encoding="base64">cHVwcGV0ZWVyLnNldEV4dHJhKHthbGxvd0ZsYXNoOiB0cnVlfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBhZ2Uuc2NyZWVuc2hvdCh7J3BhdGgnOiAnZXhhbXBsZS5wbmcnfSkK</text>
+        <text encoding="base64">ICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMzApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wPSJrZXkiCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHBhZ2Uuc2NyZWVuc2hvdCh7J3BhdGgnOiAnZXhhbXBsZS5wbmcnfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1lbHNlIHN0eWxlPSJjb2xvcjpmb3Jlc3RncmVlbiI+5bey562+57qmPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wPSJrZXkiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1pZj0ic2NvcGUucm93LnNpZ25lZCE9PTEiIHN0eWxlPSJjb2xvcjogcmVkOyI+5pyq562+57qmPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1lbHNlIHN0eWxlPSJjb2xvcjpmb3Jlc3RncmVlbiI+5bey562+57qmPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1pZj0ic2NvcGUucm93LnNpZ25lZCE9PTEiIHN0eWxlPSJjb2xvcjogcmVkOyI+5pyq562+57qmPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpCg==</text>
+        <text encoding="base64">ICAgIHRlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6a2V5PSJpbmRleCIK</text>
+        <text encoding="base64">ICAgICAgICBrZXkK</text>
       </register>
     </registers>
     <search>
