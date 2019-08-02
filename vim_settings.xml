@@ -3,6 +3,125 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1561611816828">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/haitouwang/node_modules/puppeteer-extra/index.js" timestamp="1564725682922">
+        <mark key="[" line="220" column="13" />
+        <mark key="]" line="220" column="12" />
+        <mark key="^" line="220" column="12" />
+        <mark key="." line="220" column="12" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/imagelib/index.vue" timestamp="1562660533163">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" timestamp="1560425704228">
+        <mark key="'" line="89" column="23" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="306" column="5" />
+        <mark key="^" line="306" column="5" />
+        <mark key="." line="306" column="5" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1562925538069">
+        <mark key="[" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/buildImage.sh" timestamp="1563009840314">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="75" />
+        <mark key="^" line="4" column="75" />
+        <mark key="." line="4" column="75" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/modules/industryAndOutline.js" timestamp="1561001095002">
+        <mark key="'" line="0" column="22" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner_old_unresiable.vue" timestamp="1561608596961">
+        <mark key="[" line="91" column="64" />
+        <mark key="]" line="95" column="3" />
+        <mark key="^" line="95" column="3" />
+        <mark key="." line="95" column="3" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/AddOrEditOutlineItemDialog.vue" timestamp="1562670820525">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="38" column="35" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="38" column="35" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/template/yunxin.html" timestamp="1563007274723">
+        <mark key="'" line="124" column="45" />
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/service/mockDom.js" timestamp="1562986806083">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/.gitignore" timestamp="1562998741099">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/haitouwang/demo.py" timestamp="1564721846214">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1563021602319">
+        <mark key="[" line="173" column="13" />
+        <mark key="]" line="173" column="12" />
+        <mark key="^" line="173" column="12" />
+        <mark key="." line="173" column="12" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/haitouwang/index.js" timestamp="1564725496250">
+        <mark key="[" line="3" column="58" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/finalHtmlTemplate.js" timestamp="1563006307014">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="4" column="82" />
+        <mark key="]" line="6" column="115" />
+        <mark key="." line="6" column="115" />
+        <mark key="^" line="6" column="115" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/baiduFuwu.js" timestamp="1561625103345">
+        <mark key="'" line="41" column="2" />
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="^" line="23" column="10" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/AddOne.vue" timestamp="1561432793023">
+        <mark key="'" line="66" column="31" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="80" />
+        <mark key="^" line="66" column="35" />
+        <mark key="." line="66" column="35" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1561617862417">
+        <mark key="[" line="57" column="18" />
+        <mark key="]" line="49" column="19" />
+        <mark key="^" line="49" column="19" />
+        <mark key="." line="49" column="19" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentDetail.vue" timestamp="1561173469179">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/cepingxiangqing/Index.vue" timestamp="1560938161442">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="88" column="0" />
@@ -22,12 +141,6 @@
         <mark key="]" line="205" column="0" />
         <mark key="^" line="111" column="29" />
         <mark key="." line="205" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner.vue" timestamp="1561611816828">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/TutorDetailInfo.vue" timestamp="1562584324771">
         <mark key="'" line="87" column="9" />
@@ -57,12 +170,6 @@
         <mark key="^" line="162" column="19" />
         <mark key="." line="162" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/imagelib/index.vue" timestamp="1562660533163">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/statistics/average/ChannelSummary.vue" timestamp="1564560107903">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="36" />
@@ -83,13 +190,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/privateSea/Index.vue" timestamp="1560425704228">
-        <mark key="'" line="89" column="23" />
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="306" column="5" />
-        <mark key="^" line="306" column="5" />
-        <mark key="." line="306" column="5" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/EditTutorDirectionDialog.vue" timestamp="1563178496460">
         <mark key="'" line="19" column="23" />
         <mark key="[" line="11" column="8" />
@@ -97,21 +197,12 @@
         <mark key="." line="11" column="7" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/industryAndDirection.js" timestamp="1562925538069">
-        <mark key="[" line="18" column="35" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentHeader.vue" timestamp="1561375480863">
         <mark key="'" line="10" column="39" />
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="26" />
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/buildImage.sh" timestamp="1563009840314">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="4" column="75" />
-        <mark key="^" line="4" column="75" />
-        <mark key="." line="4" column="75" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/Index.vue" timestamp="1561433865721">
         <mark key="'" line="21" column="6" />
@@ -132,13 +223,6 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/store/modules/industryAndOutline.js" timestamp="1561001095002">
-        <mark key="'" line="0" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="22" />
-      </file>
       <file name="/Dummy.txt" timestamp="1564560368421">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,30 +232,6 @@
         <mark key="]" line="47" column="43" />
         <mark key="." line="47" column="43" />
         <mark key="^" line="47" column="43" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/banner/NewBanner_old_unresiable.vue" timestamp="1561608596961">
-        <mark key="[" line="91" column="64" />
-        <mark key="]" line="95" column="3" />
-        <mark key="^" line="95" column="3" />
-        <mark key="." line="95" column="3" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/AddOrEditOutlineItemDialog.vue" timestamp="1562670820525">
-        <mark key="'" line="12" column="31" />
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="38" column="35" />
-        <mark key="^" line="38" column="35" />
-        <mark key="." line="38" column="35" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/addFileList.js" timestamp="1562998589562">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="73" column="1" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/template/yunxin.html" timestamp="1563007274723">
-        <mark key="'" line="124" column="45" />
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/template/js/addFileList.js" timestamp="1562996483721">
         <mark key="[" line="30" column="24" />
@@ -197,27 +257,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/service/mockDom.js" timestamp="1562986806083">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/.gitignore" timestamp="1562998741099">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/haitouwang/demo.py" timestamp="1564721846214">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/industry/outline/Index.vue" timestamp="1563021602319">
-        <mark key="[" line="173" column="13" />
-        <mark key="]" line="173" column="12" />
-        <mark key="^" line="173" column="12" />
-        <mark key="." line="173" column="12" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/pcqy/zhixingdan/list/Index.vue" timestamp="1564560096411">
         <mark key="'" line="316" column="38" />
         <mark key="[" line="76" column="19" />
@@ -239,33 +278,12 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/service/finalHtmlTemplate.js" timestamp="1563006307014">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="4" column="82" />
-        <mark key="]" line="6" column="115" />
-        <mark key="." line="6" column="115" />
-        <mark key="^" line="6" column="115" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/api/baiduFuwu.js" timestamp="1561625103345">
-        <mark key="'" line="41" column="2" />
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
-        <mark key="^" line="23" column="10" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/tutor/detail/ChangeTutorAvatarDialog.vue" timestamp="1562661224866">
         <mark key="'" line="27" column="20" />
         <mark key="[" line="59" column="4" />
         <mark key="]" line="59" column="3" />
         <mark key="^" line="59" column="3" />
         <mark key="." line="59" column="3" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/list/AddOne.vue" timestamp="1561432793023">
-        <mark key="'" line="66" column="31" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="80" />
-        <mark key="^" line="66" column="35" />
-        <mark key="." line="66" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/Index.vue" timestamp="1561625378521">
         <mark key="'" line="6" column="47" />
@@ -274,29 +292,12 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidubaoming/decoratebaidu/edit/FuWuJiaGe.vue" timestamp="1562670325684">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="48" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/simulateJob/InterviewerApply.vue" timestamp="1561617862417">
-        <mark key="[" line="57" column="18" />
-        <mark key="]" line="49" column="19" />
-        <mark key="^" line="49" column="19" />
-        <mark key="." line="49" column="19" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/router.js" timestamp="1561110751434">
         <mark key="'" line="13" column="4" />
         <mark key="[" line="66" column="86" />
         <mark key="]" line="66" column="85" />
         <mark key="^" line="66" column="85" />
         <mark key="." line="66" column="85" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/operator_fe/src/views/baidufuwu/student/detail/BaiduServiceStudentDetail.vue" timestamp="1561173469179">
-        <mark key="'" line="12" column="32" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode-jsdom/src/app.js" timestamp="1563005744568">
         <mark key="'" line="8" column="0" />
